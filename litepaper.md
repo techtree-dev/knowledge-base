@@ -242,15 +242,15 @@ The communities can be created around (1) individual users (2) companies (3) gro
 At the same time, we want to create our platform to reward:
 
 * Creators for their contributions to the platform
-* Developers for the attention they give (Developers are `Viewers`)
-* Developers & `Creators` who share the platform with friends and help grow it and build its presence (are behaving as `Sharers`).
+* Developers for the attention they give (Developers are Viewers)
+* Developers & Creators who share the platform with friends and help grow it and build its presence (are behaving as Sharers).
 
 We believe that social media platforms are successful primarily because of their users. What "makes" them is the community created by the people using the platform, not the functional utility of the platform itself. And therefore we are sharing most of the value that is created on the platform with our users - in an as transparent and fair way as possible.
 
 ### Getting TTT (TechTree Token)
 
 * Tokens will be initially listed on AMM decentralized exchanges like Uniswap and Fiat to Crypto on-ramps like Ramp Network
-* You will earn TTT by being paid for your attention (being a `Viewer`) - reading an article, watching a video, attending an event
+* You will earn TTT by being paid for your attention (being a Viewer) - reading an article, watching a video, attending an event
 * All users will receive a small sign-up bonus for completing their profile
 * Actions such as promoting TechTree via social media channels etc. will also be remunerated with the token
   * Every month part of the community pool would be shared between people depending on how successful they were in bringing new users to the site in a given period of time
@@ -261,11 +261,11 @@ We believe that social media platforms are successful primarily because of their
 
 TechTree will maintain a community pool of TTT that will be used to:
 
-* Pay users for their attention (`Viewer` role)
-* Reward `Creators` for attracting attention
+* Pay users for their attention (Viewer role)
+* Reward Creators for attracting attention
 * Reward users for setting up their accounts
 
-The community pool will be continually topped up with the unfulfilled portions of bounty payments - see `Value Sharing & Bounty mechanics` below.
+The community pool will be continually topped up with the unfulfilled portions of bounty payments - see Value Sharing & Bounty mechanics below.
 
 ### How is TTT priced
 
@@ -277,27 +277,27 @@ The Token itself will have natural deflationary characteristics baked in. For ev
 
 **Companies**
 
-* Can add `Bounties` to [jobs they post](https://www.figma.com/file/O4On0uHSGlRW0XqX8XmZdD/Renown-Crypto?node-id=20%3A2721)
+* Can add Bounties to [jobs they post](https://www.figma.com/file/O4On0uHSGlRW0XqX8XmZdD/Renown-Crypto?node-id=20%3A2721)
 * Can put out content requests (an article / an event) with an attached bounty
 * Can pay to sponsor an event
 * Can pay to promote content or jobs
 * Can pay to become a patron of a community
 * Can put a bounty out for a speaker for an event they're planning
 
-**Developers (see `what are creator coins useful below`)**
+**Developers (see what are creator coins useful below)**
 
-* Can `money share` articles videos, podcasts or events they like in exchange for `creator coins`
-* Can `money like`, articles, videos, podcasts or events they like in exchange for `creator coins`
+* Can money share articles videos, podcasts or events they like in exchange for creator coins
+* Can money like, articles, videos, podcasts or events they like in exchange for creator coins
 * Can pay to promote content they're written or created
-* To pay for access or retain access to a community they're a part of in exchange for that community's `creator coin`
-* To remain connected to a peer on the site after a certain amount of time in exchange for a portion of the other `creator's coin`
-* To invest in a `creator's coin` because you respect their work and want to share more heavily in any value created by that creator on TechTree (you're investing in them)
+* To pay for access or retain access to a community they're a part of in exchange for that community's creator coin
+* To remain connected to a peer on the site after a certain amount of time in exchange for a portion of the other creator's coin
+* To invest in a creator's coin because you respect their work and want to share more heavily in any value created by that creator on TechTree (you're investing in them)
 
 ## What are Creator Coins?
 
 ### All users have a Coin
 
-All users will have their own `creator coin` by default. All organizations will also have their own token but this will be managed by TechTree as part of a custodial arrangement for the organisation or community.
+All users will have their own creator coin by default. All organizations will also have their own token but this will be managed by TechTree as part of a custodial arrangement for the organisation or community.
 
 As the Custodian TechTree will be three of five signatures of multi-sig wallets that we setup on behalf of communities and companies. In order for funds to be withdrawn/moved we'll require at least 2 signatures on a given transaction are from TechTree and one is from the entity with whom we have a custodial arrangement.
 
