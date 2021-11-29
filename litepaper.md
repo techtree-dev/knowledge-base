@@ -220,6 +220,15 @@ TechTree believes that every user can have three roles in our social marketplace
 
 #### Key platform features
 
+| Name                                                 | Notes                                                                                                                                                                                                                                                                  |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Personal tracked links (referrals, sharing)          | Every user can share links, which are enabling them to earn money and build a "forever audience"                                                                                                                                                                       |
+| Content publishing for Creators (text, video, audio) | TechTree will enable users to publish all formats of content from one profile. It will also include life events                                                                                                                                                        |
+| Following & connected status (double follow)         | To avoid spam, TechTree will enable a double follow system similar to Twitter to enable DMs between users                                                                                                                                                              |
+| Online events - both video and voice-only            | The content is by default recorded and published on the platform. The content is by default recorded and published on the platform                                                                                                                                     |
+| Personal profiles                                    | Every TechTree user will be able to create their personal profile as well as a "splash page" showing their work and interest.                                                                                                                                          |
+| Community pages                                      | Every entity on TechTree - individual person, group of people or an organization (and group of organizations like a VC) will be able to create a community page to gather followers and interact with them via different forms of content as well as share incentives. |
+
 ## Detailed Technical Plan and statement of work
 
 ### How TechTree Token (TTT) works
