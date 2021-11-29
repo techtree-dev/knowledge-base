@@ -319,7 +319,7 @@ Creator coins are sold according to a bonding curve. So, if a user holds X creat
 
 **Money follows**
 
-In order to follow certain users and subscribe to their feed and specific content, users might have to `money follow` a user which requires them to stake a certain amount of TTT in that `creators' coin` contract.
+In order to follow certain users and subscribe to their feed and specific content, users might have to money follow a user which requires them to stake a certain amount of TTT in that creators' coin contract.
 
 * Money follows would be a fixed price in USD so as not to fluctuate with the TT price
 * This amount to follow a person could be set by the user
@@ -330,7 +330,7 @@ Certain pieces of content could be placed behind `creator coin` paywalls whereby
 
 **Meaningful relationships**
 
-Rather than having 10K+ connections (aka LinkedIn) we want TechTree to be a place where people's listed connections and their true ones. Therefore, we're considering a mechanism where in order to persist a connection after say 6 mths a user would be required to stake a certain amount of the other users' `creator coin`.
+Rather than having 10K+ connections (aka LinkedIn) we want TechTree to be a place where people's listed connections and their true ones. Therefore, we're considering a mechanism where in order to persist a connection after say 6 mths a user would be required to stake a certain amount of the other users' creator coin.
 
 **True membership**
 
@@ -355,11 +355,17 @@ Users can cash out their creator tokens by selling them against TTT, which will 
 
 Whenever a user sells a creator token, the amount of TTT he gets back is a function of the share of creator tokens he owns. The greater the share, the more TTT he will get back. Therefore, if a creator is successful, its token yields more revenue/fees, and therefore the amount of TTT a user can redeem from the creator token will go up.
 
-***
+#### Bonding curve\*
 
-[Bonding curve\*](https://www.notion.so/d2e867b22d0948f5bd8d3cd991872ea3)
+| Creator coins in circulation | Creator coin price (USD) | USD locked in profile |
+| ---------------------------- | ------------------------ | --------------------- |
+| 10                           | 0.75                     | 2.50                  |
+| 50                           | 18.75                    | 312.50                |
+| 100                          | 75.00                    | 2500.00               |
+| 500                          | 1875.00                  | 312500.00             |
+| 1000                         | 7500.00                  | 2500000.00            |
 
-\*based on `TechTree Token` price of **$2.50**
+\*based on TechTree Token price of **$2.50**
 
 ### Founder's Fee
 
