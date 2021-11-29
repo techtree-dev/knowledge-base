@@ -373,9 +373,22 @@ Any transactions to buy creator coins will see 10% of the newly minted creator c
 
 ## Value Sharing & Bounty mechanics
 
-[Roles](https://www.notion.so/adcc102a6b9645e5b8c3b4a13060dd63)
+### Roles
 
-[How value is shared](https://www.notion.so/b3e088d51b574d5eafcccfc9e651aa87)
+| User role | Short term value                                                                                                              | Long term value                                                                                                                                                                                                                                                 |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Creator   | Creator coin income from money shares, money likes and payout events (like a hiring event) that are linked to that creator    | Building value in their creator coin, owning more TTT and benefitting from price rises relating to TTT and also increased voting power over our governance contract through staked TTT (which is automatically the case when locked in a creator coin contract) |
+| Sharer    | Creator linked payout events having money shared or money liked some content                                                  | As above                                                                                                                                                                                                                                                        |
+| Consumer  | Rewarded with TTT from our community pool for giving their attention (reading articles, attending events and watching videos) | Rewarded for learning and participation - not treated like a commodity. Highly likely to become a marketer over time.                                                                                                                                           |
+
+### How value is shared
+
+| Name      | Description                                                                                                                                       | Revenue share                            |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| Applicant | Person who has applied for the job                                                                                                                | Full bounty💰                            |
+| Referrer  | You have nominated someone you know for the role                                                                                                  | You split the bounty with your friend 💰 |
+| Sharer    | You have shared a something that has indirectly lead to a hire                                                                                    | 10% of bounty on role 💸                 |
+| Creator   | You have created something that has resulted in a hire (for example, someone reading your content saw a job they liked, applied and got the role) | 50% of bounty on role 💸                 |
 
 ### Real Life examples
 
