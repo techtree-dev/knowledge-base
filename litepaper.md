@@ -198,7 +198,7 @@ What TechTree believes is a fair value share?
 
 TechTree believes that every user can have three roles in our social marketplace - each of them creating a different value - both short term and long term:
 
-[Value Creation Roles](https://www.notion.so/24e74b2fd2244c599d5b09afc4ac4899)
+#### Value Creation Roles
 
 | User role | Short term value                                                                                                     | Long term value                                                                                                                                                                                                    |
 | --------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -208,11 +208,17 @@ TechTree believes that every user can have three roles in our social marketplace
 
 ### How legacy companies work
 
-[Platforms](https://www.notion.so/f42e79f8c429478ca80daeb3d8138b0c)
+#### Platforms
+
+|          | What they sell                                                                                                                                                                   | Who creates it                                                                                                                               | Revenue model                                                                                                                                                  |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| LinkedIn | <ul><li>Database of people (recruitment)</li><li>Attention of users (advertising)</li><li>Access to other users (premium profiles)</li></ul>                                     | <p>Users:</p><ul><li>By setting up profiles</li><li>By spending time on the platform</li><li>By publishing on the platform</li></ul>         | Subscription & advertising                                                                                                                                     |
+| YouTube  | <ul><li>Attention of users (advertising)</li><li>Enterprise version - access to users with content</li></ul>                                                                     | <p>Users:</p><ul><li>By creating &#x26; uploading content</li><li>By spending time on the platform and engaging with the content</li></ul>   | <p></p><p>Subscription</p><ul><li>From users for not having to watch ads</li><li>From enterprise for hosting and promoting content</li></ul><p>Advertising</p> |
+| Facebook | <ul><li>Attention of users (advertising)</li><li>Enterprise tools benefiting that are attractive thanks to the strong user base already on the platform (subscription)</li></ul> | <p> Users: </p><ul><li>By creating &#x26; uploading content</li><li>By spending time on the platform and engaging with the content</li></ul> | <p></p><p>Subscription</p><ul><li>Tools for enterprise clients </li></ul><p>Advertising</p>                                                                    |
 
 ### How TechTree works
 
-[Key platform features](https://www.notion.so/2c75e32d36f54c5993d5ed863fcfea8b)
+#### Key platform features
 
 ## Detailed Technical Plan and statement of work
 
