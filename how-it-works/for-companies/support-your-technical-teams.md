@@ -1,2 +1,0 @@
-# Support your technical teams
-
