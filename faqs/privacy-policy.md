@@ -9,7 +9,6 @@ Topics:
 * What data do we collect?
 * How do we collect your data?
 * How will we use your data?
-* How do we store your data?
 * Marketing
 * What are your data protection rights?
 * What are cookies?
@@ -52,23 +51,13 @@ TechTree collects your data so that we can:
 * Make it easier for you to share your information with companies and communities.
 * Email you with content and community information we think you might like.
 
-_If you agree, TechTree will share your data with our partner companies so that they may offer you their products and services._
-
-* _\[List organisations that will receive data]_
-
-#### **How do we store your data?**
-
-TechTree securely stores your data at _\[enter the location and describe security precautions taken]_.
-
-_TechTree will keep your \[enter type of data] for \[enter time period]. Once this time period has expired, we will delete your data by \[enter how you delete users’ data]._
-
 #### **Marketing**
 
 If you have agreed to receive marketing, you may always opt out at a later date.
 
 You have the right at any time to stop TechTree from contacting you for marketing purposes.
 
-If you no longer wish to be contacted for marketing purposes, **please click here**.
+If you no longer wish to be contacted for marketing purposes, **please contact us via info@techtree.dev.**
 
 #### **What are your data protection rights?**
 
@@ -86,9 +75,9 @@ TechTree would like to make sure you are fully aware of all of your data protect
 
 **The right to data portability** – You have the right to request that TechTree transfer the data that we have collected to another organisation, or directly to you, under certain conditions.
 
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email:
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email info@techtree.dev
 
-#### **Cookies**
+**Cookies**
 
 Cookies are text files placed on your computer to collect standard Internet log information and visitor behavior information. When you visit our websites, we may collect information from you automatically through cookies or similar technology
 
@@ -118,8 +107,8 @@ The TechTree website contains links to other websites. Our privacy policy applie
 
 #### **Changes to our privacy policy**
 
-TechTree keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on **18th November 2021**
+TechTree keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on **29th November 2021**
 
 #### **How to contact us**
 
-If you have any questions about TechTree’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, **please do not hesitate to contact us**.
+If you have any questions about TechTree’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, **please do not hesitate to contact us via info@techtree.dev**
