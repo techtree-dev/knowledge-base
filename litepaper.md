@@ -394,7 +394,7 @@ Any transactions to buy creator coins will see 10% of the newly minted creator c
 
 #### Hiring event
 
-[https://www.figma.com/embed?embed\_host=notion\&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FO4On0uHSGlRW0XqX8XmZdD%2FCrypto%3Fnode-id%3D20%3A2721](https://www.figma.com/embed?embed\_host=notion\&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FO4On0uHSGlRW0XqX8XmZdD%2FCrypto%3Fnode-id%3D20%253A2721)
+![](<.gitbook/assets/image (3).png>)
 
 _Bounty is posted by a company_
 
@@ -408,12 +408,12 @@ _Hire is confirmed_
 
 The company confirms the hire and the $16k is distributed as follows:
 
-* $10k for `Referrer` (no referrer so $10k goes to community pool)
+* $10k for Referrer (no referrer so $10k goes to community pool)
 * $6k for affiliates
-  * $1k of TTT is used to buy Bob's `creator coin` as he is the sharer of Carol
-  * $5k of TTT is used to buy Alice's `creator coin` and is distributed as follows:
-    * 10% founders fee on $4k would go to the `creator coin` founder (Alice in this case) (£500 of their `creator coin`)
-    * 90% of the $5k (eg $4.5k) would be distributed to the holders of Alice's `creator coin` in proportion to how much they already hold.
+  * $1k of TTT is used to buy Bob's creator coin as he is the sharer of Carol
+  * $5k of TTT is used to buy Alice's creator coin and is distributed as follows:
+    * 10% founders fee on $4k would go to the creator coin founder (Alice in this case) (£500 of their creator coin)
+    * 90% of the $5k (eg $4.5k) would be distributed to the holders of Alice's creator coin in proportion to how much they already hold.
 
 **Scenario B**
 
@@ -429,15 +429,15 @@ _Hire is confirmed_
 
 The company confirms the hire and the $16k is distributed as follows:
 
-* $5k for the `Referrer` (in this case Bob)
-* $5k for the `Applicant` (in this case Carol)
+* $5k for the Referrer (in this case Bob)
+* $5k for the Applicant (in this case Carol)
 * $6k for affiliates:
-  * $1k of TTT is used to buy Bob's `creator coin` as he is the `Sharer` of Carol
+  * $1k of TTT is used to buy Bob's creator coin as he is the Sharer of Carol
   * $5k of TTT goes to TechTree's community pool as there's no Creator linked to the application
 
 #### Premium content
 
-Alice creates a private group that requires attendees to buy a certain amount of Alice creator coin to participate and sets the bar at `0.1 Alice coins`.
+Alice creates a private group that requires attendees to buy a certain amount of Alice creator coin to participate and sets the bar at 0.1 Alice coins.
 
 Bob buys 0.1 Alice coins in exchange for TTT being locked in the Alice coin contract.
 
@@ -447,13 +447,13 @@ Bob visits the group on TechTree and is granted access.
 
 A company pays a patronage bounty raised by a community (CodeFirstGirls) for $30k for a 1 year patronage arrangement.
 
-Alice and Bob both own CodeFirstGirl's `creator coin`. Alice, Bob and all other holders of CodeFirstGirl `creator coin` receive a share of the $30k patronage fee in proportion to their current holding of CodeFirstGirl `creator coin`.
+Alice and Bob both own CodeFirstGirl's `creator coin`. Alice, Bob and all other holders of CodeFirstGirl creator coin receive a share of the $30k patronage fee in proportion to their current holding of CodeFirstGirl creator coin.
 
 #### Watching an event
 
-Bob tunes into to an `Open Source your Knowledge - Dev Talk` being run by Hopin's engineering team on TechTree.
+Bob tunes into to an Open Source your Knowledge - Dev Talk being run by Hopin's engineering team on TechTree.
 
-Bob is online and active for the majority of the event so a `Viewer` event is triggered and Bob receives the system-set amount of Hopin's `creator coin` in return for attending the majority of the event.
+Bob is online and active for the majority of the event so a Viewer event is triggered and Bob receives the system-set amount of Hopin's creator coin in return for attending the majority of the event.
 
 ## Section 6: Budget and costs
 
