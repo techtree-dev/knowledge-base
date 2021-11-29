@@ -301,21 +301,21 @@ All users will have their own creator coin by default. All organizations will al
 
 As the Custodian TechTree will be three of five signatures of multi-sig wallets that we setup on behalf of communities and companies. In order for funds to be withdrawn/moved we'll require at least 2 signatures on a given transaction are from TechTree and one is from the entity with whom we have a custodial arrangement.
 
-[https://www.figma.com/embed?embed\_host=notion\&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FO4On0uHSGlRW0XqX8XmZdD%2FCrypto%3Fnode-id%3D16%3A58](https://www.figma.com/embed?embed\_host=notion\&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FO4On0uHSGlRW0XqX8XmZdD%2FCrypto%3Fnode-id%3D16%253A58)
+![](.gitbook/assets/image.png)
 
 ### What Are Creator Coins Useful For?
 
-**`Money Likes` / `Money Shares`**
+**Money Likes / Money Shares**
 
-As listed above, Developers can back the creators they respect by `money sharing` and `money liking` their content. The money part is where the Developer buys some of their `creator coin` (akin to an investment) that will earn them the right to share in revenues that are linked to that creator's content.
+As listed above, Developers can back the creators they respect by money sharing and money liking their content. The money part is where the Developer buys some of their creator coin (akin to an investment) that will earn them the right to share in revenues that are linked to that creator's content.
 
-The minimum price of a money share is consistent between creators. However, the number of `creator coins` you would receive for the money share or money like would fluctuate depending on how valuable the `creator's coin` is at the time. However, we would allow users to increase the amount they pay for a money share if they'd like to own more of that creator that is available per the minimum money share amount.
+The minimum price of a money share is consistent between creators. However, the number of creator coins you would receive for the money share or money like would fluctuate depending on how valuable the creator's coin is at the time. However, we would allow users to increase the amount they pay for a money share if they'd like to own more of that creator that is available per the minimum money share amount.
 
 Creator coins are sold according to a bonding curve. So, if a user holds X creator coins they can return those coins to the creator contract where they'll be removed from the supply and in return will receive the appropriate amount of TTT that is now released by the creator coin contract according to a bonding curve.
 
-[https://www.figma.com/embed?embed\_host=notion\&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FO4On0uHSGlRW0XqX8XmZdD%2FCrypto%3Fnode-id%3D18%3A2093](https://www.figma.com/embed?embed\_host=notion\&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FO4On0uHSGlRW0XqX8XmZdD%2FCrypto%3Fnode-id%3D18%253A2093)
+![](<.gitbook/assets/image (1).png>)
 
-[https://www.figma.com/embed?embed\_host=notion\&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FO4On0uHSGlRW0XqX8XmZdD%2FCrypto%3Fnode-id%3D18%3A1523](https://www.figma.com/embed?embed\_host=notion\&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FO4On0uHSGlRW0XqX8XmZdD%2FCrypto%3Fnode-id%3D18%253A1523)
+![](<.gitbook/assets/image (2).png>)
 
 **Money follows**
 
