@@ -1,2 +1,0 @@
-# Content creation tips
-

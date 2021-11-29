@@ -21,7 +21,7 @@ Sharer - The person who shares a tracked link inviting people to TechTree
 
 The Referrer can use the sliders to determine how much of the Bounty goes to themselves, the Applicant and/or a charity if won.
 
-**Referrer + Applicant + Sharer **
+**Referrer + Applicant + Sharer**&#x20;
 
 1. The Sharer posts a tracked link on social media that invites users to TechTree.
 2. The Referrer uses the link the Sharer posts when creating their account. They then take a look at open roles on TechTree.

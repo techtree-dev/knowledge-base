@@ -2,7 +2,7 @@
 
 * [What is TechTree](README.md)
 * [Vision and Philosophy](vision-and-philosophy.md)
-* [Whitepaper](whitepaper.md)
+* [Litepaper](litepaper.md)
 
 ## 🥳 Getting started
 
@@ -13,19 +13,10 @@
 
 ## 🤓 How it works
 
-* [For Developers](how-it-works/for-developers.md)
-* [For Creators](how-it-works/for-creators/README.md)
-  * [Publish content](how-it-works/for-creators/publish-content.md)
-  * [Collaboration on TechTree](how-it-works/for-creators/collaboration-on-techtree.md)
-  * [Building an audience](how-it-works/for-creators/building-an-audience.md)
-  * [Content creation tips](how-it-works/for-creators/content-creation-tips/README.md)
-    * [Time saving tips for creating content](how-it-works/for-creators/content-creation-tips/time-saving-tips-for-creating-content.md)
-* [For Community Leaders](how-it-works/for-community-leaders/README.md)
-  * [Find contributors](how-it-works/for-community-leaders/find-contributors.md)
-  * [Host events](how-it-works/for-community-leaders/host-events.md)
-  * [Support your community](how-it-works/for-community-leaders/support-your-community.md)
-  * [Connect with companies](how-it-works/for-community-leaders/connect-with-companies.md)
-* [For Companies](how-it-works/for-companies.md)
+* [For Developers](how-it-works/for-developers/README.md)
+* [For Creators](how-it-works/for-creators.md)
+* [For Community Leaders](how-it-works/for-community-leaders.md)
+* [For Companies](how-it-works/for-companies/README.md)
 
 ## 💡 FAQs
 

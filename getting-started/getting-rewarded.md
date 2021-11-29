@@ -15,7 +15,7 @@ By sharing your knowledge on TechTree, you'll become a pioneer of the open-sourc
     Start building the home for your 'not code' portfolio by sharing links to resources that are important to you, for example your blog on [medium.com](http://medium.com), your top StackOverflow question, your personal website, and more.
 
     Once your account is setup we can make sure that referral links you create are credited to you.
-2.  **Join the **[**Contributor Airtable**](https://airtable.com/shribrqEDr8IKEvX2)
+2.  **Join the** [**Contributor Airtable**](https://airtable.com/shribrqEDr8IKEvX2)
 
     Register your interest in creating content. It doesn't matter if you've never created content before or if you don't yet have a fully fleshed out idea. We'll be there to support and help you share your knowledge in an impactful way. In the coming months, we'll be setting up an online community where you'll be able to ask for help and get feedback from other devs.
 3.  **Create and share content**
