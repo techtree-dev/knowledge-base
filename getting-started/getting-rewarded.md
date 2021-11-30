@@ -50,4 +50,4 @@ Knowledge sharing shouldn't be a burden, it should be uplifting!
 
 #### Avg. fee for referral = $10k
 
-### [Want to press Press Start? Register you interest on the Contributor Airtable!](https://airtable.com/shribrqEDr8IKEvX2)
+### [Want to press start? Register your interest on the Contributor Airtable!](https://airtable.com/shribrqEDr8IKEvX2)
