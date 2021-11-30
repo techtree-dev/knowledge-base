@@ -8,7 +8,7 @@ TechTree makes it easier with companies sharing their latest projects, updates a
 
 ### Be a pioneer of open source knowledge&#x20;
 
-If you're working on technical problems, you have a wealth of knowledge that others will want to hear about. You may have just spend hours working on a project before coming up with a solution, and by sharing that solution on Techtree, you could be saving others developers similar hours (possibly even days!)
+If you're working on technical problems, you have a wealth of knowledge that others will want to hear about. You may have just spent hours working on a project before coming up with a solution, and by sharing that solution on Techtree you could be saving others developers similar hours (possibly even days!)
 
 Whether you're an old-hand at creating content or it's something you've never even thought to do, TechTree will support you on your journey to being an open-source knowledge pioneer.
 
