@@ -1,5 +1,7 @@
 # How Bounties work
 
+### **Looking for info on how to get involved in Bounties? Check out the** [**Getting rewarded**](../getting-rewarded.md) **page!**
+
 ### **Learn the lingo**
 
 #### **Referrer**
