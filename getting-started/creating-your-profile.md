@@ -21,3 +21,5 @@ Sign up to TechTree and start by making your profile your own. Add the links tha
 #### By taking the time out to tell us more information about you, you’re helping us make sure you see the things that are important to you.
 
 ![](https://lh3.googleusercontent.com/X4gHQemgy3y\_YzWbY-FAdZhZyANONfuuUTY\_\_bvXfp9wCECZAObkD9zzGsNqQqn63iEWx3nsPA7csKCu42HiujyFPHXIFs39tnYh6KYvkYn6So32uabWiYsS-YL90fY1\_D2uC82E)
+
+#### Want to get started on leveling up your fellow technical folk and get rewarded for doing so? Discover how on [Getting rewarded](getting-rewarded.md)!
