@@ -11,6 +11,8 @@ description: >-
 Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
 {% endhint %}
 
+All participants of the TechTree community are required to agree with the following Code of Conduct. TechTree team members will enforce this code, and we expect cooperation from all participants to help ensure a safe environment for everybody.
+
 **Short version**
 
 TechTree is dedicated to providing a harassment-free experience for everyone, regardless of sex, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate at any TechTree community event or social group. Participants violating these rules may be sanctioned or expelled from these events and groups at the discretion of the TechTree team.
