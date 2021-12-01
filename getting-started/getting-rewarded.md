@@ -1,5 +1,9 @@
 # Getting rewarded
 
+{% hint style="info" %}
+Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
+{% endhint %}
+
 ### **Become an open-source knowledge pioneer**
 
 At TechTree, we're building a community that's just for devs. We want technical people - like you - to support each other in levelling up your 'not code' portfolio and to get rewarded the more you contribute and help.

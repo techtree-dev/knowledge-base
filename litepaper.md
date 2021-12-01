@@ -1,5 +1,9 @@
 # Litepaper
 
+{% hint style="info" %}
+Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
+{% endhint %}
+
 ## Executive summary
 
 TechTree token (TTT) is powering a new generation of professional social network. One that is recognizing that its users are the product and the tech supporting it is the commodity.
@@ -315,7 +319,7 @@ Creator coins are sold according to a bonding curve. So, if a user holds X creat
 
 ![](<.gitbook/assets/image (1).png>)
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (1).png>)
 
 **Money follows**
 
@@ -515,7 +519,3 @@ _Deployment_
   * clickable prototype
   * access to repositories
   * user research summary
-
-{% hint style="info" %}
-Page being built
-{% endhint %}

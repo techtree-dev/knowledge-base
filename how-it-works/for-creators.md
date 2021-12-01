@@ -1,5 +1,9 @@
 # For Creators
 
+{% hint style="info" %}
+Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
+{% endhint %}
+
 You're an open-source knowledge hero. It doesn't matter if you're an experienced creator, still finding your feet or looking to get started. You've taken the noble mission to share your experiences, opening knowledge to all.
 
 #### Open-source your knowledge

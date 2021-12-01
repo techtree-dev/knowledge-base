@@ -1,5 +1,9 @@
 # For Developers
 
+{% hint style="info" %}
+Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
+{% endhint %}
+
 Welcome, Developer! TechTree has plenty of opportunities for mentoring, sharing, and learning with fellow, like-minded developers looking to explore deeper into open source knowledge and further your tech journey.
 
 **Tech is forever moving forward**

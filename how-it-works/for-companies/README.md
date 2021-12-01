@@ -1,5 +1,9 @@
 # For Companies
 
+{% hint style="info" %}
+Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
+{% endhint %}
+
 **Help your developer community flourish.**
 
 You and your team are working on some amazing things, and in the process you’re solving technical problems. Get outside developers excited and invested in what you’re creating using your team's domain expertise by sharing these findings. Show your team off!

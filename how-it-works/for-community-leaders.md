@@ -1,5 +1,9 @@
 # For Community Leaders
 
+{% hint style="info" %}
+Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
+{% endhint %}
+
 All adventures are better with a party, and we salute you Community Leader who makes it possible. We’ll help you access top engineers at top tech companies who are willing to contribute their knowledge to your community and support you however you want your community to grow.
 
 **Access the engineers that are creating the tech your community is excited about.**

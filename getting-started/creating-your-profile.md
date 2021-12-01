@@ -1,5 +1,9 @@
 # Creating your profile
 
+{% hint style="info" %}
+Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
+{% endhint %}
+
 #### Create a space for the tech that is important to you
 
 Whether you’re here to learn or here to share knowledge, your TechTree profile creates a space that allows you to showcase the tech you care about. Boost Creators that you love and have learnt from by re-sharing links. Present your ‘not code’ portfolio featuring the content you’re most proud of in one space, no matter the format.

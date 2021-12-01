@@ -1,7 +1,7 @@
 # Vision and Philosophy
 
 {% hint style="info" %}
-Page being built
+Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
 {% endhint %}
 
 ## TL;DR: developer's should be rewarded for the knowledge they share.

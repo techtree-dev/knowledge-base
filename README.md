@@ -1,5 +1,9 @@
 # What is TechTree
 
+{% hint style="info" %}
+Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
+{% endhint %}
+
 ### Learn from other developers&#x20;
 
 Tech is fast moving. For those who are passionate about tech, it's crucial to be continuously learning.&#x20;
@@ -17,7 +21,3 @@ Whether you're an old-hand at creating content or it's something you've never ev
 Teamwork makes the dream work. Many hands make light work. A problem shared is a problem halved. There any many, many things to say about how coming together creates a better place for everyone.
 
 TechTree gives you the chance to give back to the wider tech community through mentorship opportunities, contributing to meet-up events or even just writing a quick update on how you solved a technical issue. By giving a leg-up to a fellow developer, you could be helping them gain the skills they need to secure their next technical role.
-
-{% hint style="info" %}
-Page being built
-{% endhint %}

@@ -1,5 +1,9 @@
 # Community Guidelines
 
+{% hint style="info" %}
+Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
+{% endhint %}
+
 #### **TechTree mission statement**
 
 #### **Dos and Don’ts**

@@ -1,5 +1,9 @@
 # How Bounties work - alternative
 
+{% hint style="info" %}
+Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
+{% endhint %}
+
 #### **Who's involved?**
 
 Referrer - the person who shares the tracked referral link directly with a potential Applicant.

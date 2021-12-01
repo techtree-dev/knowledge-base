@@ -1,5 +1,9 @@
 # Privacy Policy
 
+{% hint style="info" %}
+Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
+{% endhint %}
+
 #### **Our Privacy Policy**
 
 This privacy policy will explain how TechTree uses the personal data we collect from you when you use our website.
