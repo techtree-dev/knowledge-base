@@ -6,7 +6,7 @@ Help us build a platform for all! We're currently working on this page, if you h
 
 ## TL;DR: developer's should be rewarded for the knowledge they share.
 
-To put it simply. It's just what's fair, but we appreciate that you may like some more context.
+To put it simply - it's just what's fair. But we appreciate that you may like some more context.
 
 ## Our Vision
 
