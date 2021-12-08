@@ -15,9 +15,9 @@
 
 * [For Developers](how-it-works/for-developers/README.md)
 * [For Creators](how-it-works/for-creators.md)
+* [For Sharers](how-it-works/for-sharers.md)
 * [For Community Leaders](how-it-works/for-community-leaders.md)
 * [For Companies](how-it-works/for-companies/README.md)
-* [For Sharers](how-it-works/for-sharers.md)
 
 ## 💡 FAQs
 
