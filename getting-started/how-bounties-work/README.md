@@ -36,6 +36,6 @@ The whole reason Alex heard of TechTree and the Bounty Boards is because his oth
 
 As a reward for being a pioneer and opening the TechTree gates to her network, Jane is rewarded part of the bounty when Morgan is hired. Amazing! And don't worry, Alex and Morgan still split the bounty promised. Double amazing.
 
+#### Still not sure? Check out our [alternative explanation](how-bounties-work-alternative.md)[. ](how-bounties-work-alternative.md)
 
-
-Still not sure? Check out our [alternative explanation](how-bounties-work-alternative.md)[. ](how-bounties-work-alternative.md)
+### Want to get involved? [Join the Bounty Hunters' Guild](https://mytechtree.typeform.com/bountyguild) where you'll be kept up-to-date on all the latest Bounties! Whether you're a Referrer, an Applicant or a Sharer, there will be tips and tricks for all.
