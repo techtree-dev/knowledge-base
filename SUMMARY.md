@@ -7,6 +7,7 @@
 ## 🥳 Getting started
 
 * [Creating your profile](getting-started/creating-your-profile.md)
+* [For Sharers](getting-started/for-sharers.md)
 * [Getting rewarded](getting-started/getting-rewarded.md)
 * [How Bounties work](getting-started/how-bounties-work/README.md)
   * [How Bounties work - alternative](getting-started/how-bounties-work/how-bounties-work-alternative.md)
@@ -15,7 +16,6 @@
 
 * [For Developers](how-it-works/for-developers/README.md)
 * [For Creators](how-it-works/for-creators.md)
-* [For Sharers](how-it-works/for-sharers.md)
 * [For Community Leaders](how-it-works/for-community-leaders.md)
 * [For Companies](how-it-works/for-companies/README.md)
 
