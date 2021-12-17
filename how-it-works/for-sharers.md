@@ -10,11 +10,11 @@ We’d be nowhere without you, Sharer. You’re the one who helps out others whe
 
 #### Help friends level up&#x20;
 
-Whenever you invite a friend to TechTree, that friend is forever connected to you. When your friend wins a Bounty, any Bounty, you’ll also get rewarded as a ‘thank you’ for introducing them to the TechTree adventure. What a great way to celebrate friendship!&#x20;
+Whenever you invite a friend to TechTree that friend is forever connected to you. When your friend wins a Bounty, any Bounty, you’ll also get rewarded as a ‘thank you’ for introducing them to the TechTree adventure. What a great way to celebrate friendship!&#x20;
 
 #### Support the Creators who support you&#x20;
 
-Help the Creators you love gain engagement and views on the knowledge they’ve curated by sharing the content with those who you think need to see it. By supporting Creators in this way, you can help the community grow and ensure that the open-source knowledge movement really is open to all.&#x20;
+Help the Creators you love gain engagement and views on the knowledge they’ve curated by sharing the content with those who you think need to see it. These are the Creators who may have helped you solve a technical problem or showed you a more efficient process. By supporting Creators in this way, you can help the community grow and ensure that the open-source knowledge movement really is open to all.&#x20;
 
 #### Get rewarded for boosting and sharing with others&#x20;
 
