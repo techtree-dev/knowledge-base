@@ -10,6 +10,7 @@
 * [Start sharing](how-it-works/for-sharers.md)
 * [Getting rewarded](getting-started/getting-rewarded.md)
 * [How Bounties work](getting-started/how-bounties-work/README.md)
+  * [Learn the lingo](getting-started/how-bounties-work/learn-the-lingo.md)
   * [Sharer rights](getting-started/how-bounties-work/sharer-rights.md)
   * [Creator rights](getting-started/how-bounties-work/creator-rights.md)
   * [How Bounties work - alternative](getting-started/how-bounties-work/how-bounties-work-alternative.md)
