@@ -8,6 +8,8 @@ If you generate a tracked link using any one of the `share` buttons scattered ar
 
 When other Devs discover TechTree via your link, they'll be permanently associated with your account. This is great, because it entitles you to a share of any bounties that are claimed by users who joined via you. 
 
+This confers you 10% of the quoted bounty connected with the claim.
+
 ### Share of bounty
 
 Bounties can be offered for all manner of things. A common use case is a hiring bounty.
