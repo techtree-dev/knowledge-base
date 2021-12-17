@@ -7,7 +7,7 @@
 ## 🥳 Getting started
 
 * [Creating your profile](getting-started/creating-your-profile.md)
-* [For Sharers](how-it-works/for-sharers.md)
+* [Start sharing](getting-started/start-sharing.md)
 * [Getting rewarded](getting-started/getting-rewarded.md)
 * [How Bounties work](getting-started/how-bounties-work/README.md)
   * [How Bounties work - alternative](getting-started/how-bounties-work/how-bounties-work-alternative.md)
