@@ -14,7 +14,7 @@ By sharing your knowledge on TechTree, you'll become a pioneer of the open-sourc
 
 ### Quest log
 
-1.  ****[**Create your TechTree profile**](creating-your-profile.md)****
+1.  ****[**Create your TechTree profile**](create-your-profile.md)****
 
     Start building the home for your 'not code' portfolio by sharing links to resources that are important to you, for example your blog on [medium.com](http://medium.com), your top StackOverflow question, your personal website, and more.
 
