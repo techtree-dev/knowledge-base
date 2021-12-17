@@ -1,18 +1,18 @@
 # Getting rewarded
 
+
+
 {% hint style="info" %}
 Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
 {% endhint %}
-
-### **Become an open-source knowledge pioneer**
 
 At TechTree, we're building a community that's just for devs. We want technical people - like you - to support each other in levelling up your 'not code' portfolio and to get rewarded the more you contribute and help.
 
 By sharing your knowledge on TechTree, you'll become a pioneer of the open-source knowledge movement making your knowledge and insights accessible to all.
 
-### Help other developers level up
+## Press 'start' on getting rewarded!
 
-#### How you can get involved
+### Quest log
 
 1.  ****[**Create your TechTree profile**](creating-your-profile.md)****
 
@@ -29,7 +29,7 @@ By sharing your knowledge on TechTree, you'll become a pioneer of the open-sourc
 
     Whether it's content you've created on your own or in collaboration with one of the +200 technical communities that are partnered with Techtree, by publishing it on TechTree you're ensuring your content is reaching many more like-minded developers.
 
-#### Getting the rewards 🎉
+#### What you can do to unlock more rewards
 
 By creating and sharing content, you're shining a light on the innovative tech you're building and the way your team works.
 
