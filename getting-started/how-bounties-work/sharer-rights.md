@@ -1,24 +1,25 @@
 # Sharer rights
 
-#### Tracked links are owned by you
+{% hint style="info" %}
+Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
+{% endhint %}
 
-TechTree is built on the idea that it should be owned by its users. And that any actions that grow the community should be rewarded.
+#### TechTree is the user-owned social network built on the idea that any action that grows the community should be rewarded.&#x20;
 
-If you generate a tracked link using any one of the `share` buttons scattered around the site. That'll create a link to that page that you can share around.
+### When you create a tracked link, that link will forever be connected to you.&#x20;
 
-When other Devs discover TechTree via your link, they'll be permanently associated with your account. This is great, because it entitles you to a share of any bounties that are claimed by users who joined via you.
+By generating a tracked link and sharing it, you help the TechTree community grow. When someone joins the platform through your tracked link, you get rewarded too whenever they win a Bounty.
 
-This confers you 10% of the quoted bounty connected with the claim.
+### Good deeds lead to great rewards.
 
-#### Share of bounty
+Bounties are available for a number of things on TechTree. At the moment, the most common is a hiring Bounty. When a Bount claim is made, there can be as many as four different people who can be rewarded:
 
-Bounties can be offered for all manner of things. A common use case is a hiring bounty.
+**The Applicant** - the one who is applying to win claim a Bounty&#x20;
 
-When a bounty claim is submitted there can be as many as 4 different people who stand to benefit:
+**The Referrer** - the one who suggests the Applicant should submit for a Bounty.&#x20;
 
-* The claimant (the person submitting the claim) / in the case of a hiring bounty this is the applicant
-* The referrer / the user who suggested another user should submit a claim
-* The creator / the user who's creation directly led to a claim being submitted (eg the author of an article that a claimant read before applying for a job)
-* The sharer / the user who shared a link to TechTree that was followed by a claimant or referrer
+**The Creator** - the one who creates something that directly leads to the Applicant submitting a claim on a Bounty, for example the author of an article that the Applicant read before applying for a role.&#x20;
 
-Here we're interested in the `Sharer`. Essentially, the more users who joined TechTree via links you shared, the more likely you are to benefit from `Sharer rights` when those users submit bounty claims or refer people.
+**The Sharer** - the one who generates and shares a tracked TechTree link that causes either the Referrer or the Applicant to join the platform.
+
+#### The more engaging tracked links that you generate and share, the more likely you are to be rewarded for helping the TechTree community grow.
