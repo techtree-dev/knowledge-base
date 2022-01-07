@@ -14,8 +14,8 @@
     * [😄 Learn the lingo](getting-started/how-bounties-work/hiring-bounties/learn-the-lingo.md)
     * [➕ Worked Example](getting-started/how-bounties-work/hiring-bounties/worked-example.md)
     * [💡 FAQs](getting-started/how-bounties-work/hiring-bounties/faqs.md)
-  * [Sharer rights](getting-started/how-bounties-work/sharer-rights.md)
-  * [Creator rights](getting-started/how-bounties-work/creator-rights.md)
+  * [Sharer rewards](getting-started/how-bounties-work/sharer-rewards.md)
+  * [Creator rewards](getting-started/how-bounties-work/creator-rewards.md)
   * [Bounty Hunters Guild](getting-started/how-bounties-work/bounty-hunters-guild.md)
 
 ## 🤓 How it works

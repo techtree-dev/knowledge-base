@@ -1,10 +1,10 @@
-# Creator rights
+# Creator rewards
 
 {% hint style="info" %}
 Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
 {% endhint %}
 
-### What are Creator rights?
+### What are Creator rewards?
 
 You’ve taken the time to put something together to open-source your knowledge, and it’s that knowledge that brings people together on TechTree. It’s what helps the community grow, not just in size but also in personal and professional development.
 
@@ -12,11 +12,11 @@ You’ve taken the time to put something together to open-source your knowledge,
 
 When another TechTree user lands on something you created, we'll set a cookie with a short expiry in that user's browser. During that time, should they submit a claim for a Bounty, whether it’s applying for a job or referring a friend, you’ll be listed as the Creator that helped kickstart that Bounty claim chain. This means you could be rewarded as much as 50% of that Bounty!
 
-Any time you create or curate on TechTree, from articles and video posts to talks and Bounty boards, you unlock Creator rights benefits.
+Any time you create or curate on TechTree, from articles and video posts to talks and Bounty boards, you unlock Creator rewards benefits.
 
 ### The Bounty claim chain
 
-Bounties are available for a number of things on TechTree. At the moment, the most common is a hiring Bounty. When a Bount claim is made, there can be as many as four different people who can be rewarded:
+Bounties are available for a number of things on TechTree. At the moment, the most common is a hiring Bounty. When a Bounty claim is made, there can be as many as four different people who can be rewarded:
 
 **The Applicant** - the one who is applying to win claim a Bounty&#x20;
 
