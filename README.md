@@ -1,18 +1,16 @@
 # What is TechTree
 
-{% hint style="info" %}
-Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
-{% endhint %}
+We're building the first user-owned social network for Devs & Techies. No spam. Replace 1000s of connections with a few meaningful relationships.
 
-### Learn from other developers&#x20;
+### Learn from other developers
 
-Tech is fast moving. For those who are passionate about tech, it's crucial to be continuously learning.&#x20;
+Tech is fast moving. For those who are passionate about tech, it's crucial to be continuously learning.
 
 TechTree makes it easier with companies sharing their latest projects, updates and announcements on their profiles. What better way to get updates and insights than from the very teams working on them?
 
-### Be a pioneer of open source knowledge&#x20;
+### Be a pioneer of open source knowledge
 
-If you're working on technical problems, you have a wealth of knowledge that others will want to hear about. You may have just spent hours working on a project before coming up with a solution, and by sharing that solution on Techtree you could be saving others developers similar hours (possibly even days!)
+If you're working on technical problems, you have a wealth of knowledge that others will want to hear about. You may have just spent hours working on a project before coming up with a solution, and by sharing that solution on TechTree you could be saving others developers similar hours (possibly even days!)
 
 Whether you're an old-hand at creating content or it's something you've never even thought to do, TechTree will support you on your journey to being an open-source knowledge pioneer.
 

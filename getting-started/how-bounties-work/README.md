@@ -2,7 +2,7 @@
 
 ### **What are Bounties?**
 
-Bounties are are `requests for help`. As an example, if a new startup needs to hire a CTO they can publish the role on TechTree and attach a bounty to it. The bounty is a request to the community for help in finding someone good.
+Bounties are `requests for help`. As an example, if a new startup needs to hire a CTO they can publish the role on TechTree and attach a bounty to it. The bounty is a request to the community for help in finding someone good.
 
 ### **What types of Bounties are possible?**
 
