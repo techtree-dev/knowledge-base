@@ -2,6 +2,10 @@
 
 We're building the first user-owned social network for Devs & Techies. No spam. Replace 1000s of connections with a few meaningful relationships.
 
+{% content-ref url="vision-and-philosophy.md" %}
+[vision-and-philosophy.md](vision-and-philosophy.md)
+{% endcontent-ref %}
+
 ### Learn from other developers
 
 Tech is fast moving. For those who are passionate about tech, it's crucial to be continuously learning.
