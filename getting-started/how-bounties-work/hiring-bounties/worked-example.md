@@ -32,4 +32,6 @@ A short time later, Bob is invited to interview. Impresses the WayFlyer team and
 | Bob              | Applicant | $5,000    |
 | Charlie          | Sharer    | $1,000    |
 | Satoshi Nakamoto | Creator   | $2,500    |
+| TechTree         | Fee\*     | $1,500    |
 
+**\*This fee is only payable if Alice is not connected with the Hiring Company**
