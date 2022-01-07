@@ -1,4 +1,8 @@
-# Learn the lingo
+# Hiring Bounties 💰
+
+### **Worked Example**
+
+### ****
 
 ### **Learn the lingo**
 
@@ -17,3 +21,5 @@ You're a trendsetter. A pioneer of the next big thing. You've discovered TechTre
 #### **Creator (coming soon)**
 
 The keyholders for unlocking tech knowledge potential. The ones who have taken the time to open source your knowledge, making people want to check out TechTree. It's only fair that we reward you for doing so.
+
+### ****
