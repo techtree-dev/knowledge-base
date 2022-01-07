@@ -1,12 +1,6 @@
-# Hiring Bounties 💰
+# 😄 Learn the lingo
 
-### **Worked Example**
-
-### ****
-
-### **Learn the lingo**
-
-#### **Referrer**
+**Referrer**
 
 Referrers are the people who know people. If you know someone who's a great fit for a bounty, all you need to do is share the tracked referral link with them. If they apply and are successfully hired, congrats! You and your friend get to share the bounty, you for referring them and them for getting a new job!
 
@@ -21,5 +15,3 @@ You're a trendsetter. A pioneer of the next big thing. You've discovered TechTre
 #### **Creator (coming soon)**
 
 The keyholders for unlocking tech knowledge potential. The ones who have taken the time to open source your knowledge, making people want to check out TechTree. It's only fair that we reward you for doing so.
-
-### ****

@@ -10,10 +10,12 @@
 * [Start sharing](how-it-works/for-sharers.md)
 * [Getting rewarded](getting-started/getting-rewarded.md)
 * [How Bounties work](getting-started/how-bounties-work/README.md)
-  * [Hiring Bounties 💰](getting-started/how-bounties-work/hiring-bounties.md)
+  * [Hiring Bounties 💰](getting-started/how-bounties-work/hiring-bounties/README.md)
+    * [😄 Learn the lingo](getting-started/how-bounties-work/hiring-bounties/learn-the-lingo.md)
+    * [➕ Worked Example](getting-started/how-bounties-work/hiring-bounties/worked-example.md)
+    * [💡 FAQs](getting-started/how-bounties-work/hiring-bounties/faqs.md)
   * [Sharer rights](getting-started/how-bounties-work/sharer-rights.md)
   * [Creator rights](getting-started/how-bounties-work/creator-rights.md)
-  * [How Bounties work - alternative](getting-started/how-bounties-work/how-bounties-work-alternative.md)
   * [Bounty Hunters Guild](getting-started/how-bounties-work/bounty-hunters-guild.md)
 
 ## 🤓 How it works

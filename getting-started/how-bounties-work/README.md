@@ -14,7 +14,7 @@ Currently, we have `hiring bounties only` but we're excited about the possibilit
 * Bug Bounties - Requests for help in finding bugs/security flaws in open source or even proprietary codebases
 * And much more...
 
-### **Here's an example for Hiring Bounty 💰**
+### **Here's a Hiring Bounty 💰 example**
 
 Imagine, Alice has seen a job on a Bounty Board (with a bounty of **$10,000**) on TechTree that she thinks her friend, Bob would be great for. Alice becomes a Referrer and sends Bob a tracked link for the role. Alice also decides to split the bounty 50:50 with Bob.
 
@@ -38,8 +38,8 @@ As a reward for being a pioneer and opening up TechTree to his network, Charlie 
 
 For a more detailed explanation check out this page 👇
 
-{% content-ref url="hiring-bounties.md" %}
-[hiring-bounties.md](hiring-bounties.md)
+{% content-ref url="hiring-bounties/" %}
+[hiring-bounties](hiring-bounties/)
 {% endcontent-ref %}
 
 
