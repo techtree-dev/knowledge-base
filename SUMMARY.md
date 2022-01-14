@@ -1,7 +1,7 @@
 # Table of contents
 
 * [What is TechTree](README.md)
-* [Vision and Philosophy](vision-and-philosophy.md)
+* [Philosophy](vision-and-philosophy.md)
 * [Litepaper](litepaper.md)
 
 ## 🥳 Getting started
@@ -14,8 +14,8 @@
     * [😄 Learn the lingo](getting-started/how-bounties-work/hiring-bounties/learn-the-lingo.md)
     * [➕ Worked Example](getting-started/how-bounties-work/hiring-bounties/worked-example.md)
     * [💡 FAQs](getting-started/how-bounties-work/hiring-bounties/faqs.md)
-  * [Sharer rewards](getting-started/how-bounties-work/sharer-rewards.md)
-  * [Creator rewards](getting-started/how-bounties-work/creator-rewards.md)
+  * [Sharer rights](getting-started/how-bounties-work/sharer-rights.md)
+  * [Creator rights](getting-started/how-bounties-work/creator-rights.md)
   * [Bounty Hunters Guild](getting-started/how-bounties-work/bounty-hunters-guild.md)
 
 ## 🤓 How it works

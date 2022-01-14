@@ -1,25 +1,28 @@
 # What is TechTree
 
-We're building the first user-owned social network for Devs & Techies. No spam. Replace 1000s of connections with a few meaningful relationships.
+We're building the first social economic network for devs & their teams. No spam. Own what you create. Support open source.
 
 {% content-ref url="vision-and-philosophy.md" %}
 [vision-and-philosophy.md](vision-and-philosophy.md)
 {% endcontent-ref %}
 
-### Learn from other developers
+### We've starting with Hiring Bounties 💰
 
-Tech is fast moving. For those who are passionate about tech, it's crucial to be continuously learning.
+We've started by focusing on a tricky problem, technical recruitment. Many scale-up tech companies - perhaps ones you've worked in - struggle to attract and keep great people. And - from our perspective as developers - we know how frustrating it can be to get an endless stream of emails / in-mail / phone-calls from recruiters offering roles at companies we've either never heard of or that they can't tell us the name of even.
 
-TechTree makes it easier with companies sharing their latest projects, updates and announcements on their profiles. What better way to get updates and insights than from the very teams working on them?
+That's why we've introduced the idea of hiring bounties 💰. The goal is to create a fair incentive structure that encourages us - the developers - to think of people we know and refer them into teams we're connecting to. It's about a few highly personal recommendations rather than an endless stream of cold emails.
 
-### Be a pioneer of open source knowledge
+In our opinion, it's us, the developers - and our friends - in each dev team that are the best people best placed to attract developers to a team.&#x20;
 
-If you're working on technical problems, you have a wealth of knowledge that others will want to hear about. You may have just spent hours working on a project before coming up with a solution, and by sharing that solution on TechTree you could be saving others developers similar hours (possibly even days!)
+It's our job at TechTree, to help companies understand this value and reward teams and their friends accordingly.
 
-Whether you're an old-hand at creating content or it's something you've never even thought to do, TechTree will support you on your journey to being an open-source knowledge pioneer.
+> _**What's more, we want to make it easy for our community to donate some - or all of the rewards they earn - to open source projects and communities and publicly recognise those contributions over time. We are excited about doing the same with companies - publicly recognising the contributions teams and companies make over time**_
 
-### Help your fellow developer with their next adventure
+### What's next?
 
-Teamwork makes the dream work. Many hands make light work. A problem shared is a problem halved. There any many, many things to say about how coming together creates a better place for everyone.
+Once we've established that hiring bounties are a great way for teams to hire, and for developers to realise the value of their networks, we want to extend the concept of bounties and use it fuel a community where devs can learn, connect, share knowledge and team up.
 
-TechTree gives you the chance to give back to the wider tech community through mentorship opportunities, contributing to meet-up events or even just writing a quick update on how you solved a technical issue. By giving a leg-up to a fellow developer, you could be helping them gain the skills they need to secure their next technical role.
+The next concrete step in that process is bringing to life content creation on TechTree. If you're a content creator, your options for generating income from your content are currently super limited.
+
+On TechTree, thanks to [Creator rights](getting-started/how-bounties-work/creator-rights.md), everything you create, you own. Our platform links content that helped  successful bounty claims&#x20;
+

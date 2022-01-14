@@ -1,10 +1,10 @@
-# Creator rewards
+# Creator rights
 
 {% hint style="info" %}
 Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
 {% endhint %}
 
-### What are Creator rewards?
+### What are Creator rights?
 
 You’ve taken the time to put something together to open-source your knowledge, and it’s that knowledge that brings people together on TechTree. It’s what helps the community grow, not just in size but also in personal and professional development.
 
