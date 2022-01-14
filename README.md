@@ -10,7 +10,7 @@ We're building the first social economic network for devs & their teams. No spam
 
 We've started by focusing on a tricky problem, technical recruitment. Many scale-up tech companies - perhaps ones you've worked in - struggle to attract and keep great people. And - from our perspective as developers - we know how frustrating it can be to get an endless stream of emails / in-mail / phone-calls from recruiters offering roles at companies we've either never heard of or that they can't tell us the name of even.
 
-That's why we've introduced the idea of hiring bounties 💰. The goal is to create a fair incentive structure that encourages us - the developers - to think of people we know and refer them into teams we're connecting to. It's about a few highly personal recommendations rather than an endless stream of cold emails.
+That's why we've introduced the idea of hiring bounties 💰. The goal is to create a fair incentive structure that encourages us - the developers - to think of people we know and refer them into teams we're connected to. It's about a few highly personal recommendations rather than an endless stream of cold emails.
 
 In our opinion, it's us, the developers - and our friends - in each dev team that are the best people best placed to attract developers to a team.&#x20;
 
@@ -26,9 +26,9 @@ The next step is bringing to life content creation on TechTree. If you're a cont
 
 On TechTree, thanks to [**Creator rights**](getting-started/how-bounties-work/creator-rewards.md), everything you create, you own. Our platform links content - that helps create a successful bounty claims - to a claim payout. Meaning - in principle - the more you create and share knowledge the more you can I earn on TechTree.
 
-### How does Crypto fit into all this?
+### Evolving towards Web 3.0 at TechTree
 
-One of the biggest problems of building a community that is based on bounties and rewards is counter-party risk.&#x20;
+One of the biggest problems of building a community that is based on bounties and rewards is counter-party risk - the risk of not getting paid!!&#x20;
 
 We want everyone who takes the time to refer a friend to have confidence that there's money to pay them in the event their friend - or themselves - gets hired. And, that they don't need to discuss any of it with the hiring company.
 
@@ -38,7 +38,7 @@ What's more, we want to use our token (TechTree token) as a mechanism to support
 
 Is a social economic network built for devs and their teams (product managers, product designs, UX researchers, content designers and more - all are welcome).
 
-We want to generalise the concept of bounties to be simply a _request for help_. Under this broader definition, we can imagine all manner of bounties: hiring bounties; speaking bounties; content creation bounties; Q\&A bounties; mentoring bounties and much more.
+We want to generalise the concept of bounties to be simply a _request for help_. Under this broader definition, we can imagine all manner of bounties: hiring bounties; speaking bounties; content bounties; Q\&A bounties; mentoring bounties and much more.
 
 With a steady flow of value - all handled by our native token (TechTree Token) - fuelling the community. The _economy_ part of social economy network.
 
