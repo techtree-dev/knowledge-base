@@ -1,18 +1,12 @@
-# Vision and Philosophy
+# Our philosophy
 
-{% hint style="info" %}
-Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out and let us know what we can do to make the experience better for our users 🎉
-{% endhint %}
+## TL;DR
 
-## TL;DR: developer's should be rewarded for the knowledge they share.
+> **Developers should be rewarded for the value of their networks, the content the create, and their promotion of the community**
 
-To put it simply - it's just what's fair. But we appreciate that you may like some more context.
+****
 
-## Our Vision
-
-We want to create a place where the people who do the work are rewarded fairly. Whether it's referring someone for a role who is then hired to creating a piece of content that engages an audience, you've helped people out and no good deed should go unrewarded.&#x20;
-
-## **Our Philosophy**
+**Our Philosophy**
 
 ### Why are we building TechTree?
 
@@ -44,13 +38,13 @@ We’ve spoken with over 500 developers, 250+ communities and creators, over 100
 
 From this, we’re broken down the following key features:
 
-**Content publishing and following**&#x20;
+**Content publishing and following**
 
 TechTree users can create content in all formats, both asynchronous and synchronous to ensure that creators can express their knowledge in the most effective format. We also split audiences into two different types, followers and subscribers. Subscribers are those super-fans who are notified whenever that creator publishes something, prioritising and personalising feeds.
 
 If there’s one thing we love at TechTree, it’s collaboration! Teamwork certainly makes the dreamwork and we want to make it as easy as possible. Any users can ‘lend’ another user their audience, using their network and reach to bring attention to someone who’s up and coming. Help fellow creators receive the spotlight you feel they deserve.
 
-**Meaningful interactions**&#x20;
+**Meaningful interactions**
 
 When joining a platform, you naturally start to belong to various networks. At TechTree, we call them Guilds. We want to make the Guild experience as meaningful and intuitive as possible so you can start getting connected.
 
@@ -64,22 +58,22 @@ _Businesses with uncapped and transparent earning potential for creators. They�
 
 Whilst there are a few community focused businesses and systems out there, these are our favourite three that we often refer to internally:
 
-Roblox&#x20;
+Roblox
 
-* Clear collaboration between creators on the platform&#x20;
-* Content curation with an incredibly safe environment for users&#x20;
-* Fair revenue share and unlimited earning potential for creators&#x20;
+* Clear collaboration between creators on the platform
+* Content curation with an incredibly safe environment for users
+* Fair revenue share and unlimited earning potential for creators
 * Creators can collaborate with brands within the existing platform Internal currency
 
 Crypto-ecosystems
 
-* Incentive mechanisms that help early users to benefit from long term value growth&#x20;
-* Network effects naturally connected with them&#x20;
+* Incentive mechanisms that help early users to benefit from long term value growth
+* Network effects naturally connected with them
 * Naturally growing communities
 
-Airbnb&#x20;
+Airbnb
 
-* Publicly admitting that their product is not the platform, but the hosts and their properties&#x20;
+* Publicly admitting that their product is not the platform, but the hosts and their properties
 * Giving their hosts equity ahead of the IPO as a recognition for their importance in making the platform a success
 
 Pawel and James, our CEO and CTO, have spent a while being involved in businesses operating in the crypto space. This has influenced the thinking at TechTree, especially business models that emerged thanks to blockchain.
