@@ -1,7 +1,5 @@
 # Our philosophy
 
-## TL;DR
-
 > **Developers should be rewarded for the value of their networks, the content the create, and their promotion of our community**
 
 ### Why are we building TechTree?
