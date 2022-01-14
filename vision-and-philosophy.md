@@ -53,25 +53,11 @@ We think we're well placed to promote that behaviour as we can celebrate and pro
 
 _Businesses with uncapped and transparent earning potential for creators. They’re aware that their success is made possible by the community and the network effects that they help drive._
 
-Whilst there are a few community focused businesses and systems out there, these are our favourite three that we often refer to internally:
+Whilst there are a few community focused businesses and systems out there, these are our favourite three because they understand the important of rewarding creators and the community:
 
-Roblox
-
-* Clear collaboration between creators on the platform
-* Content curation with an incredibly safe environment for users
-* Fair revenue share and unlimited earning potential for creators
-* Creators can collaborate with brands within the existing platform Internal currency
-
-Crypto-ecosystems
-
-* Incentive mechanisms that help early users to benefit from long term value growth
-* Network effects naturally connected with them
-* Naturally growing communities
-
-Airbnb
-
-* Publicly admitting that their product is not the platform, but the hosts and their properties
-* Giving their hosts equity ahead of the IPO as a recognition for their importance in making the platform a success
+* Roblox
+* Crypto ecosystems
+* AirBnB
 
 Pawel and James, our CEO and CTO, have spent a while being involved in businesses operating in the crypto space. This has influenced the thinking at TechTree, especially business models that emerged thanks to blockchain.
 
