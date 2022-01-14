@@ -2,59 +2,58 @@
 
 ## TL;DR
 
-> **Developers should be rewarded for the value of their networks, the content the create, and their promotion of the community**
-
-****
+> **Developers should be rewarded for the value of their networks, the content the create, and their promotion of our community**
 
 ### Why are we building TechTree?
 
-We’re building TechTree because we believe that it should be easy for people to help each other and get properly rewarded for it - as their actions create value for other people and organisations.
+We’re building TechTree because we believe that it should be easy for people to help each other and get properly rewarded - when their actions create value for other people and organisations.
 
-#### **Because the way the internet works has gone bizarrely wrong.**
+A single referral could easily be worth over $30,000. Our goal at TechTree is to create an environment in which: tech people can help each other through content, mentoring, events, and more, but also unlock the value of their network, knowledge, and data; and turn it into a meaningful source of income.
 
-_70% of all online content is user generated but only 1% of the value created by it gets back to the people who’ve created it. Which isn’t fair._
+There are two key areas we're focused on:
 
-It’s amazing to see how content created by users has exploded. It’s so much easier for people to both gain audiences and to find the content that best suits them and their needs.
+* the bucket of money set aside for technical recruiters
+* and Web 2.0 platforms that reach multi-billion dollar values on the back of their users need to self-express, create and share content&#x20;
 
-But sadly the creators aren’t the ones reaping the benefits of their hard work. Certain hosting companies have turned them into commodities that suit their needs, rather than the creators' needs. This has created a big competitive moat.
+#### Let's start with technical recruitment
 
-These hosting companies have commercialised data and attention connected with ‘free’ user-generated content via a clickbait focused advertising model. Or worse, give access to user’s data to recruiters and salespeople who end up relentlessly spamming.
+Companies are willing to pay tens of thousands of dollars to source and hire great engineers. Yet, the best source of engineers are the devs already on their teams. Mobilising these gatekeepers by incentivising them as equals to a technical recruiter is at the heart of what TechTree is about.
 
-_Click based economy has had huge ramifications._
+Companies are infinitely more likely to attract the right people when they're some form of personal connection - a friend - or trusted gatekeeper - an influencer, well-networked person or community leader - involved.
+
+This - we believe - is how technical recruitment should be done. By technical people who know the industry and the challenges.
+
+> **We believe that users should get access to the value they’re creating. Simple. A developer job referral is worth between $20K and $30K. If you’re asking someone to do that for free, that’s essentially asking for a favour that’s worth the value of a good car.**
+
+#### Content creation
+
+One other problem we're focused on is that nearly all online communities and social networks do not share value with their users. The creators who build the community rarely share in the success of the platforms. To us, this is a broken model.&#x20;
+
+> _**70% of all online content is user generated but only 1% of the value created by it gets back to the people who’ve created it. This is not fair.**_
+
+Platforms are typically using their creators' content to sell advertising or sell subscription to corporate clients. These hosting platforms have commercialised data and attention connected with ‘free’ user-generated content via a clickbait focused advertising model. Or worse, have given access to users data to recruiters and salespeople who end up relentlessly spamming.
 
 Clickbait promotion has led to content with emotive headlines with controversial opinions to the forefront. This displaces more in-depth, balanced, and well-researched content. This has resulted in users being pulled into content holes, and in worse case scenarios can foster the development of radicalised opinions.
 
-_The real value that the biggest world businesses have isn’t the tech they’re working on but the content their users are creating and the interactions those creators are fostering._
+> **The real value that the biggest world businesses have isn’t the tech they’re working on but the content their users are creating and the interactions those creators are fostering.**&#x20;
 
-We believe that users should get access to the value they’re creating. Simple. A developer job referral is worth between 20 and 30k USD. If you’re asking someone to do that for free, that’s essentially asking for a favour that’s worth the value of a good car.
+Solving, this problem for content creators we believe will help TechTree to thrive as a community. The greater the community, the more bounties, the more value shared and the more positive outcomes for our members.
 
-All creators on hosting platforms should have unlimited ways to communicate with their fans and audience, and engage them in formats that best suit them.
+### How the TechTree community can support open source?
 
-#### **So the internet isn’t working. What’s TechTree’s solution?**
+Tens of thousands of business worldwide rely on the code written by volunteers. This is not right, nor is it sustainable without issues cropping up.
 
-_TechTree is the platform where developers can help each other level up and get rewarded for doing so._
+![](<.gitbook/assets/Screenshot 2022-01-14 at 12.20.47.png>)
 
-We’ve spoken with over 500 developers, 250+ communities and creators, over 100 companies, and 20+ VCs - not as investors, but as users. We have taken the time to fully understand what users need and to listen to their insights.
+We see an opportunity to help address this issue. For many developers, the reward of helping a friend find a great role is enough - for these people we want to give them a chance to donate some or all of their rewards to projects - and be recognised for their contribution. Our goal is to create a culture of giving founding on the egalitarian roots of software engineering.
 
-From this, we’re broken down the following key features:
+What's more, we want to encourage companies and teams to set up regular donations to open source projects via TechTree. All of which can be cleanly and transparently facilitated by our Token (TechTree Token | TTT). See our [litepaper](litepaper.md) for more details.
 
-**Content publishing and following**
+We think we're well placed to promote that behaviour as we can celebrate and promote teams & companies that are contributing. Helping to support the open source community whilst building community and credibility around dev teams at the same time.
 
-TechTree users can create content in all formats, both asynchronous and synchronous to ensure that creators can express their knowledge in the most effective format. We also split audiences into two different types, followers and subscribers. Subscribers are those super-fans who are notified whenever that creator publishes something, prioritising and personalising feeds.
+### What has inspired TechTree?
 
-If there’s one thing we love at TechTree, it’s collaboration! Teamwork certainly makes the dreamwork and we want to make it as easy as possible. Any users can ‘lend’ another user their audience, using their network and reach to bring attention to someone who’s up and coming. Help fellow creators receive the spotlight you feel they deserve.
-
-**Meaningful interactions**
-
-When joining a platform, you naturally start to belong to various networks. At TechTree, we call them Guilds. We want to make the Guild experience as meaningful and intuitive as possible so you can start getting connected.
-
-Say you’re a developer at Pennylane, because Sequoia is a Pennylane investor you’ll also be part of the Sequoia. You’ll be able to communicate with users who are in the same Guild as you, helping you to organically grow your network. You’ll also be able to communicate with mutual followers.
-
-One of TechTree’s core goals is to help developers level up. It’s important to us to create a space that allows users to find mentors that best suit them. Whether it’s meeting other developers from around the world through VC Guilds to exchange ideas, learnings and knowledge, or through one of the 200 plus communities we’re partnered with. Ensuring that there are multiple ways to connect with others with varying tech interests means that you can find the mentor that helps you gain the experience you need to level up in the way that works best for you.
-
-#### What has inspired TechTree?
-
-_Businesses with uncapped and transparent earning potential for creators. They’re aware that their success is made possible to the community and the following network effects that they create._
+_Businesses with uncapped and transparent earning potential for creators. They’re aware that their success is made possible by the community and the network effects that they help drive._
 
 Whilst there are a few community focused businesses and systems out there, these are our favourite three that we often refer to internally:
 
@@ -78,6 +77,6 @@ Airbnb
 
 Pawel and James, our CEO and CTO, have spent a while being involved in businesses operating in the crypto space. This has influenced the thinking at TechTree, especially business models that emerged thanks to blockchain.
 
-#### Want to find out more? We love to chat!
+### Want to find out more? We love to chat!
 
-If you’re interested in what’s happening at TechTree and want to get involved more, we’d love to hear from you! You can reach us over on [Twitter](https://twitter.com/TechTree\_dev), [LinkedIn](https://www.linkedin.com/company/techtreedev) and via email - info@techtree.dev
+If you’re interested in what’s happening at TechTree and want to get involved more, we’d love to hear from you! You can reach us over on [Twitter](https://twitter.com/TechTree\_dev), [LinkedIn](https://www.linkedin.com/company/techtreedev) and via email - pawel@techtree.dev
