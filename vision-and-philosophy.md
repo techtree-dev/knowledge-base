@@ -41,7 +41,7 @@ Solving, this problem for content creators we believe will help TechTree to thri
 
 Tens of thousands of business worldwide rely on the code written by volunteers. This is not right, nor is it sustainable without issues cropping up.
 
-![](<.gitbook/assets/Screenshot 2022-01-14 at 12.20.47.png>)
+![Image by Randall Munroe via wikipedia.](<.gitbook/assets/Screenshot 2022-01-14 at 12.20.47.png>)
 
 We see an opportunity to help address this issue. For many developers, the reward of helping a friend find a great role is enough - for these people we want to give them a chance to donate some or all of their rewards to projects - and be recognised for their contribution. Our goal is to create a culture of giving founding on the egalitarian roots of software engineering.
 
