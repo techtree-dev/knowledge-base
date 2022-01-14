@@ -4,7 +4,7 @@
 
 ### Why are we building TechTree?
 
-We’re building TechTree because we believe that it should be easy for people to help each other and get properly rewarded - when their actions create value for other people and organisations.
+We’re building TechTree because we believe it should be simple for people to help each other and get rewarded when their actions create value for others and organisations.
 
 A single referral could easily be worth over $30,000. Our goal at TechTree is to create an environment in which: tech people can help each other through content, mentoring, events, and more, but also unlock the value of their network, knowledge, and data; and turn it into a meaningful source of income.
 
