@@ -4,26 +4,33 @@
 * [Our philosophy](vision-and-philosophy.md)
 * [Litepaper](litepaper.md)
 
-## 🥳 Getting started
-
-* [Create your profile](getting-started/create-your-profile.md)
-* [Start sharing](how-it-works/for-sharers.md)
-* [Get involved](getting-started/getting-rewarded.md)
-* [How Bounties work](getting-started/how-bounties-work/README.md)
-  * [Hiring Bounties 💰](getting-started/how-bounties-work/hiring-bounties.md)
-    * [😄 Learn the lingo](getting-started/how-bounties-work/hiring-bounties/learn-the-lingo.md)
-    * [➕ Worked Example](getting-started/how-bounties-work/hiring-bounties/worked-example.md)
-    * [💡 FAQs](getting-started/how-bounties-work/hiring-bounties/faqs.md)
-  * [Sharer rights](getting-started/how-bounties-work/sharer-rewards.md)
-  * [Creator rights](getting-started/how-bounties-work/creator-rewards.md)
-  * [Bounty Hunters Guild](getting-started/how-bounties-work/bounty-hunters-guild.md)
-
 ## 🤓 How it works
 
-* [For Developers](how-it-works/for-developers/README.md)
-* [For Creators](how-it-works/for-creators.md)
-* [For Community Leaders](how-it-works/for-community-leaders.md)
-* [For Companies](how-it-works/for-companies/README.md)
+* [Referring or applying](how-it-works/referring-or-applying.md)
+* [Hiring on TechTree](how-it-works/hiring-on-techtree.md)
+* [How Bounties work](how-it-works/how-bounties-work/README.md)
+  * [Hiring Bounties 💰](how-it-works/how-bounties-work/hiring-bounties/README.md)
+    * [😄 Learn the lingo](how-it-works/how-bounties-work/hiring-bounties/learn-the-lingo.md)
+    * [➕ Worked Example](how-it-works/how-bounties-work/hiring-bounties/worked-example.md)
+    * [💡 FAQs](how-it-works/how-bounties-work/hiring-bounties/faqs.md)
+  * [Sharer rights](how-it-works/how-bounties-work/sharer-rights.md)
+  * [Creator rights](how-it-works/how-bounties-work/creator-rights.md)
+  * [Bounty Hunters Guild](how-it-works/how-bounties-work/bounty-hunters-guild.md)
+
+## Pricing
+
+* [Pricing: Hiring teams](pricing/pricing-hiring-teams.md)
+* [Propose a bounty](pricing/propose-a-bounty.md)
+
+## For dev teams
+
+* [Create your profile](for-dev-teams/create-your-profile.md)
+* [Start sharing](for-dev-teams/for-sharers.md)
+* [Get involved](for-dev-teams/getting-rewarded.md)
+
+## 🤓 Guides
+
+* [For Community Leaders](guides/for-community-leaders.md)
 
 ## 💡 FAQs
 

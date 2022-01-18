@@ -20,11 +20,11 @@ It's our job at TechTree, to help companies understand this value and reward tea
 
 ### What's next?
 
-Once we've established that [**hiring bounties**](getting-started/how-bounties-work/hiring-bounties.md) are a great way for teams to hire, and for developers to realise the value of their networks, we want to extend the concept of bounties and use it fuel a community where devs can learn, connect, share knowledge and team up.
+Once we've established that [**hiring bounties**](how-it-works/how-bounties-work/hiring-bounties/) are a great way for teams to hire, and for developers to realise the value of their networks, we want to extend the concept of bounties and use it fuel a community where devs can learn, connect, share knowledge and team up.
 
 The next step is bringing to life content creation on TechTree. If you're a content creator, your options for generating income from your content are currently super limited.
 
-On TechTree, thanks to [**Creator rights**](getting-started/how-bounties-work/creator-rewards.md), everything you create, you own. Our platform links content - that helps create a successful bounty claims - to a claim payout. Meaning - in principle - the more you create and share knowledge the more you can I earn on TechTree.
+On TechTree, thanks to [**Creator rights**](how-it-works/how-bounties-work/creator-rights.md), everything you create, you own. Our platform links content - that helps create a successful bounty claims - to a claim payout. Meaning - in principle - the more you create and share knowledge the more you can I earn on TechTree.
 
 ### Evolving towards Web 3.0 at TechTree
 

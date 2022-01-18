@@ -38,8 +38,8 @@ As a reward for being a pioneer and opening up TechTree to his network, Charlie 
 
 For a more detailed explanation check out this page 👇
 
-{% content-ref url="hiring-bounties.md" %}
-[hiring-bounties.md](hiring-bounties.md)
+{% content-ref url="hiring-bounties/" %}
+[hiring-bounties](hiring-bounties/)
 {% endcontent-ref %}
 
 
