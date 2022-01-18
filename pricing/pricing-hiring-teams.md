@@ -6,6 +6,14 @@ description: >-
 
 # Pricing: Hiring teams
 
+### **Subscription Fee**
+
+To start posting bounties we require you to sign up for a modest 💰 £200 / mth which gives you the ability to post and unlimited amount of bounties
+
+{% content-ref url="propose-a-bounty.md" %}
+[propose-a-bounty.md](propose-a-bounty.md)
+{% endcontent-ref %}
+
 ### Our Bounty Fee
 
 Your proposed bounty price is what bounty hunters will see on our board, and what they will be paid (in full) if they refer someone whom you hire or apply themselves.\
