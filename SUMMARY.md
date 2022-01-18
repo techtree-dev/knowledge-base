@@ -20,7 +20,7 @@
 ## Pricing
 
 * [Pricing: Hiring teams](pricing/pricing-hiring-teams.md)
-* [Propose a bounty](pricing/propose-a-bounty.md)
+* [💰 Post a bounty](pricing/post-a-bounty.md)
 
 ## For dev teams
 

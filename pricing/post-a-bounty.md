@@ -1,4 +1,4 @@
-# Propose a bounty
+# 💰 Post a bounty
 
 ### Read about pricing
 

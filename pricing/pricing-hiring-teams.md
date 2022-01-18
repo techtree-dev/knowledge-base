@@ -10,8 +10,8 @@ description: >-
 
 To start posting bounties we require you to sign up for a modest 💰 £200 / mth which gives you the ability to post and unlimited amount of bounties
 
-{% content-ref url="propose-a-bounty.md" %}
-[propose-a-bounty.md](propose-a-bounty.md)
+{% content-ref url="post-a-bounty.md" %}
+[post-a-bounty.md](post-a-bounty.md)
 {% endcontent-ref %}
 
 ### Our Bounty Fee
