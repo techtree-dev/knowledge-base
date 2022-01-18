@@ -7,7 +7,7 @@ description: >-
 # Hiring on TechTree
 
 1. Tell us what roles you need help with.
-2. Set a bounty for each role or set a % of annual salary or day rate across all roles.\* See our [Pricing Page](../pricing/pricing-hiring-teams.md) for more info.
+2. Set a bounty for each role as % of annual salary or day rate across all roles.\* See our [Pricing Page](../pricing/pricing-hiring-teams.md) for more info.
 3. We publish your role and the bounty to our hiring bounty boards.
 4. We promote each role to targeted audiences. We use the TechTree network for general roles, where we already trust people to refer high-caliber talent. We also _strongly_ encourage you to share the posting with your broader network especially your dev teams who can have their owned tracked links (which takes advantage of [Sharer rights](how-bounties-work/sharer-rights.md)) and their own bounty boards (which leverages [Creator rights](how-bounties-work/creator-rights.md)).
 5. Anyone can submit a referral, and all are bounty-eligible. Candidates can apply as themselves. We also have our own internal talent acquisition team who source for your roles.
