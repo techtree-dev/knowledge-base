@@ -13,3 +13,9 @@ description: >-
 5. Activate your account via email and setup up your TechTree account. We'll be adding tracking to your account dashboard shortly so see the status of applications and referrals, as well as track any bounty claims that are connected to tracked links you've shared.
 6. 60 days after your candidate starts on the job, you get paid the bounty.
 7. You can make a max of 10 referrals on TechTree. Want more? [Contact us](mailto:laurence@techtree.dev) about joining our bounty hunters guild
+
+#### Learn more about hiring bounties work
+
+{% content-ref url="how-bounties-work/hiring-bounties/" %}
+[hiring-bounties](how-bounties-work/hiring-bounties/)
+{% endcontent-ref %}
