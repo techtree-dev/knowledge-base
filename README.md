@@ -1,6 +1,6 @@
 # What is TechTree
 
-TechTree is a hiring marketplace that rewards developers and their network with the value that would be traditional paid to a technical recruiter.
+TechTree is a hiring marketplace that rewards developers and their network with the value that would be traditional be paid to technical recruiters and agencies.
 
 If you're interested in our larger vision click the link below .
 
