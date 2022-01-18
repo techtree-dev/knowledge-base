@@ -6,11 +6,11 @@
 
 We’re building TechTree because we believe it should be simple for people to help each other and get rewarded when their actions create value for others and organisations.
 
-A single referral could easily be worth over $30,000. Our goal at TechTree is to create an environment in which: tech people can help each other through content, mentoring, events, and more, but also unlock the value of their network, knowledge, and data; and turn it into a meaningful source of income.
+Our goal at TechTree is to create an environment in which: tech people can help each other through content, mentoring, events, and more, but also unlock the value of their network, knowledge, and data; and turn it into a meaningful source of income.
 
 There are two key areas we're focused on:
 
-* the bucket of money set aside for technical recruiters
+* the budgets companies set aside for technical recruiters and agencies
 * and Web 2.0 platforms that reach multi-billion dollar values on the back of their users need to self-express, create and share content&#x20;
 
 #### Let's start with technical recruitment
