@@ -1,7 +1,7 @@
 # Table of contents
 
 * [What is TechTree](README.md)
-* [Our philosophy](vision-and-philosophy.md)
+* [Our vision](vision-and-philosophy.md)
 * [Litepaper](litepaper.md)
 
 ## 🤓 How it works
