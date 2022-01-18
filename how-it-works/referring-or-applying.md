@@ -1,12 +1,13 @@
 ---
 description: >-
   TechTree is a hiring marketplace that rewards developers and their network
-  with the value that would be traditional paid to a technical recruiter.
+  with the value that would be traditional paid to a technical recruiter. We're
+  the ones trying to pay you. 😎
 ---
 
 # Referring or applying
 
-1. Go to techtree.dev/jobs  to see bounties.
+1. Go to techtree.dev/jobs to see bounties or find bounties via a dev or dev teams bounty board.
 2. Pick which role or role(s) you want to explore with your network.
 3. Have a friend or former colleague that sounds like a great fit for a role? Come across someone’s background or portfolio recently who’s a good match? See an opportunity that sounds too good to pass up for yourself?
 4. Click "Refer" or "Apply" and fill a short form. If you're refer, your friend will receive an email from TechTree but you can also share the tracked referral link with them via whatsapp or similar.
