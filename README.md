@@ -2,7 +2,7 @@
 
 TechTree is a hiring marketplace that rewards developers and their network with the value that would be traditional paid to a technical recruiter.
 
-If you're interested in our larger vision see the link below 👇
+If you're interested in our larger vision click the link below .
 
 {% content-ref url="vision-and-philosophy.md" %}
 [vision-and-philosophy.md](vision-and-philosophy.md)
