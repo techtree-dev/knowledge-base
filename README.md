@@ -30,7 +30,7 @@ On TechTree, thanks to [**Creator rights**](how-it-works/how-bounties-work/creat
 
 Hiring bounties and content bounties are just the beginning. We can envisage all manner of bounties funded by companies for all manner of activities, fuelling the community.
 
-### Open source projects and new startups
+### Open source projects
 
 We're also excited about the possibility of the community contributing the rewards they get from bounties to many of the underfunded open source projects that prop up most enterprise apps.
 
