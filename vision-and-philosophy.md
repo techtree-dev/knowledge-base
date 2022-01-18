@@ -1,6 +1,10 @@
-# Our philosophy
+# Our vision
 
 > **Developers should be rewarded for the value of their networks, the content the create, and their promotion of our community**
+
+### Our vision
+
+We're building the first social economic network for devs & their teams. No spam. Own what you create. Support open source. A platform that helps devs & tech people unlock the value of their networks, knowledge and data. For us, bounties are the key - and we've started with hiring bounties.
 
 ### Why are we building TechTree?
 
@@ -13,29 +17,17 @@ There are two key areas we're focused on:
 * the budgets companies set aside for technical recruiters and agencies
 * and Web 2.0 platforms that reach multi-billion dollar values on the back of their users need to self-express, create and share content&#x20;
 
-#### Let's start with technical recruitment
+### What's next?
 
-Companies are willing to pay tens of thousands of dollars to source and hire great engineers. Yet, the best source of engineers are the devs already on their teams. Mobilising these gatekeepers by incentivising them as equals to a technical recruiter is at the heart of what TechTree is about.
+Once we've established that [**hiring bounties**](how-it-works/how-bounties-work/hiring-bounties/) are a great way for teams to hire, and for developers to realise the value of their networks, we want to extend the concept of bounties and use it fuel a community where devs can learn, connect, share knowledge and team up.
 
-Companies are infinitely more likely to attract the right people when they're some form of personal connection - a friend - or trusted gatekeeper - an influencer, well-networked person or community leader - involved.
+The next step is bringing content creation to life on TechTree. If you're a content creator, your options for generating income from your content are currently super limited.
 
-This - we believe - is how technical recruitment should be done. By technical people who know the industry and the challenges.
+On TechTree, thanks to [**Creator rights**](how-it-works/how-bounties-work/creator-rights.md), everything you create, you own. Our platform links content - that helps create a successful bounty claims - to a claim payout. Meaning - in principle - the more you create and share knowledge the more you can earn on TechTree.
 
-> **We believe that users should get access to the value they’re creating. Simple. A developer job referral is worth between $20K and $30K. If you’re asking someone to do that for free, that’s essentially asking for a favour that’s worth the value of a good car.**
+### The future
 
-#### Content creation
-
-One other problem we're focused on is that nearly all online communities and social networks do not share value with their users. The creators who build the community rarely share in the success of the platforms. To us, this is a broken model.&#x20;
-
-> _**70% of all online content is user generated but only 1% of the value created by it gets back to the people who’ve created it. This is not fair.**_
-
-Platforms are typically using their creators' content to sell advertising or sell subscription to corporate clients. These hosting platforms have commercialised data and attention connected with ‘free’ user-generated content via a clickbait focused advertising model. Or worse, have given access to users data to recruiters and salespeople who end up relentlessly spamming.
-
-Clickbait promotion has led to content with emotive headlines with controversial opinions to the forefront. This displaces more in-depth, balanced, and well-researched content. This has resulted in users being pulled into content holes, and in worse case scenarios can foster the development of radicalised opinions.
-
-> **The real value that the biggest world businesses have isn’t the tech they’re working on but the content their users are creating and the interactions those creators are fostering.**&#x20;
-
-Solving, this problem for content creators we believe will help TechTree to thrive as a community. The greater the community, the more bounties, the more value shared and the more positive outcomes for our members.
+Hiring bounties and content bounties are just the beginning. We can envisage all manner of bounties funded by companies for all manner of activities, fuelling the community: speaker bounties, patronage bounties, mentoring bounties, Q\&A bounties, bug bounties and more.
 
 ### How the TechTree community can support open source?
 
