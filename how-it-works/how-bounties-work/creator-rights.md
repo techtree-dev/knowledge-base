@@ -13,9 +13,9 @@ Creators on TechTree are any users that have published content, setup a bounty b
 ### What are Creator rights?
 
 Creator rights are attached to anything on TechTree that belongs to a user. This could be:\
-\* a personalised bounty board\
-\* personal links page \
-\* any articles or content you publish
+\- a personalised bounty board\
+\- personal links page \
+\- any articles or content you publish
 
 **It only makes sense that you get rewarded for doing so.**
 
