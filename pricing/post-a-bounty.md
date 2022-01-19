@@ -1,10 +1,6 @@
 # 💰 Post a bounty
 
-### Read about pricing & understand the process
-
-{% content-ref url="../how-it-works/hiring-on-techtree.md" %}
-[hiring-on-techtree.md](../how-it-works/hiring-on-techtree.md)
-{% endcontent-ref %}
+### Read about pricing
 
 {% content-ref url="pricing-hiring-teams.md" %}
 [pricing-hiring-teams.md](pricing-hiring-teams.md)
