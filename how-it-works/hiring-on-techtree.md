@@ -14,7 +14,7 @@ description: >-
 6. Referrers can decide how much of the bounty they would like to keep and how much they'd like to share with the candidate.
 7. We screen candidates first, and only recommend to you those who we think are a good fit.
 8. You only owe the bounty when your new hire starts.
-9. The amount you owe can be up to 50% more than the bounty quoted on the role as we have to account for Sharer rights & Creator rights (as well as our 15% TechTree fee in the event that the hire is sourced from outside of your network\*\*.
+9. The amount you owe can be up to 50% more than the bounty quoted on the role as we have to account for [Sharer rights](how-bounties-work/sharer-rights.md) & [Creator rights](how-bounties-work/creator-rights.md) (as well as our 15% TechTree fee in the event that the hire is sourced from outside of your network\*\*.
 10. The bounty is refundable for 60 days, in case your new hire doesn’t work out.
 
 \* This is what bounty hunters will see on our board, and what they will be paid (in full) if they refer someone whom you hire. **TechTree fees are 15% of the posted bounty** for running the marketplace and vetting candidates.
