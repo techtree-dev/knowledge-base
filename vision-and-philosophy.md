@@ -15,7 +15,7 @@ Our goal at TechTree is to create an environment in which: tech people can help 
 There are two key areas we're focused on:
 
 * the budgets companies set aside for technical recruiters and agencies
-* and Web 2.0 platforms that reach multi-billion dollar values on the back of their users need to self-express, create and share content&#x20;
+* and Web 2.0 platforms that reach multi-billion dollar valuations on the backs of their users need to self-express, create and share content without sharing any of the value
 
 ### What's next?
 
