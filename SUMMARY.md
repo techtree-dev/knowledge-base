@@ -15,7 +15,7 @@
   * [Creator rights](how-it-works/how-bounties-work/creator-rights.md)
   * [Bounty Hunters Guild](how-it-works/how-bounties-work/bounty-hunters-guild.md)
 * [Hiring on TechTree](how-it-works/hiring-on-techtree.md)
-* [💰 Post a bounty](pricing/post-a-bounty.md)
+* [💰 Post a Hiring Bounty](how-it-works/post-a-hiring-bounty.md)
 * [Referring or applying](how-it-works/referring-or-applying.md)
 
 ## Pricing
