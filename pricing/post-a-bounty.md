@@ -12,8 +12,8 @@
 
 ### Get started 🚀
 
-1. Complete this typeform (4 questions):
+1. **Provide your details**: Complete this typeform with 4 questions:
 
 {% embed url="https://techtree-dev.typeform.com/to/ilF2JgiB" %}
 
-2\. You will receive a follow-up typeform, where we collect links to your open roles and you can set a % of annual salary that you'd like the bounty to be at.
+2\. **Provide your open roles**: You will receive a follow-up typeform, where we collect links to your open roles and you can set a % of annual salary that you'd like the bounty to be at.
