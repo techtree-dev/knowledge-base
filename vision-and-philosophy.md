@@ -1,6 +1,8 @@
 # Our vision
 
-> 💡 **Developers should be rewarded for the value of their networks, the content the create, and their promotion of our community**
+{% hint style="success" %}
+💡 **Developers should be rewarded for the value of their networks, the content the create, and their promotion of our community**
+{% endhint %}
 
 ### Our vision
 
