@@ -12,7 +12,9 @@ If you're interested in our larger vision click the link below.
 
 We've started by focusing on a tricky problem, technical recruitment. Many scale-up tech companies - perhaps ones you've worked in - struggle to attract and keep great people. And - from our perspective, as developers - we know how frustrating it can be to get an endless stream of emails / in-mail / phone-calls from recruiters offering roles at companies we've either never heard of or that they can't even us the name of.
 
-That's why we've introduced the idea of hiring bounties 💰. **The goal is to create a fair incentive structure that encourages us** - the developers - **to think of people we know and refer them into teams we're connected to**. It's about getting a few highly personal recommendations rather than an endless stream of cold emails. In our opinion, it's us, the developers - and our networks - that are best placed to attract new developers to a team.&#x20;
+That's why we've introduced the idea of hiring bounties 💰.&#x20;
+
+**The goal is to create a fair incentive structure that encourages us** - the developers - **to think of people we know and refer them into teams we're connected to**. It's about getting a few highly personal recommendations rather than an endless stream of cold emails. In our opinion, it's us, the developers - and our networks - that are best placed to attract new developers to a team.&#x20;
 
 It's our job at TechTree, to help companies understand this value and reward teams and their friends accordingly.
 
