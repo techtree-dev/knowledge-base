@@ -12,7 +12,7 @@ To start posting bounties we require you to sign up for a modest 💰 **£200 / 
 
 If the hire comes from **inside your network**, there is no bounty fee (**£ 0**).
 
-If the hire comes from **outside your network**, echTree's fees are **15% of your proposed bounty**.&#x20;
+If the hire comes from **outside your network**, TechTree's fees are **15% of your proposed bounty**.&#x20;
 
 We can track referrals to your dev teams and friends of the company via tracked link and associations in our database.
 
