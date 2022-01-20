@@ -1,7 +1,6 @@
 # Table of contents
 
-* [What is TechTree](README.md)
-* [Our vision](vision-and-philosophy.md)
+* [What is Techtree](README.md)
 * [Litepaper](litepaper.md)
 
 ## 🤓 How it works
