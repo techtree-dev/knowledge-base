@@ -4,7 +4,7 @@
 
 ### Our vision
 
-We're building the **first social economic network for devs & their teams**. No spam. Own what you create. Support open source. A platform that helps devs & tech people unlock the value of their networks, knowledge and data. For us, bounties are the key - and we've started with hiring bounties.
+We're building the **first socio economic network for devs & their teams**. No spam. Own what you create. Support open-source. A platform that helps devs & tech people unlock the value of their networks, knowledge and data. For us, bounties are the key - and we've started with hiring bounties.
 
 ### Why are we building TechTree?
 
