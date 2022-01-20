@@ -30,3 +30,5 @@ Bounties are available for a number of things on TechTree. At the moment, the mo
 **The Creator** - the one who creates something that directly leads to the Applicant submitting a claim on a Bounty, for example the author of an article that the Applicant read before applying for a role.&#x20;
 
 **The Sharer** - the one who generates and shares a tracked TechTree link that causes either the Referrer or the Applicant to join the platform.
+
+Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out 👋

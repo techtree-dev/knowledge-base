@@ -1,9 +1,5 @@
 # Sharer rights
 
-{% hint style="info" %}
-Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out 👋
-{% endhint %}
-
 TechTree is the user-owned social network built on the idea that any action that grows the community should be rewarded.&#x20;
 
 **When you create a tracked link, that link will forever be connected to you.**&#x20;
@@ -18,3 +14,7 @@ Bounties are available for a number of things on TechTree. At the moment, the mo
 * **The Sharer** - the one who generates and shares a tracked TechTree link that causes either the Referrer or the Applicant to join the platform.
 
 **The more engaging tracked links that you generate and share, the more likely** you are to be **rewarded** for helping the TechTree community grow.
+
+{% hint style="info" %}
+Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out 👋
+{% endhint %}
