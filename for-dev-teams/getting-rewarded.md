@@ -20,7 +20,7 @@ By sharing your knowledge on TechTree, you'll become a pioneer of the open-sourc
 2.  **Join the** [**Contributor Airtable**](https://airtable.com/shribrqEDr8IKEvX2)
 
     Register your interest in creating content. It doesn't matter if you've never created content before or if you don't yet have a fully fleshed out idea. We'll be there to support and help you share your knowledge in an impactful way. In the coming months, we'll be setting up an online community where you'll be able to ask for help and get feedback from other devs.
-3.  **Join the** [**Bounty Hunters' Guild**](https://mytechtree.typeform.com/bountyguild)\*\*\*\*
+3.  **Join the** [**Bounty Hunters' Guild**](https://techtree-dev.typeform.com/bountyguild)\*\*\*\*
 
     By joining the Bounty Hunters' Guild, you'll be kept up-to-date on all the latest Bounties. Whether you're a Referrer, Sharer or Applicant, the Bounty Hunters' Guild is there to help you win the Bounties you're interested in. Get supportive tips, updates on the latest Bounties and connect with likeminded Bounty Hunters.
 4.  **Create and share content**
