@@ -2,12 +2,12 @@
 
 ### Read about pricing & understand the process
 
-{% content-ref url="hiring-on-techtree.md" %}
-[hiring-on-techtree.md](hiring-on-techtree.md)
+{% content-ref url="../how-it-works/hiring-on-techtree.md" %}
+[hiring-on-techtree.md](../how-it-works/hiring-on-techtree.md)
 {% endcontent-ref %}
 
-{% content-ref url="../pricing/general-pricing.md" %}
-[general-pricing.md](../pricing/general-pricing.md)
+{% content-ref url="pricing-hiring-teams.md" %}
+[pricing-hiring-teams.md](pricing-hiring-teams.md)
 {% endcontent-ref %}
 
 ### Get started 🚀

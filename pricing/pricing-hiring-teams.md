@@ -1,9 +1,3 @@
----
-description: >-
-  Are you a bounty hunter? You can make referrals or apply for free! We're the
-  ones trying to pay you. 😎
----
-
 # General pricing
 
 ### **Subscription Fee**
@@ -12,13 +6,13 @@ To start posting bounties we require you to sign up for a modest 💰 **£200 / 
 
 ### Bounty Fee
 
-{% content-ref url="../how-it-works/post-a-bounty.md" %}
-[post-a-bounty.md](../how-it-works/post-a-bounty.md)
+{% content-ref url="post-a-bounty.md" %}
+[post-a-bounty.md](post-a-bounty.md)
 {% endcontent-ref %}
 
-If the hire comes from inside your network, **there is no bounty fee (£ 0)**.
+If the hire comes from **inside your network**, there is no bounty fee (**£ 0**).
 
-If the hire comes from outside your network, echTree's fees are **15% of your proposed bounty**.&#x20;
+If the hire comes from **outside your network**, echTree's fees are **15% of your proposed bounty**.&#x20;
 
 We can track referrals to your dev teams and friends of the company via tracked link and associations in our database.
 
