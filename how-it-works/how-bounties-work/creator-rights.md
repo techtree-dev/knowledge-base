@@ -6,10 +6,6 @@ description: >-
 
 # Creator rights
 
-### What is a Creator?
-
-Creators on TechTree are any users that have published content, setup a bounty board, create their personal links page.
-
 ### What are Creator rights?
 
 Creator rights are attached to anything on TechTree that belongs to a user. This could be:\
