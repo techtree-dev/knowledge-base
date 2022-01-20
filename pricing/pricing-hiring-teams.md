@@ -24,6 +24,6 @@ Recruiting is a hard problem - this price should reflect what you feel you need 
 
 See an example below 👇
 
-{% content-ref url="../how-it-works/how-bounties-work/hiring-bounties/example.md" %}
-[example.md](../how-it-works/how-bounties-work/hiring-bounties/example.md)
+{% content-ref url="../how-it-works/how-bounties-work/hiring-bounties/examples.md" %}
+[examples.md](../how-it-works/how-bounties-work/hiring-bounties/examples.md)
 {% endcontent-ref %}

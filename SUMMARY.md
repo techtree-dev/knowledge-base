@@ -1,17 +1,18 @@
 # Table of contents
 
 * [What is Techtree](README.md)
+* [Our Vision](our-vision.md)
 * [Litepaper](litepaper.md)
 
 ## 🤓 How it works
 
 * [How Bounties work](how-it-works/how-bounties-work/README.md)
   * [Hiring Bounties 💰](how-it-works/how-bounties-work/hiring-bounties/README.md)
-    * [😄 Learn the lingo](how-it-works/how-bounties-work/hiring-bounties/learn-the-lingo.md)
-    * [➕ Example](how-it-works/how-bounties-work/hiring-bounties/example.md)
-    * [💡 FAQs](how-it-works/how-bounties-work/hiring-bounties/faqs.md)
-  * [Sharer rights](how-it-works/how-bounties-work/sharer-rights.md)
-  * [Creator rights](how-it-works/how-bounties-work/creator-rights.md)
+    * [Roles within the Hiring Bounties](how-it-works/how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/README.md)
+      * [Sharer rights](how-it-works/how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/sharer-rights.md)
+      * [Creator rights](how-it-works/how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/creator-rights.md)
+    * [Examples](how-it-works/how-bounties-work/hiring-bounties/examples.md)
+    * [FAQs](how-it-works/how-bounties-work/hiring-bounties/faqs.md)
   * [Bounty Hunters Guild](how-it-works/how-bounties-work/bounty-hunters-guild.md)
 * [Hiring on TechTree](how-it-works/hiring-on-techtree.md)
 * [💰 Post a Hiring Bounty](how-it-works/post-a-hiring-bounty.md)

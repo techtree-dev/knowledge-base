@@ -1,4 +1,4 @@
-# ➕ Example
+# Examples
 
 **The Scenario**
 
@@ -34,6 +34,6 @@ A short time later, Bob is invited to interview. Impresses the WayFlyer team and
 | Satoshi Nakamoto | Creator\* | $2,500    |
 | TechTree         | Fee\*\*   | $1,500    |
 
-**\*Creators are any user that has a personalised bounty board, a personalised links page or has published content - where we can link their resource on TechTree back to a successful application. Read about** [**Creator rights**](../creator-rights.md) **for more info.**
+**\*Creators are any user that has a personalised bounty board, a personalised links page or has published content - where we can link their resource on TechTree back to a successful application. Read about** [**Creator rights**](roles-within-the-hiring-bounties/creator-rights.md) **for more info.**
 
 **\*\*This fee is only payable if Alice is not connected with the Hiring Company**
