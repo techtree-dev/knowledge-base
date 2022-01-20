@@ -20,13 +20,13 @@ Imagine, Alice has seen a job on a Bounty Board (with a bounty of **$10,000**) o
 
 Bob thinks the role is right up their street and applies. Bob has become an Applicant. Because Bob and the role are a match made in Heaven, Bob is hired. Alice and Bob split the bounty between them because this type of friendship should be rewarded!
 
-**Let's kick it up a notch.**
+_Let's kick it up a notch._
 
 The whole reason Alice heard of TechTree and the Bounty Boards is because her other friend, Charlie recommended TechTree and send Alice a tracked link to sign up. Because Charlie shared TechTree with people he knew would love us, Charlie is a Sharer.
 
 As a reward for being a pioneer and opening up TechTree to his network, Charlie is rewarded with part of the bounty when Bob is hired. Amazing! And don't worry, Alice and Bob still split the bounty as promised. Double amazing.
 
-**Here's a worked example**
+**Here's an example:**
 
 ![](<../../.gitbook/assets/Screenshot 2022-01-07 at 11.52.25.png>)
 

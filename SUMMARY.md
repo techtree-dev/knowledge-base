@@ -6,8 +6,6 @@
 
 ## 🤓 How it works
 
-* [Referring or applying](how-it-works/referring-or-applying.md)
-* [Hiring on TechTree](how-it-works/hiring-on-techtree.md)
 * [How Bounties work](how-it-works/how-bounties-work/README.md)
   * [Hiring Bounties 💰](how-it-works/how-bounties-work/hiring-bounties/README.md)
     * [😄 Learn the lingo](how-it-works/how-bounties-work/hiring-bounties/learn-the-lingo.md)
@@ -16,11 +14,14 @@
   * [Sharer rights](how-it-works/how-bounties-work/sharer-rights.md)
   * [Creator rights](how-it-works/how-bounties-work/creator-rights.md)
   * [Bounty Hunters Guild](how-it-works/how-bounties-work/bounty-hunters-guild.md)
+* [Hiring on TechTree](how-it-works/hiring-on-techtree.md)
+* [💰 Post a bounty](how-it-works/post-a-bounty.md)
+* [Referring or applying](how-it-works/referring-or-applying.md)
 
 ## Pricing
 
-* [Pricing: Hiring teams](pricing/pricing-hiring-teams.md)
-* [💰 Post a bounty](pricing/post-a-bounty.md)
+* [General pricing](pricing/general-pricing.md)
+* [Additional options](pricing/additional-options.md)
 
 ## For dev teams
 
