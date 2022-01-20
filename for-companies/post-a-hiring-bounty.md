@@ -1,4 +1,4 @@
-# 💰 Post a Hiring Bounty
+# Post a Hiring Bounty
 
 ### Read about pricing & understand the process
 
@@ -6,8 +6,8 @@
 [hiring-on-techtree.md](hiring-on-techtree.md)
 {% endcontent-ref %}
 
-{% content-ref url="../pricing/pricing-hiring-teams.md" %}
-[pricing-hiring-teams.md](../pricing/pricing-hiring-teams.md)
+{% content-ref url="../how-it-works/general-pricing.md" %}
+[general-pricing.md](../how-it-works/general-pricing.md)
 {% endcontent-ref %}
 
 ### Get started 🚀

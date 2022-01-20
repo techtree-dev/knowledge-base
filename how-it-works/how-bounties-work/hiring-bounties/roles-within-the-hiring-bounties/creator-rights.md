@@ -31,4 +31,7 @@ Bounties are available for a number of things on TechTree. At the moment, the mo
 
 **The Sharer** - the one who generates and shares a tracked TechTree link that causes either the Referrer or the Applicant to join the platform.
 
+{% hint style="info" %}
 Help us build a platform for all! We're currently working on this page, if you have any feedback it would be much appreciated! Please do reach out 👋
+{% endhint %}
+

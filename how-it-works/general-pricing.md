@@ -6,8 +6,8 @@ To start posting bounties we require you to sign up for a modest 💰 **£200 / 
 
 ### Bounty Fee
 
-{% content-ref url="../how-it-works/post-a-hiring-bounty.md" %}
-[post-a-hiring-bounty.md](../how-it-works/post-a-hiring-bounty.md)
+{% content-ref url="../for-companies/post-a-hiring-bounty.md" %}
+[post-a-hiring-bounty.md](../for-companies/post-a-hiring-bounty.md)
 {% endcontent-ref %}
 
 If the hire comes from **inside your network**, there is no bounty fee (**£ 0**).
@@ -24,6 +24,6 @@ Recruiting is a hard problem - this price should reflect what you feel you need 
 
 See an example below 👇
 
-{% content-ref url="../how-it-works/how-bounties-work/hiring-bounties/examples.md" %}
-[examples.md](../how-it-works/how-bounties-work/hiring-bounties/examples.md)
+{% content-ref url="how-bounties-work/hiring-bounties/examples.md" %}
+[examples.md](how-bounties-work/hiring-bounties/examples.md)
 {% endcontent-ref %}

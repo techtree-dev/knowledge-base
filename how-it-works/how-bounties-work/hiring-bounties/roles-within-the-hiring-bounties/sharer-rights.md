@@ -6,6 +6,8 @@ TechTree is the user-owned social network built on the idea that any action that
 
 By generating a tracked link and sharing it, you help the TechTree community grow. When someone joins the platform through your tracked link, you get rewarded too whenever they win a Bounty.
 
+### The Bounty claim chain
+
 Bounties are available for a number of things on TechTree. At the moment, the most common is a Hiring Bounty. When a Bounty claim is made, there can be as many as four different people who can be rewarded:
 
 * **The Applicant** - the one who is applying to win claim a Bounty.

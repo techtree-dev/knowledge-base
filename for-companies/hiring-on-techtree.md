@@ -11,11 +11,11 @@ TechTree is a hiring marketplace that rewards developers and their network with 
 _**Process for companies hiring**_
 
 1. **Identify roles**: Tell us what roles you need help with. Examples of roles hired through us are: Back-end engineer, Ruby...
-2. **Budget for the role**: Set a bounty for each role as % of annual salary or day rate across all roles.\* See our [Pricing Page](../pricing/pricing-hiring-teams.md) for more info.
+2. **Budget for the role**: Set a bounty for each role as % of annual salary or day rate across all roles.\* See our [Pricing Page](../how-it-works/general-pricing.md) for more info.
 3. **Publish**: We publish your role and the bounty to our hiring bounty boards.
 4. **Promote**: We promote each role to targeted audiences. We use the TechTree network for general roles, where we already trust people to refer high-caliber talent.
 
-We also _strongly_ encourage you to share the posting with your broader network especially your dev teams who can have their owned tracked links (which takes advantage of [Sharer rights](how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/sharer-rights.md)) and their own bounty boards (which leverages [Creator rights](how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/creator-rights.md)).
+We also _strongly_ encourage you to share the posting with your broader network especially your dev teams who can have their owned tracked links (which takes advantage of [Sharer rights](../how-it-works/how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/sharer-rights.md)) and their own bounty boards (which leverages [Creator rights](../how-it-works/how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/creator-rights.md)).
 
 _**Conditions**_
 
@@ -23,7 +23,7 @@ _**Conditions**_
 * Referrers can decide how much of the bounty they would like to keep and how much they'd like to share with the candidate.
 * We screen candidates first, and only recommend to you those who we think are a good fit.
 * You only owe the bounty when your new hire starts.
-* The amount you owe can be up to 50% more than the bounty quoted on the role as we have to account for [Sharer rights](how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/sharer-rights.md) & [Creator rights](how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/creator-rights.md) (as well as our 15% TechTree fee in the event that the hire is sourced from outside of your network\*\*.
+* The amount you owe can be up to 50% more than the bounty quoted on the role as we have to account for [Sharer rights](../how-it-works/how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/sharer-rights.md) & [Creator rights](../how-it-works/how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/creator-rights.md) (as well as our 15% TechTree fee in the event that the hire is sourced from outside of your network\*\*.
 * The bounty is refundable for 60 days, in case your new hire doesn’t work out.
 
 \* This is what bounty hunters will see on our board, and what they will be paid (in full) if they refer someone whom you hire. **TechTree fees are 15% of the posted bounty** for running the marketplace and vetting candidates.
@@ -32,8 +32,8 @@ _**Conditions**_
 \
 For a fully worked example please see below 👇
 
-{% content-ref url="how-bounties-work/hiring-bounties/examples.md" %}
-[examples.md](how-bounties-work/hiring-bounties/examples.md)
+{% content-ref url="../how-it-works/how-bounties-work/hiring-bounties/examples.md" %}
+[examples.md](../how-it-works/how-bounties-work/hiring-bounties/examples.md)
 {% endcontent-ref %}
 
 

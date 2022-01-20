@@ -2,6 +2,10 @@
 
 **The Scenario**
 
+First, let's remember there are up to 4 roles (applicant, referrer, sharer, creator) in the claim chain for a bounty.
+
+****
+
 Satoshi Nakamoto joins TechTree and posts an article about cryptography. **Satoshi** has become a **Creator**.
 
 

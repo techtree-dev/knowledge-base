@@ -4,6 +4,15 @@
 * [Our Vision](our-vision.md)
 * [Litepaper](litepaper.md)
 
+## 😎 FOR COMPANIES
+
+* [Hiring on TechTree](for-companies/hiring-on-techtree.md)
+* [Post a Hiring Bounty](for-companies/post-a-hiring-bounty.md)
+
+## 💯 FOR REFERRERS / APPLICANTS
+
+* [Referring or applying](for-referrers-applicants/referring-or-applying.md)
+
 ## 🤓 How it works
 
 * [How Bounties work](how-it-works/how-bounties-work/README.md)
@@ -14,14 +23,8 @@
     * [Examples](how-it-works/how-bounties-work/hiring-bounties/examples.md)
     * [FAQs](how-it-works/how-bounties-work/hiring-bounties/faqs.md)
   * [Bounty Hunters Guild](how-it-works/how-bounties-work/bounty-hunters-guild.md)
-* [Hiring on TechTree](how-it-works/hiring-on-techtree.md)
-* [💰 Post a Hiring Bounty](how-it-works/post-a-hiring-bounty.md)
-* [Referring or applying](how-it-works/referring-or-applying.md)
-
-## Pricing
-
-* [General pricing](pricing/pricing-hiring-teams.md)
-* [Additional options](pricing/additional-options.md)
+* [General pricing](how-it-works/general-pricing.md)
+* [Additional options](how-it-works/additional-options.md)
 
 ## For dev teams
 
@@ -29,7 +32,7 @@
 * [Start sharing](for-dev-teams/for-sharers.md)
 * [Get involved](for-dev-teams/getting-rewarded.md)
 
-## 🤓 Guides
+## 📖 Guides
 
 * [For Community Leaders](guides/for-community-leaders.md)
 

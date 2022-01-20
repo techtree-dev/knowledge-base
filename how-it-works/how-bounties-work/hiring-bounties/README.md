@@ -23,11 +23,14 @@ For further details on the roles within hiring bounties, click below:
 [roles-within-the-hiring-bounties](roles-within-the-hiring-bounties/)
 {% endcontent-ref %}
 
+For additional examples for all use cases of the hiring bounty:
+
 {% content-ref url="examples.md" %}
 [examples.md](examples.md)
 {% endcontent-ref %}
 
+For Frequently Asked Questions:
+
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
-
