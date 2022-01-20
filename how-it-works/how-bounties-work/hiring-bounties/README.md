@@ -4,8 +4,8 @@
 [learn-the-lingo.md](learn-the-lingo.md)
 {% endcontent-ref %}
 
-{% content-ref url="worked-example.md" %}
-[worked-example.md](worked-example.md)
+{% content-ref url="example.md" %}
+[example.md](example.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

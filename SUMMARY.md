@@ -9,7 +9,7 @@
 * [How Bounties work](how-it-works/how-bounties-work/README.md)
   * [Hiring Bounties 💰](how-it-works/how-bounties-work/hiring-bounties/README.md)
     * [😄 Learn the lingo](how-it-works/how-bounties-work/hiring-bounties/learn-the-lingo.md)
-    * [➕ Worked Example](how-it-works/how-bounties-work/hiring-bounties/worked-example.md)
+    * [➕ Example](how-it-works/how-bounties-work/hiring-bounties/example.md)
     * [💡 FAQs](how-it-works/how-bounties-work/hiring-bounties/faqs.md)
   * [Sharer rights](how-it-works/how-bounties-work/sharer-rights.md)
   * [Creator rights](how-it-works/how-bounties-work/creator-rights.md)

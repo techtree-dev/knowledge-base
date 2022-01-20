@@ -10,7 +10,7 @@ TechTree is a hiring marketplace that rewards developers and their network with 
 
 _**Process for companies hiring**_
 
-1. **Identify roles**: Tell us what roles you need help with. Examples of roles hired through us are: back-end engineer, Ruby...
+1. **Identify roles**: Tell us what roles you need help with. Examples of roles hired through us are: Back-end engineer, Ruby...
 2. **Budget for the role**: Set a bounty for each role as % of annual salary or day rate across all roles.\* See our [Pricing Page](../pricing/pricing-hiring-teams.md) for more info.
 3. **Publish**: We publish your role and the bounty to our hiring bounty boards.
 4. **Promote**: We promote each role to targeted audiences. We use the TechTree network for general roles, where we already trust people to refer high-caliber talent.
@@ -32,8 +32,8 @@ _**Conditions**_
 \
 For a fully worked example please see below 👇
 
-{% content-ref url="how-bounties-work/hiring-bounties/worked-example.md" %}
-[worked-example.md](how-bounties-work/hiring-bounties/worked-example.md)
+{% content-ref url="how-bounties-work/hiring-bounties/example.md" %}
+[example.md](how-bounties-work/hiring-bounties/example.md)
 {% endcontent-ref %}
 
 
