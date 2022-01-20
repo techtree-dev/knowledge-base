@@ -1,10 +1,10 @@
 # Our vision
 
-> **Developers should be rewarded for the value of their networks, the content the create, and their promotion of our community**
+> 💡 **Developers should be rewarded for the value of their networks, the content the create, and their promotion of our community**
 
 ### Our vision
 
-We're building the first social economic network for devs & their teams. No spam. Own what you create. Support open source. A platform that helps devs & tech people unlock the value of their networks, knowledge and data. For us, bounties are the key - and we've started with hiring bounties.
+We're building the **first social economic network for devs & their teams**. No spam. Own what you create. Support open source. A platform that helps devs & tech people unlock the value of their networks, knowledge and data. For us, bounties are the key - and we've started with hiring bounties.
 
 ### Why are we building TechTree?
 
@@ -27,7 +27,7 @@ On TechTree, thanks to [**Creator rights**](how-it-works/how-bounties-work/creat
 
 ### The future
 
-Hiring bounties and content bounties are just the beginning. We can envisage all manner of bounties funded by companies for all manner of activities, fuelling the community: speaker bounties, patronage bounties, mentoring bounties, Q\&A bounties, bug bounties and more.
+Hiring bounties and content bounties are just the beginning. We can envisage all manner of bounties funded by companies for all manner of activities, fueling the community: speaker bounties, patronage bounties, mentoring bounties, Q\&A bounties, bug bounties and more.
 
 ### How the TechTree community can support open source?
 
@@ -51,8 +51,8 @@ Whilst there are a few community focused businesses and systems out there, these
 * Crypto ecosystems
 * AirBnB
 
-Pawel and James, our CEO and CTO, have spent a while being involved in businesses operating in the crypto space. This has influenced the thinking at TechTree, especially business models that emerged thanks to blockchain.
+[Pawel ](https://www.linkedin.com/in/paweltomczuk/)and [James](https://www.linkedin.com/in/jamestuckett/), our CEO and CTO, have spent a while being involved in businesses operating in the crypto space. This has influenced the thinking at TechTree, especially business models that emerged thanks to blockchain.
 
 ### Want to find out more? We love to chat!
 
-If you’re interested in what’s happening at TechTree and want to get involved more, we’d love to hear from you! You can reach us over on [Twitter](https://twitter.com/TechTree\_dev), [LinkedIn](https://www.linkedin.com/company/techtreedev) and via email - pawel@techtree.dev
+If you’re interested in what’s happening at TechTree and want to get involved more, we’d love to hear from you! You can reach us over on [Twitter](https://twitter.com/TechTree\_dev), [LinkedIn](https://www.linkedin.com/company/techtreedev) and via email - [pawel@techtree.dev](https://app.gitbook.com/u/kshYdooD3ZXhZl3VnRMkIe3RcOG2)
