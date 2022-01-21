@@ -24,7 +24,6 @@
     * [FAQs](how-it-works/how-bounties-work/hiring-bounties/faqs.md)
   * [Bounty Hunters Guild](how-it-works/how-bounties-work/bounty-hunters-guild.md)
 * [General pricing](how-it-works/general-pricing.md)
-* [Additional options](how-it-works/additional-options.md)
 
 ## For dev teams
 

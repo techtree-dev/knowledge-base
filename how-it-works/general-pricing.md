@@ -4,26 +4,41 @@
 
 To summarize and make this 100% transparent:
 
-| Type             | Formula                         | Frequency | Condition                                                                                                                                                                                  |
-| ---------------- | ------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Subscription Fee | **£200**                        | Monthly   | Mandatory after the first 2 weeks.                                                                                                                                                         |
-| Bounty Fee       | **£0** or 15% of the bounty  💰 | Once off  | <ul><li>If the hire comes from <strong>inside your network,£ 0</strong></li><li>If the hire comes from <strong>outside your network</strong>, <strong>15% of the bounty</strong></li></ul> |
-| Sharer Fee       | 10% of the bounty  💰           | Once off  | If the applicant came through a Sharer.                                                                                                                                                    |
-| Creator Fee      | 25% of the bounty  💰           | Once off  | If the applicant came through a Creator.                                                                                                                                                   |
+Currently for Beta users we are giving a subscription of **£200** of the regular £500 per month.
+
+**Hiring through your network:**
+
+In the case you put out a bounty and the person you end up hiring comes from your own network:
+
+| Type             | Formula               | Frequency                          | Paid to  |
+| ---------------- | --------------------- | ---------------------------------- | -------- |
+| Subscription Fee | **£200**              | Monthly, after the first two weeks | Techtree |
+| Transaction Fee  | **£0**                | Once off                           | Techtree |
+| Sharer Fee       | 10% of the bounty  💰 | Once off                           | Sharer   |
+| Creator Fee      | 25% of the bounty  💰 | Once off                           | Creator  |
+
+****
+
+**Hiring through TechTree network:**
+
+In the case you put out a bounty and the person you end up hiring comes from your own network:
+
+| Type             | Formula               | Frequency                          | Paid to  |
+| ---------------- | --------------------- | ---------------------------------- | -------- |
+| Subscription Fee | **£200**              | Monthly, after the first two weeks | Techtree |
+| Transaction Fee  | 15% of the bounty  💰 | Once off                           | Techtree |
+| Sharer Fee       | 10% of the bounty  💰 | Once off                           | Sharer   |
+| Creator Fee      | 25% of the bounty  💰 | Once off                           | Creator  |
 
 
 
-Here is some further information:
+Here is some additional information on the fees:
 
 ### **Subscription Fee**
 
 To start posting bounties we require you to sign up for a modest **£200 / mth** which gives you the ability to post and unlimited amount of bounties.
 
-### Bounty Fee
-
-{% content-ref url="../for-companies/post-a-hiring-bounty.md" %}
-[post-a-hiring-bounty.md](../for-companies/post-a-hiring-bounty.md)
-{% endcontent-ref %}
+### Transaction Fee
 
 If the hire comes from **inside your network**, there is no bounty fee (**£ 0**).
 
