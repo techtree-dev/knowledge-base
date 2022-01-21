@@ -1,6 +1,8 @@
 # Examples
 
-First, let's remember there are up to 4 roles (applicant, referrer, sharer, creator) in the claim chain for a bounty. There are different cases for their interactions, we summarized the main ones here:&#x20;
+First, let's remember there are up to 4 [roles ](roles-within-the-hiring-bounties/)(applicant, referrer, sharer, creator) and up to 4 [types of fees](../../general-pricing.md) in the claim chain for a bounty. This depends on the following cases:
+
+
 
 **Case 1 - Referrer and Applicant**
 
@@ -12,13 +14,13 @@ Bob thinks the role is right up their street and applies. **Bob** has become an 
 
 This is what the transaction should look like:
 
-| Player   | Role      | Reward 💰 |
-| -------- | --------- | --------- |
-| Alice    | Referrer  | $5,000    |
-| Bob      | Applicant | $5,000    |
-| TechTree | Fee\*\*   | $1,500    |
+| Player   | Role              | Reward 💰 |
+| -------- | ----------------- | --------- |
+| Alice    | Referrer          | $5,000    |
+| Bob      | Applicant         | $5,000    |
+| TechTree | Transaction Fee\* | $1,500    |
 
-\*\*This fee is only payable if Alice is not connected with the Hiring Company.
+\*This fee is only payable if Alice is not connected with the Hiring Company.
 
 
 
@@ -34,14 +36,14 @@ A short time later, Bob is invited to interview. Impresses the WayFlyer team and
 
 **The Workings**
 
-| Player   | Role      | Reward 💰 |
-| -------- | --------- | --------- |
-| Alice    | Referrer  | $5,000    |
-| Bob      | Applicant | $5,000    |
-| Charlie  | Sharer    | $1,000    |
-| TechTree | Fee\*\*   | $1,500    |
+| Player   | Role              | Reward 💰 |
+| -------- | ----------------- | --------- |
+| Alice    | Referrer          | $5,000    |
+| Bob      | Applicant         | $5,000    |
+| Charlie  | Sharer Fee        | $1,000    |
+| TechTree | Transaction Fee\* | $1,500    |
 
-\*\*This fee is only payable if Alice is not connected with the Hiring Company.
+\*This fee is only payable if Alice is not connected with the Hiring Company.
 
 
 
@@ -63,14 +65,12 @@ A short time later, Bob is invited to interview. Impresses the WayFlyer team and
 
 **The Workings**
 
-| Player           | Role      | Reward 💰 |
-| ---------------- | --------- | --------- |
-| Alice            | Referrer  | $5,000    |
-| Bob              | Applicant | $5,000    |
-| Charlie          | Sharer    | $1,000    |
-| Satoshi Nakamoto | Creator\* | $2,500    |
-| TechTree         | Fee\*\*   | $1,500    |
+| Player           | Role              | Reward 💰 |
+| ---------------- | ----------------- | --------- |
+| Alice            | Referrer          | $5,000    |
+| Bob              | Applicant         | $5,000    |
+| Charlie          | Sharer Fee        | $1,000    |
+| Satoshi Nakamoto | Creator Fee       | $2,500    |
+| TechTree         | Transaction Fee\* | $1,500    |
 
-\*Creators are any user that has a personalised bounty board, a personalised links page or has published content - where we can link their resource on TechTree back to a successful application. Read about [Creator rights](roles-within-the-hiring-bounties/creator-rights.md) for more info.
-
-\*\*This fee is only payable if Alice is not connected with the Hiring Company.
+\*This fee is only payable if Alice is not connected with the Hiring Company.
