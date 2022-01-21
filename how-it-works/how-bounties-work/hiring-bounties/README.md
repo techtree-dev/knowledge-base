@@ -17,13 +17,13 @@ This is what the transaction should look like:
 | Alice  | Referrer  | $5,000    |
 | Bob    | Applicant | $5,000    |
 
-For further details on the roles within hiring bounties, click below:
+For further details on the **roles** within hiring bounties, click below:
 
 {% content-ref url="roles-within-the-hiring-bounties/" %}
 [roles-within-the-hiring-bounties](roles-within-the-hiring-bounties/)
 {% endcontent-ref %}
 
-For additional examples for all use cases of the hiring bounty:
+For additional **examples** for all use cases of the hiring bounty:
 
 {% content-ref url="examples.md" %}
 [examples.md](examples.md)
