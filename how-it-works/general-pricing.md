@@ -2,9 +2,9 @@
 
 ### Overview
 
-To summarize and make this 100% transparent:
+To summarize and make this 100% transparent. Many of our calculations are based on the [bounties ](how-bounties-work/)and there are two types of scenarios for companies using our services:
 
-**Hiring through your network:**
+### **1. Hiring through your network:**
 
 In the case you put out a bounty and the person you end up hiring comes from your own network:
 
@@ -17,7 +17,7 @@ In the case you put out a bounty and the person you end up hiring comes from you
 
 ****
 
-**Hiring through TechTree network:**
+### **2. Hiring through TechTree network:**
 
 In the case you put out a bounty and the person you end up hiring comes from your own network:
 
