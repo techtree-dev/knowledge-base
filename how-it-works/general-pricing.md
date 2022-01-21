@@ -4,12 +4,12 @@
 
 To summarize and make this 100% transparent:
 
-| Type             | Formula                     | Frequency | Condition                                                                                                                                                                                  |
-| ---------------- | --------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Subscription Fee | **£200**                    | Monthly   | Mandatory after the first 2 weeks.                                                                                                                                                         |
-| Bounty Fee       | **£0** or 15% of the bounty | Once off  | <ul><li>If the hire comes from <strong>inside your network,£ 0</strong></li><li>If the hire comes from <strong>outside your network</strong>, <strong>15% of the bounty</strong></li></ul> |
-| Sharer Fee       | 10% of the bounty           | Once off  | If the applicant came through a Sharer.                                                                                                                                                    |
-| Creator Fee      | 15% of the bounty           | Once off  | If the applicant came through a Creator.                                                                                                                                                   |
+| Type             | Formula                         | Frequency | Condition                                                                                                                                                                                  |
+| ---------------- | ------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Subscription Fee | **£200**                        | Monthly   | Mandatory after the first 2 weeks.                                                                                                                                                         |
+| Bounty Fee       | **£0** or 15% of the bounty  💰 | Once off  | <ul><li>If the hire comes from <strong>inside your network,£ 0</strong></li><li>If the hire comes from <strong>outside your network</strong>, <strong>15% of the bounty</strong></li></ul> |
+| Sharer Fee       | 10% of the bounty  💰           | Once off  | If the applicant came through a Sharer.                                                                                                                                                    |
+| Creator Fee      | 25% of the bounty  💰           | Once off  | If the applicant came through a Creator.                                                                                                                                                   |
 
 
 
@@ -17,7 +17,7 @@ Here is some further information:
 
 ### **Subscription Fee**
 
-To start posting bounties we require you to sign up for a modest 💰 **£200 / mth** which gives you the ability to post and unlimited amount of bounties.
+To start posting bounties we require you to sign up for a modest **£200 / mth** which gives you the ability to post and unlimited amount of bounties.
 
 ### Bounty Fee
 
