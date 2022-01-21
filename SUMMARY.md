@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is Techtree](README.md)
+* [Overview](README.md)
 * [Our Vision](our-vision.md)
 * [Litepaper](litepaper.md)
 

@@ -1,8 +1,14 @@
 # Examples
 
-**The Scenario**
+First, let's remember there are up to 4 roles (applicant, referrer, sharer, creator) in the claim chain for a bounty. There are different cases for their interactions, we summarized the main ones here:&#x20;
 
-First, let's remember there are up to 4 roles (applicant, referrer, sharer, creator) in the claim chain for a bounty.
+****
+
+**Case 1 - Referrer and Applicant**
+
+****
+
+**Case 2 - Creator, Sharer, Referrer and Applicant**
 
 ****
 
