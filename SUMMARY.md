@@ -31,10 +31,6 @@
 * [Start sharing](for-dev-teams/for-sharers.md)
 * [Get involved](for-dev-teams/getting-rewarded.md)
 
-## 📖 Guides
-
-* [For Community Leaders](guides/for-community-leaders.md)
-
 ## 💡 FAQs
 
 * [Code of Conduct](faqs/code-of-conduct.md)
