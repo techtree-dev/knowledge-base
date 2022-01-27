@@ -33,6 +33,7 @@
 
 ## 💡 FAQs
 
+* [General](faqs/general.md)
 * [Code of Conduct](faqs/code-of-conduct.md)
 * [Community Guidelines](faqs/community-guidelines.md)
 * [Privacy Policy](faqs/privacy-policy.md)
