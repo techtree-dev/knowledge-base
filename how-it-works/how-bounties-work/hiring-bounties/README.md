@@ -31,6 +31,6 @@ For additional **examples** for all use cases of the hiring bounty:
 
 For Frequently Asked Questions:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="faqs.md" %}
+[faqs.md](faqs.md)
 {% endcontent-ref %}

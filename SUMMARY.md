@@ -18,7 +18,7 @@
 * [How Bounties work](how-it-works/how-bounties-work/README.md)
   * [Hiring Bounties 💰](how-it-works/how-bounties-work/hiring-bounties/README.md)
     * [Roles within the Hiring Bounties](how-it-works/how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/README.md)
-      * [Sharer rights](how-it-works/how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/sharer-rights.md)
+      * [Sharer rewards](how-it-works/how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/sharer-rewards.md)
       * [Creator rights](how-it-works/how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/creator-rights.md)
     * [Examples](how-it-works/how-bounties-work/hiring-bounties/examples.md)
     * [FAQs](how-it-works/how-bounties-work/hiring-bounties/faqs.md)
