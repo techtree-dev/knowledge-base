@@ -19,7 +19,7 @@ In the case you put out a bounty and the person you end up hiring comes from you
 
 ### **2. Hiring through TechTree network:**
 
-In the case you put out a bounty and the person you end up hiring comes from your own network:
+In the case you put out a bounty and the person you end up hiring comes from Techtree's network:
 
 | Type             | Formula               | Frequency                          | Paid to  |
 | ---------------- | --------------------- | ---------------------------------- | -------- |
