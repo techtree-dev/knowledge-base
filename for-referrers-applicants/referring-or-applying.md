@@ -15,7 +15,7 @@ TechTree is a hiring marketplace that rewards developers and their network with 
 4. **Activate**: You will receive an e-mail in order to activate and setup up your TechTree account. We'll be adding tracking to your account dashboard shortly so see the status of applications and referrals, as well as track any bounty claims that are connected to tracked links you've shared.
 5. **Wait to get paid**: 90 days after your candidate starts on the job, you get paid the bounty. This is kind of the industry standard, right? 🤷‍♂️
 
-You can make a **max of 10 referrals** on TechTree for starters. Want more? [Contact us](mailto:laurence@techtree.dev) about joining our [bounty hunters guild](../how-it-works/how-bounties-work/bounty-hunters-guild.md).
+You can make a **max of 10 referrals** on TechTree for starters. Want more? [Contact us](mailto:laurence@techtree.dev) about joining our [bounty hunters guild](https://techtree-dev.typeform.com/bountyguild).
 
 #### Learn more about hiring bounties work
 
