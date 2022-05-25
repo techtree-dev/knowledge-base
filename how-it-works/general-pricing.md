@@ -2,24 +2,7 @@
 
 ### Overview
 
-To summarize and make this 100% transparent. Many of our calculations are based on the [bounties ](how-bounties-work/)and there are two types of scenarios for companies using our services:
-
-### **1. Hiring through your network:**
-
-In the case you put out a bounty and the person you end up hiring comes from your own network:
-
-| Type             | Formula               | Frequency                          | Paid to  |
-| ---------------- | --------------------- | ---------------------------------- | -------- |
-| Subscription Fee | **£200**              | Monthly, after the first two weeks | Techtree |
-| Transaction Fee  | **£0**                | Once off                           | Techtree |
-| Sharer Fee       | 10% of the bounty  💰 | Once off                           | Sharer   |
-| Creator Fee      | 25% of the bounty  💰 | Once off                           | Creator  |
-
-****
-
-### **2. Hiring through TechTree network:**
-
-In the case you put out a bounty and the person you end up hiring comes from Techtree's network:
+To summarize and make this 100% transparent. Many of our calculations are based on the [bounties](how-bounties-work/):
 
 | Type             | Formula               | Frequency                          | Paid to  |
 | ---------------- | --------------------- | ---------------------------------- | -------- |
