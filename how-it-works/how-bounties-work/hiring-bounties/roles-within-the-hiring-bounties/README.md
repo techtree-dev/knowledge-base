@@ -8,7 +8,9 @@ When a Bounty claim is made, there can be as many as four different roles of peo
 
 #### **1. Applicant**
 
-The **person who is applying for the job**, need we say more? But we will anyway, whether you've been told about the job by someone or found it yourself, as long as you've hit that 'apply' button you're an applicant to us. If you’re successful in your application, you’ll win part of or a full bounty, depending on how you found out about the role.
+The **person who is applying for the job**, need we say more? But we will anyway, whether you've been told about the job by someone or found it yourself, as long as you've hit that 'apply' button you're an applicant to us.
+
+****
 
 **2. Referrer**
 
