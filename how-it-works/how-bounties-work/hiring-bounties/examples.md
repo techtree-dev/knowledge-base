@@ -18,8 +18,6 @@ This is what the transaction should look like:
 | Bob      | Applicant       | $5,000    |
 | TechTree | Transaction Fee | $1,500    |
 
-This fee is only payable if Alice is not connected with the Hiring Company.
-
 
 
 ### **Case 2 - Sharer, Referrer and Applicant**
