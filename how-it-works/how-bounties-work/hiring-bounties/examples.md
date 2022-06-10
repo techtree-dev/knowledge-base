@@ -12,13 +12,13 @@ Bob thinks the role is right up their street and applies. **Bob** has become an 
 
 This is what the transaction should look like:
 
-| Player   | Role              | Reward 💰 |
-| -------- | ----------------- | --------- |
-| Alice    | Referrer          | $5,000    |
-| Bob      | Applicant         | $5,000    |
-| TechTree | Transaction Fee\* | $1,500    |
+| Player   | Role            | Reward 💰 |
+| -------- | --------------- | --------- |
+| Alice    | Referrer        | $5,000    |
+| Bob      | Applicant       | $5,000    |
+| TechTree | Transaction Fee | $1,500    |
 
-\*This fee is only payable if Alice is not connected with the Hiring Company.
+This fee is only payable if Alice is not connected with the Hiring Company.
 
 
 
@@ -34,14 +34,12 @@ A short time later, Bob is invited to interview. Impresses the WayFlyer team and
 
 **The Workings**
 
-| Player   | Role              | Reward 💰 |
-| -------- | ----------------- | --------- |
-| Alice    | Referrer          | $5,000    |
-| Bob      | Applicant         | $5,000    |
-| Charlie  | Sharer Fee        | $1,000    |
-| TechTree | Transaction Fee\* | $1,500    |
-
-\*This fee is only payable if Alice is not connected with the Hiring Company.
+| Player   | Role            | Reward 💰 |
+| -------- | --------------- | --------- |
+| Alice    | Referrer        | $5,000    |
+| Bob      | Applicant       | $5,000    |
+| Charlie  | Sharer Fee      | $1,000    |
+| TechTree | Transaction Fee | $1,500    |
 
 
 
@@ -63,12 +61,11 @@ A short time later, Bob is invited to interview. Impresses the WayFlyer team and
 
 **The Workings**
 
-| Player           | Role              | Reward 💰 |
-| ---------------- | ----------------- | --------- |
-| Alice            | Referrer          | $5,000    |
-| Bob              | Applicant         | $5,000    |
-| Charlie          | Sharer Fee        | $1,000    |
-| Satoshi Nakamoto | Creator Fee       | $2,500    |
-| TechTree         | Transaction Fee\* | $1,500    |
+| Player           | Role            | Reward 💰 |
+| ---------------- | --------------- | --------- |
+| Alice            | Referrer        | $5,000    |
+| Bob              | Applicant       | $5,000    |
+| Charlie          | Sharer Fee      | $1,000    |
+| Satoshi Nakamoto | Creator Fee     | $2,500    |
+| TechTree         | Transaction Fee | $1,500    |
 
-\*This fee is only payable if Alice is not connected with the Hiring Company.
