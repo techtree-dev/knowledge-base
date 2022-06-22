@@ -1,6 +1,6 @@
-# What is Techtree
+# Overview
 
-We're building the **first socio economic network for devs & their teams**. No spam. Own what you create. Support open-source. A platform that helps devs & tech people unlock the value of their networks, knowledge and data. For us, bounties are the key - and we've started with hiring bounties.
+We're building the **first socio economic network for devs & their teams**. No spam. Own what you create. Support for open-source. A platform that helps devs & tech people unlock the value of their networks, knowledge and data. For us, bounties are the key - and we've started with hiring bounties.
 
 {% hint style="success" %}
 💡 **Developers should be rewarded for the value of their networks, the content the create, and their promotion of our community**
