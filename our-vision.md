@@ -28,4 +28,4 @@ Whilst there are a few community focused businesses and systems out there, these
 * Crypto ecosystems
 * AirBnB
 
-[Pawel ](https://www.linkedin.com/in/paweltomczuk/)and [James](https://www.linkedin.com/in/jamestuckett/), our CEO and CTO, have spent a while being involved in businesses operating in the crypto space. This has influenced the thinking at TechTree, especially business models that emerged thanks to blockchain.
+[Pawel ](https://www.linkedin.com/in/paweltomczuk/)and [Stas](https://www.linkedin.com/in/stanislas-de-roquemaurel-galitzine-a98b9a57/), our CEO and CTO, have spent a while being involved in businesses operating in the crypto space. This has influenced the thinking at TechTree, especially business models that emerged thanks to blockchain.
