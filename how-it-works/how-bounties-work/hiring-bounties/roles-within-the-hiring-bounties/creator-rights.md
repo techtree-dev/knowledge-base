@@ -10,22 +10,22 @@ description: >-
 
 Creator rights are attached to anything on TechTree that belongs to a user. This could be:\
 \- a personalised bounty board\
-\- personal links page \
-\- any articles or content you publish
+\- a personal links page \
+\- any articles or content that you publish
 
-**It only makes sense that you get rewarded for doing so.**
+**It only makes sense that you get rewarded for these community building activities.**
 
-When another TechTree user lands on something you created, we'll set a cookie with a short expiry in that user's browser. During that time, should they submit a claim for a Bounty, whether it’s applying for a job or referring a friend, you’ll be listed as the Creator that helped kickstart that Bounty claim chain. This means you could be rewarded as much as 25% of the quoted Bounty!
+When another TechTree user lands on something that you created, we'll set a cookie with a short expiry in that user's browser. During that time, should this user submit a claim for a Bounty, whether it’s applying for a job or referring a friend, you will be listed as the Creator that helped kickstart that Bounty claim chain. This means you could be rewarded as much as 25% of the quoted Bounty!
 
 Any time you create or curate on TechTree, from articles and video posts to talks and Bounty boards, you unlock Creator rewards benefits.
 
 ### The Bounty claim chain
 
-Bounties are available for a number of things on TechTree. At the moment, the most common is a hiring Bounty. When a Bounty claim is made, there can be as many as four different people who can be rewarded:
+Bounties are available for a number of things on TechTree. At the moment, the most common bounty is a hiring Bounty. When a Bounty claim is made, as many as four different people who can be rewarded:
 
-**The Applicant** - the one who is applying to win claim a Bounty&#x20;
+**The Applicant** - the person who is applying to claim the Bounty.
 
-**The Referrer** - the one who suggests the Applicant should submit for a Bounty.&#x20;
+**The Referrer** - the person who suggested that the Applicant should claim the Bounty.
 
 **The Creator** - the one who creates something that directly leads to the Applicant submitting a claim on a Bounty, for example the author of an article that the Applicant read before applying for a role.&#x20;
 

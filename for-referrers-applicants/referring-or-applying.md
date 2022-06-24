@@ -1,6 +1,6 @@
 # Referring or applying
 
-TechTree is a hiring marketplace that rewards users and their network for helping companies hire tech people. We're the ones trying to pay you 😉
+TechTree is a hiring marketplace that rewards users and their network for helping companies hire tech people.
 
 1. **Find bounties**: Go to [techtree.dev/bounties](https://techtree.dev/bounties) to see bounties or find bounties via a dev or dev teams bounty board.
 2. **Choose the role**: Pick which role or role(s) you want to explore with your network. Do you have a friend or former colleague that sounds like a great fit for a role? Have you come across someone’s background or portfolio recently who’s a good match? See an opportunity that sounds too good to pass up for yourself?

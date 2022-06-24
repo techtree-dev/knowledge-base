@@ -4,7 +4,7 @@ First, let's remember there are up to 4 [roles ](roles-within-the-hiring-bountie
 
 ### **Case 1 - Referrer and Applicant**
 
-Imagine, Alice has seen a job on a Bounty Board (with a bounty of **$10,000** 💰) on TechTree that she thinks her friend, Bob would be great for. **Alice** becomes a **Referrer** and sends Bob a tracked link for the role. Alice also decides to split the bounty 50:50 with Bob.
+Imagine Alice is on TechTree and sees a job on a Bounty Board with a bounty of **$10,000** 💰.  Alice thinks her friend, Bob would be a great fit for this role. **Alice** becomes a **Referrer** and sends Bob a tracked link for the role. Alice also decides to split the bounty 50:50 with Bob.
 
 ![](<../../../.gitbook/assets/Screenshot 2022-01-07 at 11.52.25.png>)
 

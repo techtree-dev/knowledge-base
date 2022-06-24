@@ -2,7 +2,7 @@
 
 ### Overview
 
-To summarize and make this 100% transparent. Many of our calculations are based on the [bounties](how-bounties-work/):
+Our general pricing structure is shown below. For a refresher on how bounties work, see  [how-bounties-work](how-bounties-work/ "mention").
 
 | Type             | Formula               | Frequency                          | Paid to  |
 | ---------------- | --------------------- | ---------------------------------- | -------- |
@@ -13,34 +13,32 @@ To summarize and make this 100% transparent. Many of our calculations are based 
 
 
 
-Here is some additional information on the fees:
-
 ### **Subscription Fee**
 
-To start posting bounties we require you to sign up for a modest **£200 / mth** (during the current beta phase) which gives you the ability to post and unlimited amount of bounties.&#x20;
+A subscription is required to post your company's open roles to TechTree. During the current beta phase, a subscription can be purchased for only **£200 per month.** This grants you the ability to post an unlimited amount of bounties.&#x20;
 
-After Techtree's Beta phase the subscription fee will be £500 per month. The Beta phase duration is still to be defined as we are an early stage startup.
+After Techtree's Beta phase, the subscription fee will rise to £500 per month. Sign up now before the Beta ends to secure this massive savings.
 
 ### Transaction Fee
 
-We also should get remunerated for our efforts in the case we are successful so:
+We only get paid when we help you succeed:
 
 * If the hire comes from **inside your network**, there is no bounty fee (**£ 0**).
 * If the hire comes from **outside your network**, TechTree's fees are **15% of the bounty**.&#x20;
 
-We can track referrals to your dev teams and friends of the company via tracked link and associations in our database. You can find examples on when this is applicable under [examples](how-bounties-work/hiring-bounties/examples.md).
+To monitor this, we can track referrals to your dev teams and associates via tracked links. You can find more details and a worked example under [examples](how-bounties-work/hiring-bounties/examples.md).
 
 ### Sharer Fee
 
-This fee only comes in place if there is a Sharer involved in the hiring chain.
+This fee is only applicable if there is a Sharer involved in the hiring chain.
 
-A Sharer is the one who generates and shares a tracked TechTree link that causes either the Referrer or the Applicant to join the platform. Read more on [roles ](how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/)to understand what it looks like. You can find examples on when this is applicable under [examples](how-bounties-work/hiring-bounties/examples.md).
+A Sharer is the person who generates and shares a tracked TechTree link that causes either the Referrer or the Applicant to join the platform. Check out [roles ](how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/)for more details on Sharers. You can find examples on when this fee applicable under [examples](how-bounties-work/hiring-bounties/examples.md).&#x20;
 
 ### Creator Fee
 
-This fee only comes in place if there is a Creator involved in the hiring chain.
+This fee is only applicable if there is a Creator involved in the hiring chain.
 
-A Creator is the one who creates something that directly leads to the Applicant submitting a claim on a Bounty, i.e. the author of an article that the Applicant read before applying for a role. Read more on [roles ](how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/)to understand what it looks like. You can find examples on when this is applicable under [examples](how-bounties-work/hiring-bounties/examples.md).
+A Creator is the person who creates something that directly leads to the Applicant submitting a claim on a Bounty, Check out [roles ](how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/)for more details on Creators. You can find examples on when this fee is applicable under [examples](how-bounties-work/hiring-bounties/examples.md).
 
 ### Picking a Bounty Price
 
