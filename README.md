@@ -10,12 +10,12 @@ We're building the **first socio-economic network for devs & their teams**. No s
 
 We’re building TechTree because we believe it should be simple for people to help each other and get rewarded when their actions create value for others and organisations.
 
-Our goal at TechTree is to create an environment in which tech people can not only help each other through content, mentoring, events, and more, but also unlock the value of their network, knowledge, and data, turning it into a meaningful source of income.
+Our goal at TechTree is to create an environment in which: tech people can help each other through content, mentoring, events, and more, but also unlock the value of their network, knowledge, and data; and turn it into a meaningful source of income.
 
 There are two key areas we're focused on:
 
-* The budgets that companies set aside for technical hiring
-* Web 2.0 platforms that reach multi-billion dollar valuations on the backs of their users need to self-express, create, and share content without sharing any of the value
+* the budgets companies set aside for technical hiring
+* and Web 2.0 platforms that reach multi-billion dollar valuations on the backs of their users need to self-express, create and share content without sharing any of the value
 
 ### How are we doing this?
 
@@ -25,7 +25,7 @@ After, we will extend the concept of bounties and use it to fuel a community whe
 
 The next step is bringing content creation to life on TechTree. If you're a content creator, your options for generating income from your content are currently super limited.
 
-Thanks to the [**Creator rights**](how-it-works/how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/creator-rights.md), everything that you create on TechTree, you own. Our platform links a payout to content that helps create a successful bounty claim. In principle, this means that the more you create and share knowledge, the more you can earn on TechTree.
+On TechTree, thanks to the [**Creator rights**](how-it-works/how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/creator-rights.md), everything you create, you own. Our platform links to content - that helps create successful bounty claims - to a claim payout. Meaning - in principle - the more you create and share knowledge the more you can earn on TechTree.
 
 
 
