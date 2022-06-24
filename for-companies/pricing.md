@@ -1,8 +1,8 @@
-# General pricing
+# Pricing
 
 ### Overview
 
-Our general pricing structure is shown below. For a refresher on how bounties work, see  [how-bounties-work](how-bounties-work/ "mention").
+Our general pricing structure is shown below. For a refresher on how bounties work, see  [how-bounties-work](../how-it-works/how-bounties-work/ "mention").
 
 | Type             | Formula               | Frequency                          | Paid to  |
 | ---------------- | --------------------- | ---------------------------------- | -------- |
@@ -26,19 +26,19 @@ We only get paid when we help you succeed:
 * If the hire comes from **inside your network**, there is no bounty fee (**£ 0**).
 * If the hire comes from **outside your network**, TechTree's fees are **15% of the bounty**.&#x20;
 
-To monitor this, we can track referrals to your dev teams and associates via tracked links. You can find more details and a worked example under [examples](how-bounties-work/hiring-bounties/examples.md).
+To monitor this, we can track referrals to your dev teams and associates via tracked links. You can find more details and a worked example under [examples](broken-reference).
 
 ### Sharer Fee
 
 This fee is only applicable if there is a Sharer involved in the hiring chain.
 
-A Sharer is the person who generates and shares a tracked TechTree link that causes either the Referrer or the Applicant to join the platform. Check out [roles ](how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/)for more details on Sharers. You can find examples on when this fee applicable under [examples](how-bounties-work/hiring-bounties/examples.md).&#x20;
+A Sharer is the person who generates and shares a tracked TechTree link that causes either the Referrer or the Applicant to join the platform. Check out [roles ](../roles-at-techtree/)for more details on Sharers. You can find examples on when this fee applicable under [examples](broken-reference).&#x20;
 
 ### Creator Fee
 
 This fee is only applicable if there is a Creator involved in the hiring chain.
 
-A Creator is the person who creates something that directly leads to the Applicant submitting a claim on a Bounty, Check out [roles ](how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/)for more details on Creators. You can find examples on when this fee is applicable under [examples](how-bounties-work/hiring-bounties/examples.md).
+A Creator is the person who creates something that directly leads to the Applicant submitting a claim on a Bounty, Check out [roles ](../roles-at-techtree/)for more details on Creators. You can find examples on when this fee is applicable under [examples](broken-reference).
 
 ### Picking a Bounty Price
 

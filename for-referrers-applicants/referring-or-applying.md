@@ -12,6 +12,6 @@ You can make a **max of 10 referrals** on TechTree for starters. Want more? [Con
 
 #### Learn more about hiring bounties work
 
-{% content-ref url="../how-it-works/how-bounties-work/hiring-bounties/" %}
-[hiring-bounties](../how-it-works/how-bounties-work/hiring-bounties/)
+{% content-ref url="../how-it-works/how-bounties-work/hiring-bounties.md" %}
+[hiring-bounties.md](../how-it-works/how-bounties-work/hiring-bounties.md)
 {% endcontent-ref %}

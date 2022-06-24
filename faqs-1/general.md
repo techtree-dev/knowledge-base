@@ -1,4 +1,4 @@
-# FAQs
+# General
 
 #### **This seems too good to be true. What's the catch?**
 
@@ -17,7 +17,7 @@ A creator is a developer who has:
 * run or spoken at an event
 * or created a splash page
 
-Essentially, anything that a user has "created" on TechTree and belongs to that user. If a creators bounty board, article or event attracts a user to TechTree who then goes on to apply for a job or refer someone then that creator gets rewarded to. It's what's called [Creator rights](roles-within-the-hiring-bounties/creator-rights.md).
+Essentially, anything that a user has "created" on TechTree and belongs to that user. If a creators bounty board, article or event attracts a user to TechTree who then goes on to apply for a job or refer someone then that creator gets rewarded to. It's what's called [Creator rights](../roles-at-techtree/creator-rights.md).
 
 #### **When do I get paid if either myself, or someone I refer, is hired?**
 

@@ -6,8 +6,8 @@
 [hiring-on-techtree.md](hiring-on-techtree.md)
 {% endcontent-ref %}
 
-{% content-ref url="../how-it-works/general-pricing.md" %}
-[general-pricing.md](../how-it-works/general-pricing.md)
+{% content-ref url="pricing.md" %}
+[pricing.md](pricing.md)
 {% endcontent-ref %}
 
 ### Get started 🚀

@@ -2,28 +2,31 @@
 
 * [Overview](README.md)
 * [Our Vision](our-vision.md)
+* [Roles at TechTree](roles-at-techtree/README.md)
+  * [Sharer rewards](roles-at-techtree/sharer-rewards.md)
+  * [Creator rights](roles-at-techtree/creator-rights.md)
+* [FAQs](faqs.md)
 * [Litepaper](litepaper.md)
 
 ## 😎 FOR COMPANIES
 
 * [Hiring on TechTree](for-companies/hiring-on-techtree.md)
+* [How It Works](for-companies/how-it-works.md)
+* [Pricing](for-companies/pricing.md)
+* [Examples](for-companies/examples.md)
 * [Post a Hiring Bounty](for-companies/post-a-hiring-bounty.md)
 
 ## 💯 FOR REFERRERS / APPLICANTS
 
 * [Referring or applying](for-referrers-applicants/referring-or-applying.md)
+* [How It Works](for-referrers-applicants/how-it-works.md)
+* [Examples](for-referrers-applicants/examples.md)
+* [Bounty Hunters Guild](for-referrers-applicants/bounty-hunters-guild.md)
 
 ## 🤓 How it works
 
 * [How Bounties work](how-it-works/how-bounties-work/README.md)
-  * [Hiring Bounties 💰](how-it-works/how-bounties-work/hiring-bounties/README.md)
-    * [Roles within the Hiring Bounties](how-it-works/how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/README.md)
-      * [Sharer rewards](how-it-works/how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/sharer-rewards.md)
-      * [Creator rights](how-it-works/how-bounties-work/hiring-bounties/roles-within-the-hiring-bounties/creator-rights.md)
-    * [Examples](how-it-works/how-bounties-work/hiring-bounties/examples.md)
-    * [FAQs](how-it-works/how-bounties-work/hiring-bounties/faqs.md)
-  * [Bounty Hunters Guild](how-it-works/how-bounties-work/bounty-hunters-guild.md)
-* [General pricing](how-it-works/general-pricing.md)
+  * [Hiring Bounties 💰](how-it-works/how-bounties-work/hiring-bounties.md)
 
 ## For dev teams
 
@@ -33,7 +36,7 @@
 
 ## 💡 FAQs
 
-* [General](faqs/general.md)
-* [Code of Conduct](faqs/code-of-conduct.md)
-* [Community Guidelines](faqs/community-guidelines.md)
-* [Privacy Policy](faqs/privacy-policy.md)
+* [General](faqs-1/general.md)
+* [Code of Conduct](faqs-1/code-of-conduct.md)
+* [Community Guidelines](faqs-1/community-guidelines.md)
+* [Privacy Policy](faqs-1/privacy-policy.md)

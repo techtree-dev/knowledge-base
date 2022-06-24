@@ -2,9 +2,17 @@
 description: Learn the lingo
 ---
 
-# Roles within the Hiring Bounties
+# Roles at TechTree
 
 When a Bounty claim is made, there can be as many as four different roles of people who can be rewarded:
+
+
+
+**INSERT IMAGE TO PRESENT THE CHARACTERS**
+
+****
+
+
 
 #### **1. Applicant**
 
@@ -30,7 +38,7 @@ When someone joins TechTree using the tracked link you shared, you'll receive a 
 [sharer-rewards.md](sharer-rewards.md)
 {% endcontent-ref %}
 
-#### **4. Creator (coming soon)**
+#### **4. Creator**
 
 **The one who creates something that directly leads to the Applicant submitting a claim on a Bounty**, for example the author of an article that the Applicant read before applying for a role.
 
