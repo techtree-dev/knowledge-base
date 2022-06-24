@@ -8,7 +8,7 @@ Imagine, Alice has seen a job on a Bounty Board (with a bounty of **$10,000**) o
 
 ![](<../../../.gitbook/assets/Screenshot 2022-01-07 at 11.52.25.png>)
 
-Bob thinks the role is right up their street and applies. **Bob** has become an **Applicant**. Because Bob and the role are a match made in Heaven, Bob is hired. Alice and Bob split the bounty between them because this type of friendship should be rewarded!
+Bob thinks he would be a great fit and applies. **Bob** has become an **Applicant**. Because Bob and the role are a match made in Heaven, Bob is hired. Alice and Bob split the bounty between them because this type of friendship should be rewarded!
 
 This is what the transaction should look like:
 
