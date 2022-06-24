@@ -1,6 +1,6 @@
 # Hiring Bounties 💰
 
-Hiring bounties create a fair incentive structure that encourages people to think of people they know and refer them into teams we're connected to.
+Hiring bounties create a fair incentive structure that encourages users to refer people they know into teams we are connected to.
 
 There are up to four different [types of roles](roles-within-the-hiring-bounties/) in hiring bounties: referrer, applicant, sharer and creator. Here is a simple example:
 
