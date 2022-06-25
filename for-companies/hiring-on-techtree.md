@@ -1,6 +1,10 @@
 # Hiring on TechTree
 
-TechTree is a hiring marketplace that rewards users and their network for helping companies hire tech people.
+TechTree is a hiring marketplace that rewards users and their network for helping companies hire tech people through the use of bounties.
+
+**What are Bounties** 💰 **?**
+
+Bounties are `requests for help`. As an example, if a new startup needs to hire a CTO, then they can publish the role on TechTree and attach a bounty to it. The bounty is a request to the community for help in finding a good candidate for the role.
 
 _**Process for Companies Hiring**_
 
@@ -25,8 +29,8 @@ _**Conditions**_
 \
 For a fully worked example please see below 👇
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="examples.md" %}
+[examples.md](examples.md)
 {% endcontent-ref %}
 
 

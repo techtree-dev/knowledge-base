@@ -2,7 +2,7 @@
 
 ### Overview
 
-Our general pricing structure is shown below. For a refresher on how bounties work, see  [how-bounties-work](../how-it-works/how-bounties-work/ "mention").
+Our general pricing structure is shown below. For a refresher on how bounties work, see  [Broken link](broken-reference "mention").
 
 | Type             | Formula               | Frequency                          | Paid to  |
 | ---------------- | --------------------- | ---------------------------------- | -------- |

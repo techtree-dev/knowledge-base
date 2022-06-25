@@ -1,6 +1,6 @@
 # Our Vision
 
-We're building the **first socio economic network for devs & their teams**. A platform that helps devs & tech people unlock the value of their networks, knowledge and data.
+We're building the **first socioeconomic network for devs & their teams**. A platform that helps devs & tech people unlock the value of their networks, knowledge and data.
 
 ### The future
 
@@ -10,7 +10,7 @@ Hiring bounties and content bounties are just the beginning. We can envisage all
 
 Tens of thousands of business worldwide rely on the code written by volunteers. This is not right, nor is it sustainable without issues cropping up.
 
-![Image by Randall Munroe via wikipedia.](<.gitbook/assets/Screenshot 2022-01-14 at 12.20.47.png>)
+![Image by Randall Munroe via wikipedia.](<.gitbook/assets/Screenshot 2022-01-14 at 12.20 1.png>)
 
 We see an opportunity to help address this issue. For many developers, the reward of helping a friend find a great role is enough - for these people we want to give them a chance to donate some or all of their rewards to projects - and be recognised for their contribution. Our goal is to create a culture of giving founding on the egalitarian roots of software engineering.
 

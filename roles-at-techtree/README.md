@@ -6,19 +6,11 @@ description: Learn the lingo
 
 When a Bounty claim is made, there can be as many as four different roles of people who can be rewarded:
 
-
-
-**INSERT IMAGE TO PRESENT THE CHARACTERS**
-
-****
-
-
+![The 4 possible roles when a bounty claim is made](<../.gitbook/assets/Characters of TechTree (1).png>)
 
 #### **1. Applicant**
 
 The **person who is applying for the job**, need we say more? But we will anyway, whether you've been told about the job by someone or found it yourself, as long as you've hit that 'apply' button you're an applicant to us.
-
-****
 
 **2. Referrer**
 

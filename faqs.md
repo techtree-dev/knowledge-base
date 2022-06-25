@@ -1,5 +1,13 @@
 # FAQs
 
+#### **What is TechTree?**
+
+TechTree is the first socio-economic network for devs & their teams. A platform where people in the tech space can unlock the value of their networks, knowledge and data through hiring bounties.
+
+#### So I can get paid for referring people to roles?
+
+Yes! For more details see [referring or applying](for-referrers-applicants/referring-or-applying.md).
+
 #### **This seems too good to be true. What's the catch?**
 
 The bounties you're seeing on TechTree are equivalent to the fees companies have historically being paying to technical recruiters.&#x20;
@@ -8,7 +16,11 @@ We're helping companies realise that the best ambassadors for their business are
 
 We make our money through subscriptions and an additional transaction fee charged to the company when we an application or referral comes from outside of a companies extended network.
 
-#### **What is a creator?**
+#### So I can only make money from referring?
+
+No, you can make money 4 different ways. These are represented by 4 roles: Applicant, Referrer, Sharer, and Creator. For more information on roles see the [roles of TechTree](roles-at-techtree/)
+
+**What is a creator?**
 
 A creator is a developer who has:
 

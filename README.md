@@ -19,7 +19,7 @@ There are two key areas we're focused on:
 
 ### How are we doing this?
 
-We are starting with [**hiring bounties**](how-it-works/how-bounties-work/hiring-bounties.md) 💰 since they are a great way for companies to hire, and for users to realise the value of their networks. The goal is to create a fair incentive structure that encourages people to think of people they know and refer them to companies we're connected to. It's about getting a few highly personal recommendations rather than an endless stream of cold emails. In our opinion, it's people and their networks - that are best placed to attract new developers to a team.
+We are starting with [**hiring bounties**](broken-reference) 💰 since they are a great way for companies to hire, and for users to realise the value of their networks. The goal is to create a fair incentive structure that encourages people to think of people they know and refer them to companies we're connected to. It's about getting a few highly personal recommendations rather than an endless stream of cold emails. In our opinion, it's people and their networks - that are best placed to attract new developers to a team.
 
 After, we will extend the concept of bounties and use it to fuel a community where devs can learn, connect, share knowledge and team up.
 

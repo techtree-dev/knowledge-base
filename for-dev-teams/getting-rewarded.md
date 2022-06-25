@@ -57,4 +57,4 @@ Knowledge sharing shouldn't be a burden, it should be uplifting!
 
 ### [Want to press start? Register your interest on the Contributor Airtable!](https://airtable.com/shribrqEDr8IKEvX2)
 
-### Interested in the mechanics of getting rewarded? Check out the [How Bounties work page](../how-it-works/how-bounties-work/)!
+### Interested in the mechanics of getting rewarded? Check out the [How Bounties work page](broken-reference)!

@@ -11,7 +11,6 @@
 ## 😎 FOR COMPANIES
 
 * [Hiring on TechTree](for-companies/hiring-on-techtree.md)
-* [How It Works](for-companies/how-it-works.md)
 * [Pricing](for-companies/pricing.md)
 * [Examples](for-companies/examples.md)
 * [Post a Hiring Bounty](for-companies/post-a-hiring-bounty.md)
@@ -19,14 +18,8 @@
 ## 💯 FOR REFERRERS / APPLICANTS
 
 * [Referring or applying](for-referrers-applicants/referring-or-applying.md)
-* [How It Works](for-referrers-applicants/how-it-works.md)
 * [Examples](for-referrers-applicants/examples.md)
 * [Bounty Hunters Guild](for-referrers-applicants/bounty-hunters-guild.md)
-
-## 🤓 How it works
-
-* [How Bounties work](how-it-works/how-bounties-work/README.md)
-  * [Hiring Bounties 💰](how-it-works/how-bounties-work/hiring-bounties.md)
 
 ## For dev teams
 
