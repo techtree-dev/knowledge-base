@@ -16,11 +16,11 @@ The friend, thinking they would be a good fit, applies for the job. The friend *
 
 **This is what the transaction should look like:**
 
-| Player                            | Role            | Fee 💰 |
-| --------------------------------- | --------------- | ------ |
-| The Person Referring Their Friend | Referrer        | $5,000 |
-| The Friend Who Applied            | Applicant       | $5,000 |
-| TechTree                          | Transaction Fee | $1,500 |
+| Player    | Fee             | Value💰 |
+| --------- | --------------- | ------- |
+| Referrer  | Bounty          | $5,000  |
+| Applicant | Bounty          | $5,000  |
+| TechTree  | Transaction Fee | $1,500  |
 
 
 

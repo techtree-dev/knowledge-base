@@ -14,11 +14,10 @@ Bob thinks the role is right up their street and applies. **Bob** has become an 
 
 This is what the transaction should look like:
 
-| Player   | Role            | Reward 💰 |
-| -------- | --------------- | --------- |
-| Alice    | Referrer        | $5,000    |
-| Bob      | Applicant       | $5,000    |
-| TechTree | Transaction Fee | $1,500    |
+| Player | Role      | Reward 💰 |
+| ------ | --------- | --------- |
+| Alice  | Referrer  | $5,000    |
+| Bob    | Applicant | $5,000    |
 
 
 
