@@ -4,9 +4,9 @@ First, let's remember there are up to 4 [roles ](../roles-at-techtree/)(applican
 
 ### **Case 1 - Referrer and Applicant**
 
-![](<../.gitbook/assets/Case 1 (1).png>)
+![](../.gitbook/assets/Case1Applicant.png)
 
-Imagine Alice is on TechTree and sees a job on a Bounty Board with a bounty of **$10,000** 💰.  Alice thinks her friend, Bob would be a great fit for this role. **Alice** becomes a **Referrer** and sends Bob a tracked link for the role. Alice also decides to split the bounty 50:50 with Bob.
+Imagine Alice is on TechTree and sees a job on a Bounty Board with a bounty of **$10,000** 💰.  Alice thinks her friend, Bob would be a great fit for this role. **Alice** becomes a **Referrer** and sends Bob a tracked link for the role. Alice also decides to split the bounty 70:30 with Bob.
 
 ![](<../.gitbook/assets/Screenshot 2022-01-07 at 11.52.25.png>)
 
@@ -14,16 +14,16 @@ Bob thinks the role is right up their street and applies. **Bob** has become an 
 
 This is what the transaction should look like:
 
-| Player | Role      | Reward 💰 |
-| ------ | --------- | --------- |
-| Alice  | Referrer  | $5,000    |
-| Bob    | Applicant | $5,000    |
+| Player           | Reward Category | Reward 💰 |
+| ---------------- | --------------- | --------- |
+| Alice (Referrer) | Bounty          | $7,000    |
+| Bob (Applicant)  | Bounty          | $3,000    |
 
 
 
 ### **Case 2 - Sharer, Referrer and Applicant**
 
-![](<../.gitbook/assets/Case 2.png>)
+![](<../.gitbook/assets/Case2Applicant (1).png>)
 
 Charlie is looking for a role for himself on Techtree. However, he finds a super interesting role at WayFlyer that could be good for anyone in his network, so he clicks share which generates a personalised tracked link for Charlie that points at the role he wants to share. **Charlie** has become a **Sharer**.
 
@@ -35,18 +35,17 @@ A short time later, Bob is invited to interview. Impresses the WayFlyer team and
 
 **The Workings**
 
-| Player   | Role            | Reward 💰 |
-| -------- | --------------- | --------- |
-| Alice    | Referrer        | $5,000    |
-| Bob      | Applicant       | $5,000    |
-| Charlie  | Sharer Fee      | $1,000    |
-| TechTree | Transaction Fee | $1,500    |
+| Player           | Reward Category | Reward 💰 |
+| ---------------- | --------------- | --------- |
+| Alice (Referrer) | Bounty          | $7,000    |
+| Bob (Applicant)  | Bounty          | $3,000    |
+| Charlie (Sharer) | Sharer Fee      | $1,000    |
 
 
 
 ### **Case 3 - Creator, Sharer, Referrer and Applicant**
 
-![](<../.gitbook/assets/Case 3.png>)
+![](../.gitbook/assets/Case3Applicant.png)
 
 Satoshi Nakamoto joins TechTree and posts an article about cryptography. **Satoshi** has become a **Creator**.
 
@@ -56,7 +55,7 @@ Charlie shares the link with Alice who follows it. Whilst Alice is reading Satos
 
 Bob receives a referral link from Alice via WhatsApp and clicks follows it to the Wayflyer role on TechTree. **Bob** applies for the role and becomes an **Applicant**.
 
-A short time later, Bob is invited to interview. Impresses the WayFlyer team and is hired. After 2 mths (60 days) has passed if Bob is still working with Wayflyer the full rewards will be distributed to all claimants.
+A short time later, Bob is invited to interview. Impresses the WayFlyer team and is hired. After 2 months (60 days) has passed if Bob is still working with Wayflyer the full rewards will be distributed to all claimants.
 
 **The Role**
 
@@ -64,11 +63,10 @@ A short time later, Bob is invited to interview. Impresses the WayFlyer team and
 
 **The Workings**
 
-| Player           | Role            | Reward 💰 |
+| Player           | Reward Category | Reward 💰 |
 | ---------------- | --------------- | --------- |
-| Alice            | Referrer        | $5,000    |
-| Bob              | Applicant       | $5,000    |
-| Charlie          | Sharer Fee      | $1,000    |
+| Alice (Referrer) | Bounty          | $7,000    |
+| Bob (Applicant)  | Bounty          | $3,000    |
+| Charlie (Sharer) | Sharer Fee      | $1,000    |
 | Satoshi Nakamoto | Creator Fee     | $2,500    |
-| TechTree         | Transaction Fee | $1,500    |
 

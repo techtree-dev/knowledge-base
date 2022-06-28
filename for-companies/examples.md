@@ -6,27 +6,27 @@ First, let's remember there are up to 4 [roles ](../roles-at-techtree/)(applican
 
 ### **Case 1 - Referrer and Applicant**
 
-![](<../.gitbook/assets/Case 1 (1).png>)
+![](../.gitbook/assets/Case1Company.png)
 
-Imagine the **Referrer** is on TechTree and sees the Senior Product Design role that the company Wayflyer has posted on the company Bounty Board with a bounty of **$10,000**💰.  The Referrer thinks that their friend would be a great fit for this role. The **Referrer** sends their friend a tracked link for the role. The **Referrer** also decides to split the bounty 50:50 with their friend if the friend gets hired.
+Imagine Alice is on TechTree and sees the Senior Product Design role that the company Wayflyer has posted on the company Bounty Board with a bounty of **$10,000**💰.  Alice thinks that their friend, Bob, would be a great fit for this role. Alice **** sends their friend, Bob, a tracked link for the role. Allice has now become the **Referrer.** Alice also decides to split the bounty 70:30 with Bob if Bob gets hired.
 
 ![](<../.gitbook/assets/Screenshot 2022-01-07 at 11.52.25.png>)
 
-The friend, thinking they would be a good fit, applies for the job. The friend **** has become an **Applicant**. Let's say you loved how the **Applicant** interviews and hire the applicant. Wayflyer would then owe $11,500 in bounty fees.
+Bob, thinking that he would be a good fit, applies for the job. Bob **** has become an **Applicant**. Let's say you loved how the Bob **** interviews and hire him. Wayflyer would then owe $11,500 in bounty fees.
 
 **This is what the transaction should look like:**
 
-| Player    | Fee             | Value💰 |
-| --------- | --------------- | ------- |
-| Referrer  | Bounty          | $5,000  |
-| Applicant | Bounty          | $5,000  |
-| TechTree  | Transaction Fee | $1,500  |
+| Player           | Fee Category    | Fee    |
+| ---------------- | --------------- | ------ |
+| Alice (Referrer) | Bounty          | $7,000 |
+| Bob (Applicant)  | Bounty          | $3,000 |
+| TechTree         | Transaction Fee | $1,500 |
 
 
 
 ### **Case 2 - Sharer, Referrer and Applicant**
 
-![](<../.gitbook/assets/Case 2.png>)
+![](../.gitbook/assets/Case2Company.png)
 
 Charlie is looking for a role for himself on Techtree. However, he finds a super interesting role at WayFlyer that could be good for anyone in his network, so he clicks share which generates a personalised tracked link for Charlie that points at the role he wants to share. **Charlie** has become a **Sharer**.
 
@@ -38,18 +38,18 @@ A short time later, Bob is invited to interview. Bob impresses the WayFlyer team
 
 **This is what the transaction should look like:**
 
-| Player   | Role            | Fee 💰 |
-| -------- | --------------- | ------ |
-| Alice    | Referrer        | $5,000 |
-| Bob      | Applicant       | $5,000 |
-| Charlie  | Sharer Fee      | $1,000 |
-| TechTree | Transaction Fee | $1,500 |
+| Player           | Fee Category    | Fee    |
+| ---------------- | --------------- | ------ |
+| Alice (Referrer) | Bounty          | $7,000 |
+| Bob (Applicant)  | Bounty          | $3,000 |
+| Charlie (Sharer) | Sharer Fee      | $1,000 |
+| TechTree         | Transaction Fee | $1,500 |
 
 
 
 ### **Case 3 - Creator, Sharer, Referrer and Applicant**
 
-![](<../.gitbook/assets/Case 3.png>)
+![](../.gitbook/assets/Case3Company.png)
 
 Satoshi Nakamoto joins TechTree and posts an article about cryptography. **Satoshi** has become a **Creator**.
 
@@ -59,15 +59,15 @@ Charlie shares the link with Alice who follows it. Whilst Alice is reading Satos
 
 Bob receives a referral link from Alice via WhatsApp and clicks follows it to the Wayflyer role on TechTree. **Bob** applies for the role and becomes an **Applicant**.
 
-A short time later, Bob is invited to interview. Impresses the WayFlyer team and is hired. After 2 mths (60 days) has passed if Bob is still working with Wayflyer, then the amount owed by Wayflyer would be $15,000.
+A short time later, Bob is invited to interview. Impresses the WayFlyer team and is hired. After 2 months (60 days) has passed if Bob is still working with Wayflyer, then the amount owed by Wayflyer would be $15,000.
 
 **This is what the transaction should look like:**
 
-| Player           | Role            | Reward 💰 |
-| ---------------- | --------------- | --------- |
-| Alice            | Referrer        | $5,000    |
-| Bob              | Applicant       | $5,000    |
-| Charlie          | Sharer Fee      | $1,000    |
-| Satoshi Nakamoto | Creator Fee     | $2,500    |
-| TechTree         | Transaction Fee | $1,500    |
+| Player                     | Fee Category    | Fee    |
+| -------------------------- | --------------- | ------ |
+| Alice (Referrer)           | Bounty          | $7,000 |
+| Bob (Applicant)            | Bounty          | $3,000 |
+| Charlie (Sharer)           | Sharer Fee      | $1,000 |
+| Satoshi Nakamoto (Creator) | Creator Fee     | $2,500 |
+| TechTree                   | Transaction Fee | $1,500 |
 
