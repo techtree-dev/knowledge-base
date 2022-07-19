@@ -25,13 +25,13 @@ This is what the transaction should look like:
 
 ![](<../.gitbook/assets/Case2Applicant (1).png>)
 
-Charlie is looking for a role for himself on Techtree. However, he finds a super interesting role at WayFlyer that could be good for anyone in his network, so he clicks share which generates a personalised tracked link for Charlie that points at the role he wants to share. **Charlie** has become a **Sharer**.
+Charlie is looking for a role for himself on Techtree. However, he finds a super interesting role at WayFlyer that could be good for anyone in his network, so he clicks share which generates a personalised and tracked affiliated link for Charlie that points at the role he wants to share. **Charlie** has become a **Sharer**.
 
 Charlie shares the link with his twitter audience and Alice follows it. Alice sees a role at WayFlyer with a $10,000 bounty 💰. Alice knows Wayflyer, and Alice knows her friend Bob (who is a product designer) is looking for a new gig so she refers Bob. **Alice** has become a **Referrer**.&#x20;
 
 Bob receives a referral link from Alice via WhatsApp and clicks follows it to the Wayflyer role on TechTree. **Bob** applies for the role and becomes an **Applicant**.
 
-A short time later, Bob is invited to interview. Impresses the WayFlyer team and is hired. After 2 mths (60 days) has passed if Bob is still working with Wayflyer the full rewards will be distributed to all claimants.
+A short time later, Bob is invited to interview. Impresses the WayFlyer team and is hired. After 2 mths (60 days) has passed if Bob is still working with Wayflyer the full rewards will be distributed to all claimants and Charlie, the Sharer, will receive a reward equal to 10% of the bounty.
 
 **The Workings**
 
@@ -55,7 +55,7 @@ Charlie shares the link with Alice who follows it. Whilst Alice is reading Satos
 
 Bob receives a referral link from Alice via WhatsApp and clicks follows it to the Wayflyer role on TechTree. **Bob** applies for the role and becomes an **Applicant**.
 
-A short time later, Bob is invited to interview. Impresses the WayFlyer team and is hired. After 2 months (60 days) has passed if Bob is still working with Wayflyer the full rewards will be distributed to all claimants.
+A short time later, Bob is invited to interview. Impresses the WayFlyer team and is hired. After 2 months (60 days) has passed if Bob is still working with Wayflyer the full rewards will be distributed to all claimants, Charlie will recieve a sharer reward equal to 10% of the bounty value, and Satoshi will recieve a creator reward equal to 25% of the value of the bounty.
 
 **The Role**
 
