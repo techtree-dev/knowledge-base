@@ -45,3 +45,17 @@ A Creator is the person who creates something that directly leads to the Applica
 If you’re posting a specific role for a bounty, how you price it is totally up to you.\
 \
 Recruiting is a hard problem - this price should reflect what you feel you need to spend, in order to get this hard problem solved by someone who can help you.
+
+
+
+## VC Talent Branch Pricing
+
+The pricing structure for our VC Talent Branch is comprised of 2 fees: The bounty and the transaction fee. The transaction fee is paid to TechTree and is 25% of the bounty. The bounty is paid to the referrer and based on the seniority/skill level of the position and is laid out in the table below:
+
+| Seniority/Skill Level | Bounty  |
+| --------------------- | ------- |
+| Junior-level          | £2000   |
+| Mid-level             | £5000   |
+| Senior-level          | £10,000 |
+| C-level               | £15,000 |
+
