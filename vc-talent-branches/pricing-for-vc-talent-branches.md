@@ -13,8 +13,6 @@ The pricing structure for our VC Talent Branch is comprised of 2 fees:&#x20;
 | Senior-level          | £10,000 |
 | C-level               | £15,000 |
 
-
-
 * **Transaction fee:**
 
 The transaction fee is paid to TechTree and is 25% of the bounty.
