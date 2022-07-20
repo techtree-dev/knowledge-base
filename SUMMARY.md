@@ -7,11 +7,12 @@
   * [Creator rights](roles-at-techtree/creator-rights.md)
 * [FAQs](faqs.md)
 * [Litepaper](litepaper.md)
+* [VC Talent Branches](vc-talent-branches/README.md)
+  * [Pricing for VC Talent Branches](vc-talent-branches/pricing-for-vc-talent-branches.md)
 
 ## 😎 FOR COMPANIES
 
 * [Hiring on TechTree](for-companies/hiring-on-techtree.md)
-* [VC Talent Branches](for-companies/vc-talent-branches.md)
 * [Pricing](for-companies/pricing.md)
 * [Examples](for-companies/examples.md)
 * [Post a Hiring Bounty](for-companies/post-a-hiring-bounty.md)
