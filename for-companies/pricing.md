@@ -4,14 +4,14 @@
 
 Our general pricing structure is shown below. For a refresher on how bounties work, see  [Broken link](broken-reference "mention").
 
-| Type             | Formula               | Frequency                          | Paid to  |
-| ---------------- | --------------------- | ---------------------------------- | -------- |
-| Subscription Fee | **£200**              | Monthly, after the first two weeks | Techtree |
-| Transaction Fee  | 15% of the bounty  💰 | Once off                           | Techtree |
-| Sharer Fee       | 10% of the bounty  💰 | Once off                           | Sharer   |
-| Creator Fee      | 25% of the bounty  💰 | Once off                           | Creator  |
+| Type              | Formula               | Frequency                          | Paid to  |
+| ----------------- | --------------------- | ---------------------------------- | -------- |
+| Subscription Fee  | **£200**              | Monthly, after the first two weeks | Techtree |
+| Transaction Fee\* | 15% of the bounty  💰 | Once off                           | Techtree |
+| Sharer Fee\*      | 10% of the bounty  💰 | Once off                           | Sharer   |
+| Creator Fee\*     | 25% of the bounty  💰 | Once off                           | Creator  |
 
-
+\*fee is additional to the bounty
 
 ### **Subscription Fee**
 
@@ -32,7 +32,7 @@ To monitor this, we can track referrals to your dev teams and associates via tra
 
 This fee is only applicable if there is a Sharer involved in the hiring chain.
 
-A Sharer is the person who generates and shares a tracked TechTree link that causes either the Referrer or the Applicant to join the platform. Check out [roles ](../roles-at-techtree/)for more details on Sharers. You can find examples on when this fee applicable under [examples](broken-reference).&#x20;
+A Sharer is the person who generates and shares a tracked TechTree link that causes either the Referrer or the Applicant to join the platform. Check out [roles ](../roles-at-techtree/)for more details on Sharers. You can find examples on when this fee is applicable under [examples](broken-reference).&#x20;
 
 ### Creator Fee
 

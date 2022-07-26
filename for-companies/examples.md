@@ -12,7 +12,7 @@ Imagine Alice is on TechTree and sees the Senior Product Design role that the co
 
 ![](<../.gitbook/assets/Screenshot 2022-01-07 at 11.52.25.png>)
 
-Bob, thinking that he would be a good fit, applies for the job. Bob **** has become an **Applicant**. Let's say you loved how the Bob **** interviews and hire him. Wayflyer would then owe $11,500 in bounty fees.
+Bob, thinking that he would be a good fit, applies for the job. Bob **** has become an **Applicant**. Let's say you loved how the Bob **** interviews and hire him. After 3 months (90 days) has passed if Bob is still working with Wayflyer, then the amount owed by Wayflyer would be $11,500.
 
 **This is what the transaction should look like:**
 
@@ -59,15 +59,16 @@ Charlie shares the link with Alice who follows it. Whilst Alice is reading Satos
 
 Bob receives a referral link from Alice via WhatsApp and clicks follows it to the Wayflyer role on TechTree. **Bob** applies for the role and becomes an **Applicant**.
 
-A short time later, Bob is invited to interview. Impresses the WayFlyer team and is hired. After 2 months (60 days) has passed if Bob is still working with Wayflyer, then the amount owed by Wayflyer would be $15,000, as Charlie, the Sharer, will recieve a reward equal to 10% of the bounty and Satoshi, the Creator, will recieve a fee worth 25% of the bounty value.
+A short time later, Bob is invited to interview. Impresses the WayFlyer team and is hired. After 3 months (90 days) has passed if Bob is still working with Wayflyer, then the amount owed by Wayflyer would be $15,000, as Charlie, the Sharer, will receive a reward equal to 10% of the bounty and Satoshi, the Creator, will receive a fee worth 25% of the bounty value.
 
-**This is what the transaction should look like:**
+**This is what the transaction will look like:**
 
-| Player                     | Fee Category    | Fee    |
-| -------------------------- | --------------- | ------ |
-| Alice (Referrer)           | Bounty          | $7,000 |
-| Bob (Applicant)            | Bounty          | $3,000 |
-| Charlie (Sharer)           | Sharer Fee      | $1,000 |
-| Satoshi Nakamoto (Creator) | Creator Fee     | $2,500 |
-| TechTree                   | Transaction Fee | $1,500 |
+| Player                     | Fee Category    | Fee      |
+| -------------------------- | --------------- | -------- |
+| Alice (Referrer)           | Bounty          | $7,000   |
+| Bob (Applicant)            | Bounty          | $3,000   |
+| Charlie (Sharer)           | Sharer Fee      | $1,000\* |
+| Satoshi Nakamoto (Creator) | Creator Fee     | $2,500\* |
+| TechTree                   | Transaction Fee | $1,500\* |
 
+\*fee is additional to the bounty
