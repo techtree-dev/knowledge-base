@@ -4,9 +4,45 @@ description: Our most commonly asked questions for all types of user on TechTree
 
 # FAQs
 
-#### **What is TechTree?**
+## For Everyone
 
-TechTree is the first socio-economic network for devs & their teams. A platform where people in the tech space can unlock the value of their networks, knowledge and data through hiring bounties. For more information, check out&#x20;
+<details>
+
+<summary>What is TechTree?</summary>
+
+TechTree is the first socio-economic network for devs & their teams. A platform where people in the tech space can unlock the value of their networks, knowledge and data through hiring Bounties.
+
+</details>
+
+<details>
+
+<summary>What are Bounties?</summary>
+
+Bounties are requests for help with a reward. **For example**, if a new startup needs help hiring their next CTO, then they can publish the role on TechTree and attach a Bounty to it. The Bounty is a reward to the community for helping find the right person for the role.
+
+</details>
+
+<details>
+
+<summary>Who can use TechTree?</summary>
+
+We see TechTree being perfect for lots of different user types. Here are a few examples:
+
+* **Companies** - Tap into trusted networks and incentivise them to help you find your next team member.
+* **Developers** - Find your next career move at top VC-backed companies or refer a friend and claim the Bounty if they’re hired!
+* **Referrers and Connectors** - Do you have a network of people looking for a new job? Quickly and easily refer them roles on TechTree and be rewarded if they’re hired!
+* **Communities and Creators** - You’ve spent a long time building a network of people that trust you and enjoy your content. Give more value to your audience by sharing exciting new jobs and be rewarded by if any of them get hired!
+* **VC’s** - The #1 challenge of VC backed companies is attracting top talent. TechTree can help you access talent from your network and 100s of diverse tech communities to share with your entire portfolio at once.
+
+</details>
+
+<details>
+
+<summary>How Does TechTree make money?</summary>
+
+Clients of TechTree (companies that post Bounties) pay subscription fee for sharing their open roles on the platform. We also charge 15% to the hiring company on top of the Bounty if a hire is made through a referral on TechTree.
+
+</details>
 
 #### So I can get paid for referring people to roles?
 
