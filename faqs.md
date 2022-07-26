@@ -56,10 +56,6 @@ We're helping companies realise that the best ambassadors for their business are
 
 We make our money through subscriptions and an additional transaction fee charged to the company when we an application or referral comes from outside of a companies extended network.
 
-#### How does TechTree make money?
-
-TechTree receives a 15% transaction fee for each bounty paid.
-
 #### Why should I use TechTree over a regular referral?
 
 &#x20;TechTree allows you to refer people outside of your job, and allows you to refer people to organizations outside of where you are involved.
