@@ -78,6 +78,69 @@ After using TechTree to make a referral, your referred person will receive and e
 
 </details>
 
+<details>
+
+<summary>When would I be paid the Bounty?</summary>
+
+Bounties are paid to referrers 90 days after the successful candidate started their new job. This is the typical probation period for companies hiring on TechTree, however it’s sometimes shorter than 90 days and so the Bounty may be paid out earlier!
+
+</details>
+
+<details>
+
+<summary>How do I get paid?</summary>
+
+When the hire is made, we’ll let you know. You can then invoice us and we will pay you the Bounty after 90 days.
+
+</details>
+
+<details>
+
+<summary>How is the Bounty amount set?</summary>
+
+Bounty amounts are set by the companies hiring on TechTree. They are often lower than their traditional recruitment success fees as TechTree helps do the work when matching candidates. For referrers:
+
+* TechTree opens up the number of companies you can refer your network to.
+* You do not have to work with the companies directly and so there is no time managing the referrals you make.
+* You can focus on spending time listening to candidate needs and simply matching them with roles that could be of interest rather than pitching particular offers from a client.
+* For referrers that are part of agencies, TechTree is often a chance to earn more than their typical placement commission.
+
+</details>
+
+<details>
+
+<summary>How many people have received a Bounty? And where are they based?</summary>
+
+Over $400k worth of bounties has been paid out so far! This has been a mix of Developers, Communities, Creators and Connectors from all over the world.
+
+</details>
+
+<details>
+
+<summary>Will people that I refer be in safe hands?</summary>
+
+We have our own talent team to be on hand for candidates that are referred. Candidates referred by you will be screened by our team and recommended to the company.
+
+</details>
+
+<details>
+
+<summary>Are all roles on your platform remote?</summary>
+
+A lot of our roles are remote but not all. They are tagged with remote/hybrid to let you know.
+
+</details>
+
+<details>
+
+<summary>What happens if my candidate gets a different role to the one I referred them to?</summary>
+
+You will always get the full bounty from all the roles to which you referred someone directly.
+
+On top of that if you bring a new user to our platform you will receive 10% of the bounty from all the bounties he or she will get on TechTree (ever) even if it’s completely without your involvement. You can think about it as a royalty type of payment.
+
+</details>
+
 ## For Companies
 
 <details>
