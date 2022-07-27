@@ -171,6 +171,20 @@ Lots of content Creators struggle with monetising their activity. By helping the
 
 </details>
 
+<details>
+
+<summary>How do I share Bounties? What will it look like?</summary>
+
+There are several ways that you can share Bounties with you audience - most importantly, we want you to share in the way that you think your audience will enjoy the most!
+
+* **Bounty Boards:** By having an account on TechTree, you'll have the ability to create your very own customised job boards which you can theme and share with your network. Use your unique share link to include your Bounty boards on newsletters, in Slack, Discord, social media or wherever your community lives! If anyone applies and is hired through your boards, you will receive 25% of the Bounty amount.
+* **Individual roles:** If you want to share specific roles on TechTree with your network, you can use your unique share link on a single job to distribute it with your community. If anyone applies and is hired through this shared job, you will receive 10% of the Bounty amount.
+* **Referring:** If you know anyone in your network that you think would be perfect for a role on TechTree, you can refer them directly to a job or via our General Referral option and claim the entire Bounty if they're hired.
+
+For more details on how you can share Bounties, take a look at our [**How-to guide**](https://www.notion.so/techtreedev/TechTree-Bounties-for-Creators-f267dca493e54d99a8061133d5e44660).
+
+</details>
+
 ## For VC's
 
 <details>
