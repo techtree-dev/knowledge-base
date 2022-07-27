@@ -23,7 +23,7 @@
 * [Examples](for-referrers-applicants/examples.md)
 * [The Bounty Guild](for-referrers-applicants/the-bounty-guild.md)
 
-## For dev teams
+## 👥 For dev teams
 
 * [Create your profile](for-dev-teams/create-your-profile.md)
 * [Start sharing](for-dev-teams/for-sharers.md)
