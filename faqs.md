@@ -4,7 +4,7 @@ description: Our most commonly asked questions for all types of user on TechTree
 
 # FAQs
 
-## For Everyone
+## General
 
 <details>
 
