@@ -54,6 +54,22 @@ Do you have a network of people looking for new jobs? You can use TechTree by se
 
 </details>
 
+<details>
+
+<summary>Is there a cost involved?</summary>
+
+No, there is no cost to using TechTree as a referrer. We aim to find ways to help you be rewarded and earn more!
+
+</details>
+
+<details>
+
+<summary>What are the next steps after I refer someone?</summary>
+
+After using TechTree to make a referral, your referred person will receive and email letting them know that you have referred them. This email also invites them to create a TechTree account and complete their application. Once the candidate completes their application we will contact you via email and keep you update on their progress. You’ll soon be able to see the status of your candidates directly on the TechTree platform.
+
+</details>
+
 ## For Companies
 
 <details>
