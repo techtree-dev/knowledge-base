@@ -185,6 +185,40 @@ For more details on how you can share Bounties, take a look at our [**How-to gui
 
 </details>
 
+<details>
+
+<summary>How often should I share?</summary>
+
+It's up to you but we'd encourage you to share it on a weekly basis as we regularly have new jobs - the more you share, the more you'll see results!
+
+</details>
+
+<details>
+
+<summary>Should I explain that I might get paid to my community?</summary>
+
+This one is up to you! Feel free to mention that you are using TechTree Bounty boards or simply share the jobs.
+
+One thing that you can mention to encourage your community is to highlight that they can earn money too, by recommending friends to jobs on TechTree!
+
+</details>
+
+<details>
+
+<summary>How do I know when someone gets a job?</summary>
+
+Someone from the TechTree Community Team will notify you if someone gets a job and are connected to your community. Due to GDPR we can't show you how candidates are progressing through the hiring process however in the future you'll have a dashboard to show how many candidates have been successful through your job sharing!
+
+</details>
+
+<details>
+
+<summary>I'm already sharing jobs with my community - Should I now ONLY use TechTree?</summary>
+
+We don't require exclusivity - so it's up to if you use share only our job board or use multiple.
+
+</details>
+
 ## For VC's
 
 <details>
