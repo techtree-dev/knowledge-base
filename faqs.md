@@ -44,6 +44,16 @@ Clients of TechTree (companies that post Bounties) pay subscription fee for shar
 
 </details>
 
+## For Referrers and Connectors
+
+<details>
+
+<summary>How can I use TechTree?</summary>
+
+Do you have a network of people looking for new jobs? You can use TechTree by searching for roles that you think best match their skills and experience and use the ‘Refer’ feature to quickly and easily connect them to the roles. If the person that you referred completes their application and get’s hired, you claim the Bounty!
+
+</details>
+
 #### So I can get paid for referring people to roles?
 
 Yes! For more details see [referring or applying](for-referrers-applicants/referring-or-applying.md).
