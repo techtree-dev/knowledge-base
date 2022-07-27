@@ -6,11 +6,11 @@ description: Our most commonly asked questions for all types of user on TechTree
 
 **Contents**
 
-1. [#general](faqs.md#general "mention")
-2. [#for-referrers-and-connectors](faqs.md#for-referrers-and-connectors "mention")
-3. [#for-companies](faqs.md#for-companies "mention")
-4. [#for-communities-and-creators](faqs.md#for-communities-and-creators "mention")
-5. [#for-vcs](faqs.md#for-vcs "mention")
+1. ****[**General**](faqs.md#general)****
+2. ****[**For Referrers and Connectors**](faqs.md#for-referrers-and-connectors)****
+3. [**For Companies**](faqs.md#for-companies)****
+4. [**For Communities and Creators**](faqs.md#for-communities-and-creators)****
+5. ****[**For VC's**](faqs.md#for-vcs)****
 
 ## General
 
