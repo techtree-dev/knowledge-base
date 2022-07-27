@@ -163,6 +163,14 @@ You’ve spent a long time building a network of people that trust you and enjoy
 
 </details>
 
+<details>
+
+<summary>Why is TechTree relevant for creators?</summary>
+
+Lots of content Creators struggle with monetising their activity. By helping them earn through supporting their network with careers, TechTree helps Creators not only add more value to their audience but also receive extra funds to help them continue creating cool content! In short, by helping your network, your network will help you!
+
+</details>
+
 ## For VC's
 
 <details>
