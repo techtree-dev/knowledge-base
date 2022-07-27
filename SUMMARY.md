@@ -21,7 +21,7 @@
 
 * [Referring or applying](for-referrers-applicants/referring-or-applying.md)
 * [Examples](for-referrers-applicants/examples.md)
-* [Bounty Hunters Guild](for-referrers-applicants/bounty-hunters-guild.md)
+* [The Bounty Guild](for-referrers-applicants/the-bounty-guild.md)
 
 ## For dev teams
 
