@@ -18,7 +18,7 @@ Sign up to TechTree and start by making your profile your own. Add the links tha
 
 ![](https://lh5.googleusercontent.com/yTLS7cRgm08O3YEOc0hXJ5hl-RL9n75EqbfijltuC4Wxs1nDqm2B2EOB6uv-bY6hXCBfuuGRvvKUVAZatvZUE9E7a7HARgQta5d6sZrv46atB-plZVKucoYSe\_1q7F4KA8D9Ua6j)
 
-#### Once authenticated, you’re ready to go! Make sure you take the time to read our [Code of Conduct.](../faqs-1/code-of-conduct.md)
+#### Once authenticated, you’re ready to go! Make sure you take the time to read our [Code of Conduct.](../resources/code-of-conduct.md)
 
 ![](https://lh6.googleusercontent.com/MTP\_UqNcyIabjMht3f4wWfYNdy-V2H\_-qycXG4GSjpKk1Qxpt7jQWK0UCY28HbQqI6vbKSSewqZidrlT1sO0IV12S3y1XCZpMntnlFKILVaXbVKxwFPpuoXWyfu7S5i6kYmnaQIT)
 

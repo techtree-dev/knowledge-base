@@ -29,9 +29,8 @@
 * [Start sharing](for-dev-teams/for-sharers.md)
 * [Get involved](for-dev-teams/getting-rewarded.md)
 
-## 💡 FAQs
+## 💡 RESOURCES
 
-* [General](faqs-1/general.md)
-* [Code of Conduct](faqs-1/code-of-conduct.md)
-* [Community Guidelines](faqs-1/community-guidelines.md)
-* [Privacy Policy](faqs-1/privacy-policy.md)
+* [Code of Conduct](resources/code-of-conduct.md)
+* [Community Guidelines](resources/community-guidelines.md)
+* [Privacy Policy](resources/privacy-policy.md)
