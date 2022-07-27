@@ -6,7 +6,6 @@
   * [Sharer rewards](roles-at-techtree/sharer-rewards.md)
   * [Creator rights](roles-at-techtree/creator-rights.md)
 * [FAQs](faqs.md)
-* [Litepaper](litepaper.md)
 * [VC Talent Branches](vc-talent-branches/README.md)
   * [Pricing for VC Talent Branches](vc-talent-branches/pricing-for-vc-talent-branches.md)
 
