@@ -4,6 +4,14 @@ description: Our most commonly asked questions for all types of user on TechTree
 
 # FAQs
 
+**Contents**
+
+1. [#general](faqs.md#general "mention")
+2. [#for-referrers-and-connectors](faqs.md#for-referrers-and-connectors "mention")
+3. [#for-companies](faqs.md#for-companies "mention")
+4. [#for-communities-and-creators](faqs.md#for-communities-and-creators "mention")
+5. [#for-vcs](faqs.md#for-vcs "mention")
+
 ## General
 
 <details>
