@@ -54,6 +54,40 @@ Do you have a network of people looking for new jobs? You can use TechTree by se
 
 </details>
 
+## For Companies
+
+<details>
+
+<summary>How can I use TechTree?</summary>
+
+Are you looking to hire your next tech team members? You can use TechTree to tap into trusted networks and incentivise them to help you find your next hire. By adding a Bounty to roles that you share on TechTree, you allow developers, creators, communities and connectors in the TechTree network to refer their friends to your position. We'll help screen candidates and share them with you. If you hire a referred candidate you'll pay out the Bounty, plus a small fee to TechTree.
+
+[**Check out pricing detail here**](for-companies/pricing.md).
+
+</details>
+
+## For Communities and Creators
+
+<details>
+
+<summary>How can I use TechTree?</summary>
+
+You’ve spent a long time building a network of people that trust you and enjoy your content. You can use TechTree to give more value to your audience by sharing exciting new jobs via **Bounty Boards** or by sharing individual roles and be rewarded by if any of them get hired!
+
+</details>
+
+## For VC's
+
+<details>
+
+<summary>How can I use TechTree?</summary>
+
+The #1 challenge of VC backed companies is attracting top talent. TechTree can help you access talent from your network and 100s of diverse tech communities to share with your entire portfolio at once.
+
+We've created [**VC Talent Branches**](vc-talent-branches/) to help you get going!
+
+</details>
+
 #### So I can get paid for referring people to roles?
 
 Yes! For more details see [referring or applying](for-referrers-applicants/referring-or-applying.md).
