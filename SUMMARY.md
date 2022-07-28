@@ -22,7 +22,7 @@
 * [Examples](for-referrers-applicants/examples.md)
 * [The Bounty Guild](for-referrers-applicants/the-bounty-guild.md)
 
-## 👥 For dev teams
+## For dev teams
 
 * [Create your profile](for-dev-teams/create-your-profile.md)
 * [Start sharing](for-dev-teams/for-sharers.md)
@@ -30,6 +30,6 @@
 
 ## 💡 RESOURCES
 
-* [Code of Conduct](resources/code-of-conduct.md)
-* [Community Guidelines](resources/community-guidelines.md)
-* [Privacy Policy](resources/privacy-policy.md)
+* [Code of Conduct](faqs-1/code-of-conduct.md)
+* [Community Guidelines](faqs-1/community-guidelines.md)
+* [Privacy Policy](faqs-1/privacy-policy.md)
