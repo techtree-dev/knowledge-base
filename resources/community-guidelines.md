@@ -92,6 +92,4 @@ Whilst constructive criticism when requested can be helpful and assist to furthe
 
 Any content found to be harassing or harmfully critical will be removed from the platform. Should a profile repeatedly engage in such behaviour, that profile will also be removed from TechTree.
 
-
-
 If you have any queries regarding the above, please reach out to us via info@techtree.dev
