@@ -20,7 +20,7 @@ The process of setting up a talent branch is simple. Working with TechTree, you 
 
 After signing up with TechTree, you will have a dashboard for your VC that helps you leverage your branding power. The dashboard looks something like this:
 
-![VC Talent Branch Dashboard](../.gitbook/assets/image.png)
+![VC Talent Branch Dashboard](<../.gitbook/assets/image (5).png>)
 
 Scrolling down the page, we can see some generic roles that people within your VC network and beyond can apply to or refer candidates to:
 

@@ -8,7 +8,7 @@ First, let's remember there are up to 4 [roles ](../roles-at-techtree/)(applican
 
 ![](../.gitbook/assets/Case1Company.png)
 
-Imagine Alice is on TechTree and sees the Senior Product Design role that the company Wayflyer has posted on the company Bounty Board with a bounty of **$10,000**💰.  Alice thinks that their friend, Bob, would be a great fit for this role. Alice **** sends their friend, Bob, a tracked link for the role. Allice has now become the **Referrer.** Alice also decides to split the bounty 70:30 with Bob if Bob gets hired.
+Imagine Alice is on TechTree and sees the Senior Product Design role that the company Wayflyer has posted on the company Bounty Board with a bounty of **$10,000**💰.  Alice thinks that their friend, Bob, would be a great fit for this role. Alice **** sends their friend, Bob, a tracked link for the role. Alice has now become the **Referrer.** The bounty can be split however the referrer likes, in this case Alice decides to split the bounty 70:30 with Bob if Bob gets hired.
 
 ![](<../.gitbook/assets/Screenshot 2022-01-07 at 11.52.25.png>)
 
