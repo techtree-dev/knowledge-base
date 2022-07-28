@@ -1,6 +1,6 @@
 # Pricing for VC Talent Branches
 
-The pricing structure for our VC Talent Branch is comprised of 2 fees:&#x20;
+The pricing structure for our VC Talent Branch has two fees that are only charged to the portfolio company:&#x20;
 
 * **Bounty:**
 
@@ -19,6 +19,10 @@ The transaction fee is paid to TechTree and is 25% of the bounty.
 
 ## For Example
 
-Let's say a super talented candidate is referred to your VC talent branch who is a great fit for one of your portfolio companies. The candidate applies and becomes an **Applicant**. This applicant is interviewed for a senior-level position at the portfolio company that carries a £10,000 bounty. The interview process goes well and the candidate is hired. The individual who referred the applicant becomes a **Referrer** and is entitled to the £10,000 bounty. Let us assume the referrer decides to split the bounty 70:30 with the applicant who was hired. The total cost to the portfolio company will look like this:
+Let's say a super talented candidate is referred to your VC talent branch who is a great fit for one of your portfolio companies.&#x20;
+
+The candidate applies and becomes an **Applicant**. This applicant is interviewed for a senior-level position at the portfolio company that carries a £10,000 bounty. The interview process goes well and the candidate is hired. The individual who referred the applicant becomes a **Referrer** and is entitled to the £10,000 bounty. Let us assume the referrer decides to split the bounty 70:30 with the applicant who was hired.&#x20;
+
+The total cost to the portfolio company will look like this:
 
 ![VC Talent Branch pricing example](../.gitbook/assets/VCTalentBranchPricingExample1.png)
