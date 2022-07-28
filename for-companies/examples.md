@@ -34,7 +34,7 @@ Charlie shares the link with his twitter audience and Alice follows it. Alice se
 
 Bob receives a referral link from Alice via WhatsApp and clicks follows it to the Wayflyer role on TechTree. **Bob** applies for the role and becomes an **Applicant**.
 
-A short time later, Bob is invited to interview. Bob impresses the WayFlyer team and is hired. After 2 mths (60 days) has passed if Bob is still working with Wayflyer, then the amount owed by Wayflyer would be $12,500, as Charlie, the Sharer, will be owed a fee equal to 10% of the bounty.
+A short time later, Bob is invited to interview. Bob impresses the WayFlyer team and is hired. After 3 months (90 days) has passed if Bob is still working with Wayflyer, then the amount owed by Wayflyer would be $12,500, as Charlie, the Sharer, will be owed a fee equal to 10% of the bounty.
 
 **This is what the transaction will look like:**
 
