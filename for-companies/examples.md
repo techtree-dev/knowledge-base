@@ -36,16 +36,16 @@ Bob receives a referral link from Alice via WhatsApp and clicks follows it to th
 
 A short time later, Bob is invited to interview. Bob impresses the WayFlyer team and is hired. After 2 mths (60 days) has passed if Bob is still working with Wayflyer, then the amount owed by Wayflyer would be $12,500, as Charlie, the Sharer, will be owed a fee equal to 10% of the bounty.
 
-**This is what the transaction should look like:**
+**This is what the transaction will look like:**
 
-| Player           | Fee Category    | Fee    |
-| ---------------- | --------------- | ------ |
-| Alice (Referrer) | Bounty          | $7,000 |
-| Bob (Applicant)  | Bounty          | $3,000 |
-| Charlie (Sharer) | Sharer Fee      | $1,000 |
-| TechTree         | Transaction Fee | $1,500 |
+| Player           | Fee Category    | Fee      |
+| ---------------- | --------------- | -------- |
+| Alice (Referrer) | Bounty          | $7,000   |
+| Bob (Applicant)  | Bounty          | $3,000   |
+| Charlie (Sharer) | Sharer Fee      | $1,000\* |
+| TechTree         | Transaction Fee | $1,500\* |
 
-
+\*fee is additional to the bounty
 
 ### **Case 3 - Creator, Sharer, Referrer and Applicant**
 
