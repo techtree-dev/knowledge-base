@@ -16,13 +16,13 @@ Bob, thinking that he would be a good fit, applies for the job. Bob **** has bec
 
 **This is what the transaction should look like:**
 
-| Player           | Fee Category    | Fee    |
-| ---------------- | --------------- | ------ |
-| Alice (Referrer) | Bounty          | $7,000 |
-| Bob (Applicant)  | Bounty          | $3,000 |
-| TechTree         | Transaction Fee | $1,500 |
+| Player           | Fee Category    | Fee      |
+| ---------------- | --------------- | -------- |
+| Alice (Referrer) | Bounty          | $7,000   |
+| Bob (Applicant)  | Bounty          | $3,000   |
+| TechTree         | Transaction Fee | $1,500\* |
 
-
+\*fee is additional to the bounty
 
 ### **Case 2 - Sharer, Referrer and Applicant**
 

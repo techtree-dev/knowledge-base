@@ -14,7 +14,7 @@ Tens of thousands of business worldwide rely on the code written by volunteers. 
 
 We see an opportunity to help address this issue. For many developers, the reward of helping a friend find a great role is enough - for these people we want to give them a chance to donate some or all of their rewards to projects - and be recognised for their contribution. Our goal is to create a culture of giving founding on the egalitarian roots of software engineering.
 
-What's more, we want to encourage companies and teams to set up regular donations to open source projects via TechTree. All of which can be cleanly and transparently facilitated by our Token (TechTree Token | TTT). See our [litepaper](broken-reference) for more details.
+What's more, we want to encourage companies and teams to set up regular donations to open source projects via TechTree. All of which can be cleanly and transparently facilitated by our Token (TechTree Token | TTT). See our [litepaper](litepaper.md) for more details.
 
 We think we're well placed to promote that behaviour as we can celebrate and promote teams & companies that are contributing. Helping to support the open source community whilst building community and credibility around dev teams at the same time.
 
