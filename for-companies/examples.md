@@ -14,7 +14,7 @@ Imagine Alice is on TechTree and sees the Senior Product Design role that the co
 
 Bob, thinking that he would be a good fit, applies for the job. Bob **** has become an **Applicant**. Let's say you loved how the Bob **** interviews and hire him. After 3 months (90 days) has passed if Bob is still working with Wayflyer, then the amount owed by Wayflyer would be $11,500.
 
-**This is what the transaction should look like:**
+**This is what the transaction will look like:**
 
 | Player           | Fee Category    | Fee      |
 | ---------------- | --------------- | -------- |
