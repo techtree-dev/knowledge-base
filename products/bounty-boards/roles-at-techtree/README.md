@@ -26,8 +26,8 @@ When someone joins TechTree using the tracked link you shared, you'll receive a 
 
 ⚠️ Know your rights:
 
-{% content-ref url="sharer-rewards.md" %}
-[sharer-rewards.md](sharer-rewards.md)
+{% content-ref url="sharer-rights.md" %}
+[sharer-rights.md](sharer-rights.md)
 {% endcontent-ref %}
 
 #### **4. Creator**
