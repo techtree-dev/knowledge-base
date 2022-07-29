@@ -4,7 +4,7 @@ First, let's remember there are up to 4 [roles ](../roles-at-techtree/)(applican
 
 ### **Case 1 - Referrer and Applicant**
 
-![](../.gitbook/assets/Case1Applicant.png)
+![](<../.gitbook/assets/Case1applicant- flipped.png>)
 
 Imagine Alice is on TechTree and sees a job on a Bounty Board with a bounty of **$10,000** 💰.  Alice thinks her friend, Bob would be a great fit for this role. **Alice** becomes a **Referrer** and sends Bob a tracked link for the role. Alice also decides to split the bounty 70:30 with Bob.
 
@@ -23,7 +23,7 @@ This is what the transaction should look like:
 
 ### **Case 2 - Sharer, Referrer and Applicant**
 
-![](<../.gitbook/assets/Case2Applicant (1).png>)
+![](<../.gitbook/assets/Case2applicant- flipped.png>)
 
 Charlie is looking for a role for himself on Techtree. However, he finds a super interesting role at WayFlyer that could be good for anyone in his network, so he clicks share which generates a personalised and tracked affiliated link for Charlie that points at the role he wants to share. **Charlie** has become a **Sharer**.
 
@@ -45,7 +45,7 @@ A short time later, Bob is invited to interview. Impresses the WayFlyer team and
 
 ### **Case 3 - Creator, Sharer, Referrer and Applicant**
 
-![](../.gitbook/assets/Case3Applicant.png)
+![](<../.gitbook/assets/Case 3 - flipped.png>)
 
 Satoshi Nakamoto joins TechTree and posts an article about cryptography. **Satoshi** has become a **Creator**.
 
