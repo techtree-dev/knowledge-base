@@ -13,14 +13,14 @@ _**Process for Companies Hiring**_
 3. **Publish**: We publish your role and the bounty to our hiring bounty boards.
 4. **Promote**: We promote each role to targeted audiences. We use the TechTree network for general roles, where we already trust people to refer high-calibre talent.
 
-We also _strongly_ encourage you to share the posting with your broader network especially your dev teams who can have their owned tracked links (which takes advantage of [Sharer rights](../roles-at-techtree/sharer-rewards.md)) and their own bounty boards (which leverages [Creator rights](../roles-at-techtree/creator-rights.md)).
+We also _strongly_ encourage you to share the posting with your broader network especially your dev teams who can have their owned tracked links (which takes advantage of [Sharer rights](roles-at-techtree/sharer-rewards.md)) and their own bounty boards (which leverages [Creator rights](roles-at-techtree/creator-rights.md)).
 
 _**Conditions**_
 
 * Anyone can submit a referral, and all referrals are bounty-eligible. Candidates can apply as themselves. We also have our own internal talent acquisition team who source for your company's roles.
 * Referrers can decide how much of the bounty they would like to keep and how much they'd like to share with the candidate.
 * The bounty is not due until your new hire starts.
-* The amount you owe can be up to 50% more than the bounty quoted on the role as we have to account for [Sharer rights](../roles-at-techtree/sharer-rewards.md) & [Creator rights](../roles-at-techtree/creator-rights.md) (as well as our 15% TechTree fee in the event that the hire is sourced from outside of your network\*\*).
+* The amount you owe can be up to 50% more than the bounty quoted on the role as we have to account for [Sharer rights](roles-at-techtree/sharer-rewards.md) & [Creator rights](roles-at-techtree/creator-rights.md) (as well as our 15% TechTree fee in the event that the hire is sourced from outside of your network\*\*).
 * The bounty is refundable for 60 days, in case your new hire doesn’t work out.
 
 

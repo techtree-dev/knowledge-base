@@ -32,13 +32,13 @@ To monitor this, we can track referrals to your dev teams and associates via tra
 
 This fee is only applicable if there is a Sharer involved in the hiring chain.
 
-A Sharer is the person who generates and shares a tracked TechTree link that causes either the Referrer or the Applicant to join the platform. Check out [roles ](../roles-at-techtree/)for more details on Sharers. You can find examples on when this fee is applicable under [examples](broken-reference).&#x20;
+A Sharer is the person who generates and shares a tracked TechTree link that causes either the Referrer or the Applicant to join the platform. Check out [roles ](roles-at-techtree/)for more details on Sharers. You can find examples on when this fee is applicable under [examples](broken-reference).&#x20;
 
 ### Creator Fee
 
 This fee is only applicable if there is a Creator involved in the hiring chain.
 
-A Creator is the person who creates something that directly leads to the Applicant submitting a claim on a Bounty, Check out [roles ](../roles-at-techtree/)for more details on Creators. You can find examples on when this fee is applicable under [examples](broken-reference).
+A Creator is the person who creates something that directly leads to the Applicant submitting a claim on a Bounty, Check out [roles ](roles-at-techtree/)for more details on Creators. You can find examples on when this fee is applicable under [examples](broken-reference).
 
 ### Picking a Bounty Price
 

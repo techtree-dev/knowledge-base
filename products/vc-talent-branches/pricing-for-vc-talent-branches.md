@@ -25,4 +25,4 @@ The candidate applies and becomes an **Applicant**. This applicant is interviewe
 
 The total cost to the portfolio company will look like this:
 
-![](<../.gitbook/assets/VC Talent Branch Case 1 - flipped.png>)
+![](<../../.gitbook/assets/VC Talent Branch Case 1 - flipped.png>)

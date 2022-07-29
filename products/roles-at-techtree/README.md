@@ -6,7 +6,7 @@ description: Learn the lingo
 
 When a Bounty claim is made, there can be as many as four different roles of people who can be rewarded:
 
-![The 4 possible roles when a bounty claim is made](<../.gitbook/assets/Characters of TechTree (1).png>)
+![The 4 possible roles when a bounty claim is made](<../../.gitbook/assets/Characters of TechTree (1).png>)
 
 #### **1. Applicant**
 

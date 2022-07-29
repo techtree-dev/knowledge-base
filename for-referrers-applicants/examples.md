@@ -1,6 +1,6 @@
 # Examples
 
-First, let's remember there are up to 4 [roles ](../roles-at-techtree/)(applicant, referrer, sharer, creator) and up to 4 [types of fees](../for-companies/pricing.md) in the claim chain for a bounty. This depends on the following cases:
+First, let's remember there are up to 4 [roles ](../products/roles-at-techtree/)(applicant, referrer, sharer, creator) and up to 4 [types of fees](../products/pricing.md) in the claim chain for a bounty. This depends on the following cases:
 
 ### **Case 1 - Referrer and Applicant**
 
