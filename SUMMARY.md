@@ -8,14 +8,14 @@
 * [Talent Branches](products/talent-branches/README.md)
   * [Pricing for Talent Branches](products/talent-branches/pricing-for-talent-branches.md)
 * [Bounty Boards](products/bounty-boards/README.md)
-  * [For Companies](products/bounty-boards/for-companies.md)
-  * [Pricing](products/bounty-boards/pricing.md)
+  * [For Companies](products/bounty-boards/for-companies/README.md)
+    * [Pricing](products/bounty-boards/for-companies/pricing.md)
+    * [Examples for Companies](products/bounty-boards/for-companies/examples-for-companies.md)
+  * [For Users](products/bounty-boards/for-users/README.md)
+    * [Examples for Users](products/bounty-boards/for-users/examples-for-users.md)
   * [Roles at TechTree](products/bounty-boards/roles-at-techtree/README.md)
     * [Sharer rights](products/bounty-boards/roles-at-techtree/sharer-rights.md)
     * [Creator rights](products/bounty-boards/roles-at-techtree/creator-rights.md)
-  * [Examples for Companies](products/bounty-boards/examples-for-companies.md)
-  * [Examples for Users](products/bounty-boards/examples-for-users.md)
-  * [Referring or applying](products/bounty-boards/referring-or-applying.md)
 
 ## 💡 RESOURCES
 

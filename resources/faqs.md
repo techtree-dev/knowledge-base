@@ -149,7 +149,7 @@ On top of that if you bring a new user to our platform you will receive 10% of t
 
 Are you looking to hire your next tech team members? You can use TechTree to tap into trusted networks and incentivise them to help you find your next hire. By adding a Bounty to roles that you share on TechTree, you allow developers, creators, communities and connectors in the TechTree network to refer their friends to your position. We'll help screen candidates and share them with you. If you hire a referred candidate you'll pay out the Bounty, plus a small fee to TechTree.
 
-[**Check out pricing detail here**](../products/bounty-boards/pricing.md).
+[**Check out pricing detail here**](../products/bounty-boards/for-companies/pricing.md).
 
 </details>
 
