@@ -49,7 +49,7 @@ A short time later, Bob is invited to interview. Bob impresses the WayFlyer team
 
 ### **Case 3 - Creator, Sharer, Referrer and Applicant**
 
-![](<../.gitbook/assets/Case 3 - flipped.png>)
+![](<../.gitbook/assets/Case 3 - flipped (1).png>)
 
 Satoshi Nakamoto joins TechTree and posts an article about cryptography. **Satoshi** has become a **Creator**.
 

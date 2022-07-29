@@ -14,9 +14,9 @@ The **person who is applying for the job**, need we say more? But we will anyway
 
 **2. Referrer**
 
-A referrer is **the one who suggests the bounty** 💰 **to the applicant**.&#x20;
+A referrer is **the person who refers a friend to a job.**&#x20;
 
-They are people who know people. If you know someone who's a great fit for a bounty, all you need to do is share the tracked referral link with them. If they apply and are successfully hired, congrats! You and your friend get to share the bounty, you for referring them and them for getting a new job!
+They are people who know people. If you know someone who's a great fit for a bounty, all you need to do is share the tracked referral link with them. If they accept your referral, apply and are successfully hired, congrats! You get a bounty for your efforts!
 
 #### **3. Sharer**
 
