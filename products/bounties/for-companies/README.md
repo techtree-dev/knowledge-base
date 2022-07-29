@@ -1,10 +1,6 @@
 # For Companies
 
-**What are Bounties** 💰 **?**
-
-Bounties are `requests for help`. As an example, if a new startup needs to hire a CTO, then they can publish the role on TechTree and attach a bounty to it. The bounty is a request to the community for help in finding a good candidate for the role.
-
-_**Process for Companies Hiring**_
+### **How to Post Your Open Roles To TechTree as a Company Hiring**
 
 1. **Identify roles**: Tell us what roles you need help with. Examples of roles hired through us are back-end engineer, Ruby developer, senior product manager, etc.
 2. **Set your bounty**: Set a bounty value of your choosing for each open role. See our [Pricing Page](pricing.md) for more info.

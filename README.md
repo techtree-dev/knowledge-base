@@ -25,7 +25,7 @@ After, we will extend the concept of bounties and use it to fuel a community whe
 
 The next step is bringing content creation to life on TechTree. If you're a content creator, your options for generating income from your content are currently super limited.
 
-Thanks to the [**Creator rights**](products/bounty-boards/roles-at-techtree/creator-rights.md), everything that you create on TechTree, you own. Our platform links a payout to content that helps create a successful bounty claim. In principle, this means that the more you create and share knowledge, the more you can earn on TechTree.
+Thanks to the [**Creator rights**](products/bounties/roles-at-techtree/creator-rights.md), everything that you create on TechTree, you own. Our platform links a payout to content that helps create a successful bounty claim. In principle, this means that the more you create and share knowledge, the more you can earn on TechTree.
 
 
 

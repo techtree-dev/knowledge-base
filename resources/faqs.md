@@ -149,7 +149,7 @@ On top of that if you bring a new user to our platform you will receive 10% of t
 
 Are you looking to hire your next tech team members? You can use TechTree to tap into trusted networks and incentivise them to help you find your next hire. By adding a Bounty to roles that you share on TechTree, you allow developers, creators, communities and connectors in the TechTree network to refer their friends to your position. We'll help screen candidates and share them with you. If you hire a referred candidate you'll pay out the Bounty, plus a small fee to TechTree.
 
-[**Check out pricing detail here**](../products/bounty-boards/for-companies/pricing.md).
+[**Check out pricing detail here**](../products/bounties/for-companies/pricing.md).
 
 </details>
 
@@ -227,6 +227,6 @@ We don't require exclusivity - so it's up to if you use share only our job board
 
 The #1 challenge of VC backed companies is attracting top talent. TechTree can help you access talent from your network and 100s of diverse tech communities to share with your entire portfolio at once.
 
-We've created [**VC Talent Branches**](../products/talent-branches/) to help you get going!
+We've created [**VC Talent Branches**](../products/talent-branches/for-companies/) to help you get going!
 
 </details>
