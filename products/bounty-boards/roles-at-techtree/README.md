@@ -4,9 +4,9 @@ description: Learn the lingo
 
 # Roles at TechTree
 
-When a Bounty claim is made, there can be as many as four different roles of people who can be rewarded:
+There are 4 types of roles at TechTree:
 
-![The 4 possible roles when a bounty claim is made](<../../.gitbook/assets/Characters of TechTree (1).png>)
+![The 4 possible roles](<../../../.gitbook/assets/Characters of TechTree (1).png>)
 
 #### **1. Applicant**
 
