@@ -1,16 +1,16 @@
-# Examples
+# Examples for Companies
 
-![Learn more about each of these roles here](<../.gitbook/assets/Characters of TechTree (1).png>)
+![Learn more about each of these roles here](<../../.gitbook/assets/Characters of TechTree (1).png>)
 
-First, let's remember there are up to 4 [roles ](roles-at-techtree/)(applicant, referrer, sharer, creator) and up to 4 [types of fees](pricing.md) in the claim chain for a bounty. This depends on the following cases:
+First, let's remember there are up to 4 [roles ](../roles-at-techtree/)(applicant, referrer, sharer, creator) and up to 4 [types of fees](pricing.md) in the claim chain for a bounty. This depends on the following cases:
 
 ### **Case 1 - Referrer and Applicant**
 
-![](<../.gitbook/assets/Case 1 - flipped.png>)
+![](<../../.gitbook/assets/Case 1 - flipped.png>)
 
 Imagine Alice is on TechTree and sees the Senior Product Design role that the company Wayflyer has posted on the company Bounty Board with a bounty of **$10,000**💰.  Alice thinks that their friend, Bob, would be a great fit for this role. Alice **** sends their friend, Bob, a tracked link for the role. Alice has now become the **Referrer.** The bounty can be split however the referrer likes, in this case Alice decides to split the bounty 70:30 with Bob if Bob gets hired.
 
-![](<../.gitbook/assets/Screenshot 2022-01-07 at 11.52.25.png>)
+![](<../../.gitbook/assets/Screenshot 2022-01-07 at 11.52.25.png>)
 
 Bob, thinking that he would be a good fit, applies for the job. Bob **** has become an **Applicant**. Let's say you loved how the Bob **** interviews and hire him. After 3 months (90 days) has passed if Bob is still working with Wayflyer, then the amount owed by Wayflyer would be $11,500.
 
@@ -26,7 +26,7 @@ Bob, thinking that he would be a good fit, applies for the job. Bob **** has bec
 
 ### **Case 2 - Sharer, Referrer and Applicant**
 
-![](<../.gitbook/assets/Case 2 - flipped.png>)
+![](<../../.gitbook/assets/Case 2 - flipped.png>)
 
 Charlie is looking for a role for himself on Techtree. However, he finds a super interesting role at WayFlyer that could be good for anyone in his network, so he clicks share which generates a personalized and tracked affiliate link for Charlie that points at the role he wants to share. **Charlie** has become a **Sharer**.
 
@@ -49,7 +49,7 @@ A short time later, Bob is invited to interview. Bob impresses the WayFlyer team
 
 ### **Case 3 - Creator, Sharer, Referrer and Applicant**
 
-![](<../.gitbook/assets/Case 3 - flipped (1).png>)
+![](<../../.gitbook/assets/Case 3 - flipped (1).png>)
 
 Satoshi Nakamoto joins TechTree and posts an article about cryptography. **Satoshi** has become a **Creator**.
 

@@ -19,6 +19,6 @@ You can make a **max of 10 referrals** on TechTree for starters. Want more? [Con
 \
 For a fully worked example please see below 👇
 
-{% content-ref url="examples.md" %}
-[examples.md](examples.md)
+{% content-ref url="examples-for-users.md" %}
+[examples-for-users.md](examples-for-users.md)
 {% endcontent-ref %}

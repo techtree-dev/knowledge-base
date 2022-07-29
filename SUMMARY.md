@@ -5,21 +5,16 @@
 
 ## 😎 Products
 
+* [Talent Branches](products/talent-branches/README.md)
+  * [Pricing for Talent Branches](products/talent-branches/pricing-for-talent-branches.md)
+* [Bounty Boards](products/bounty-boards/README.md)
+  * [Pricing](products/bounty-boards/pricing.md)
+  * [Examples for Companies](products/bounty-boards/examples-for-companies.md)
+  * [Examples for Users](products/bounty-boards/examples-for-users.md)
+  * [Referring or applying](products/bounty-boards/referring-or-applying.md)
 * [Roles at TechTree](products/roles-at-techtree/README.md)
   * [Sharer rewards](products/roles-at-techtree/sharer-rewards.md)
   * [Creator rights](products/roles-at-techtree/creator-rights.md)
-* [VC Talent Branches](products/vc-talent-branches/README.md)
-  * [Pricing for VC Talent Branches](products/vc-talent-branches/pricing-for-vc-talent-branches.md)
-* [Hiring on TechTree](products/hiring-on-techtree.md)
-* [Pricing](products/pricing.md)
-* [Examples](products/examples.md)
-* [Post a Hiring Bounty](products/post-a-hiring-bounty.md)
-
-## 💯 FOR REFERRERS / APPLICANTS
-
-* [Referring or applying](for-referrers-applicants/referring-or-applying.md)
-* [Examples](for-referrers-applicants/examples.md)
-* [Page 1](for-referrers-applicants/page-1.md)
 
 ## 💡 RESOURCES
 

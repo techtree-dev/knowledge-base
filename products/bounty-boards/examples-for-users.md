@@ -1,14 +1,14 @@
-# Examples
+# Examples for Users
 
-First, let's remember there are up to 4 [roles ](../products/roles-at-techtree/)(applicant, referrer, sharer, creator) and up to 4 [types of fees](../products/pricing.md) in the claim chain for a bounty. This depends on the following cases:
+First, let's remember there are up to 4 [roles ](../roles-at-techtree/)(applicant, referrer, sharer, creator) and up to 4 [types of fees](pricing.md) in the claim chain for a bounty. This depends on the following cases:
 
 ### **Case 1 - Referrer and Applicant**
 
-![](<../.gitbook/assets/Case1applicant- flipped.png>)
+![](<../../.gitbook/assets/Case1applicant- flipped.png>)
 
 Imagine Alice is on TechTree and sees a job on a Bounty Board with a bounty of **$10,000** 💰.  Alice thinks her friend, Bob would be a great fit for this role. **Alice** becomes a **Referrer** and sends Bob a tracked link for the role. Alice also decides to split the bounty 70:30 with Bob.
 
-![](<../.gitbook/assets/Screenshot 2022-01-07 at 11.52.25.png>)
+![](<../../.gitbook/assets/Screenshot 2022-01-07 at 11.52.25.png>)
 
 Bob thinks the role is right up their street and applies. **Bob** has become an **Applicant**. Because Bob and the role are a match made in Heaven, Bob is hired. Alice and Bob split the bounty between them because this type of friendship should be rewarded!
 
@@ -23,7 +23,7 @@ This is what the transaction should look like:
 
 ### **Case 2 - Sharer, Referrer and Applicant**
 
-![](<../.gitbook/assets/Case2applicant- flipped.png>)
+![](<../../.gitbook/assets/Case2applicant- flipped.png>)
 
 Charlie is looking for a role for himself on Techtree. However, he finds a super interesting role at WayFlyer that could be good for anyone in his network, so he clicks share which generates a personalised and tracked affiliated link for Charlie that points at the role he wants to share. **Charlie** has become a **Sharer**.
 
@@ -45,7 +45,7 @@ A short time later, Bob is invited to interview. Impresses the WayFlyer team and
 
 ### **Case 3 - Creator, Sharer, Referrer and Applicant**
 
-![](<../.gitbook/assets/Case 3 - flipped.png>)
+![](<../../.gitbook/assets/Case 3 - flipped.png>)
 
 Satoshi Nakamoto joins TechTree and posts an article about cryptography. **Satoshi** has become a **Creator**.
 
@@ -59,7 +59,7 @@ A short time later, Bob is invited to interview. Impresses the WayFlyer team and
 
 **The Role**
 
-![](<../.gitbook/assets/Screenshot 2022-01-07 at 11.52.25.png>)
+![](<../../.gitbook/assets/Screenshot 2022-01-07 at 11.52.25.png>)
 
 **The Workings**
 
