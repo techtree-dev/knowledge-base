@@ -4,7 +4,7 @@
 
 The Bounty Hunter's Guild is **a weekly newsletter** where you'll be kept up-to-date on all the latest jobs and Bounties on TechTree! Whether you're a Referrer, an Applicant or a Sharer, there will be tips and tricks for all.
 
-[<mark style="color:green;">**Sign up to the Bounty Guild here!**</mark>](https://techtree-dev.typeform.com/bountyguild)<mark style="color:green;">****</mark>
+### [<mark style="color:green;">**Sign up to the Bounty Guild here!**</mark>](https://techtree-dev.typeform.com/bountyguild)<mark style="color:green;">****</mark>
 
 ## What we share
 
@@ -22,3 +22,14 @@ Here's a snippet of how it looks:
 
 **Sharers** - if you don’t want to miss new Bounties you could add to your customised Bounty Board before they are gone
 
+## How do I subscribe?
+
+Take less than a minute to enter your details and subscribe here:
+
+### [<mark style="color:green;">**Subscribe now**</mark>](https://techtree-dev.typeform.com/bountyguild)<mark style="color:green;">****</mark>
+
+## Invite your friends!
+
+Want to spread the word? Use our example messaging below to invite your network to join the Bounty Guild.
+
+_“Hey, I’ve just joined this newsletter and I think you'll like it! Click here to check it out:_ [_https://techtree-dev.typeform.com/bountyguild_](https://techtree-dev.typeform.com/bountyguild)_”_
