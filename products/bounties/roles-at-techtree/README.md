@@ -6,7 +6,7 @@ description: Learn the lingo
 
 There are 4 types of roles at TechTree:
 
-![The 4 possible roles](<../../../.gitbook/assets/Characters of TechTree (1).png>)
+![](../../../.gitbook/assets/RolesBannerNoExclamation.png)
 
 #### **1. Applicant**
 
