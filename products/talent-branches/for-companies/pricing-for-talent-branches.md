@@ -23,7 +23,7 @@ The transaction fee is paid to TechTree and is 25% of the bounty.
 
 
 
-**If the candidate has directly applied to the Branches, the trancation fee is the only fee for hires made through Branches.**&#x20;
+**If the candidate has directly applied to the Branches, the transaction fee is the only fee for hires made through Branches.**&#x20;
 
 ## For Example
 
