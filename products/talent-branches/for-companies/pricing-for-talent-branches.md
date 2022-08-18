@@ -8,7 +8,7 @@ The pricing structure for our VC Talent Branch has two fees that are only charge
 
 * **Bounty:**
 
-&#x20;The bounty is paid to the referrer and based on the seniority/skill level of the position and is laid out in the table below:
+The bounty is paid to the referrer and based on the seniority/skill level of the position and is laid out in the table below:
 
 | Seniority/Skill Level | Bounty  |
 | --------------------- | ------- |
@@ -23,7 +23,7 @@ The transaction fee is paid to TechTree and is 25% of the bounty.
 
 
 
-**If the candidate has directly applied to the Branches, the transaction fee is the only fee for hires made through Branches.**&#x20;
+**If the candidate has directly applied to the Branches, the transaction fee is the only fee for hires made.**&#x20;
 
 ## For Example
 
