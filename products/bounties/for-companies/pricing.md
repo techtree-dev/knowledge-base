@@ -23,10 +23,9 @@ After Techtree's Beta phase, the subscription fee will rise to £500 per month. 
 
 We only get paid when we help you succeed:
 
-* If the hire comes from **inside your network**, there is no bounty fee (**£ 0**).
-* If the hire comes from **outside your network**, TechTree's fees are **15% of the bounty**.&#x20;
+* TechTree's fees are **15% of the bounty**.&#x20;
 
-To monitor this, we can track referrals to your dev teams and associates via tracked links. You can find more details and a worked example under [examples](broken-reference).
+You can find more details and a worked example under [examples](broken-reference).
 
 ### Sharer Fee
 
