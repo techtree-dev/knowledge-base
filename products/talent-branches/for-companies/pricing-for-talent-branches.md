@@ -4,7 +4,9 @@ description: Payment scenarios for hiring through Branches
 
 # Pricing for Talent Branches
 
-The pricing structure for our VC Talent Branch has two fees that are only charged to the portfolio company:&#x20;
+The pricing structure for our VC Talent Branch has two payment scenarios:&#x20;
+
+1. **If the candidate has been referred:**
 
 * **Bounty:**
 
@@ -23,7 +25,16 @@ The transaction fee is paid to TechTree and is 25% of the bounty.
 
 
 
-**If the candidate has directly applied to the Branches, the transaction fee is the only fee for hires made.**&#x20;
+&#x20; 2**. If the candidate has directly applied to the Branches:**&#x20;
+
+The company only pays the transcation fee, the breakdown below:
+
+| Seniority/Skill Level | Bounty  |
+| --------------------- | ------- |
+| Junior-level          | $500    |
+| Mid-level             | $1,2500 |
+| Senior-level          | $2,500  |
+| C-level               | $3,750  |
 
 ## For Example
 
