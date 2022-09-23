@@ -23,19 +23,6 @@ The bounty is paid to the referrer and based on the seniority/skill level of the
 
 The transaction fee is paid to TechTree and is 25% of the bounty.
 
-
-
-&#x20; 2**.  If the candidate has directly applied to the Branches:**&#x20;
-
-The company only pays the transaction fee, the breakdown below:
-
-| Seniority/Skill Level | Bounty  |
-| --------------------- | ------- |
-| Junior-level          | $500    |
-| Mid-level             | $1,2500 |
-| Senior-level          | $2,500  |
-| C-level               | $3,750  |
-
 ## For Example
 
 Let's say a super talented candidate is referred to your VC talent branch who is a great fit for one of your portfolio companies.&#x20;
