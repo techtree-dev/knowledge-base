@@ -12,5 +12,5 @@ Bounty boards are where users can find available hiring bounties. The main TechT
 
 Bounty boards are also how companies can share their open positions and hiring bounties on TechTree. Each company will have its own job board that contains the open hiring bounties that the company is hiring for. These bounties are all amalgamated in the main bounty board on TechTree as well. Learn more about the process of creating a company bounty board in the For Companies section.
 
-In addition to the main bounty board, TechTree allows users to create their own custom bounty boards. This bounty board comes with a tracked link that lets you get a share of any bounty filled if someone clicks your link and ends up getting hired! Learn more about how users can utilize bounties in the [For Users](../talent-branches/for-users.md) section.
+In addition to the main bounty board, TechTree allows users to create their own custom bounty boards. This bounty board comes with a tracked link that lets you get a share of any bounty filled if someone clicks your link and ends up getting hired! Learn more about how users can utilize bounties in the [For Users](../vc-branches/for-users.md) section.
 
