@@ -27,6 +27,10 @@
   * [Inviting Candidates](product-tour/branches-for-vcs/inviting-candidates.md)
   * [Sharing Branch](product-tour/branches-for-vcs/sharing-branch.md)
   * [Introducing Candidates](product-tour/branches-for-vcs/introducing-candidates.md)
+* [Branches for Users](product-tour/branches-for-users/README.md)
+  * [Branch Setup](product-tour/branches-for-users/branch-setup.md)
+  * [Inviting Candidates](product-tour/branches-for-users/inviting-candidates.md)
+  * [Sharing Branch](product-tour/branches-for-users/sharing-branch.md)
 
 ## 💡 RESOURCES
 

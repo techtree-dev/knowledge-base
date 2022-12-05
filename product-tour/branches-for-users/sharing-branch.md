@@ -16,7 +16,3 @@ Share your Branch accross your channels to activate your network:
 2. Click 'Copy'
 3. Paste the link to your social media, newsletter or share in any communities&#x20;
 4. People who click on your link will be directed to your Branch landing page, so they can register for your Branch
-
-{% hint style="info" %}
-Remember all candidates added to your Branch via 'Sharing' will have a zero cost per hire cost for portcos.&#x20;
-{% endhint %}
