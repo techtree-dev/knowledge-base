@@ -19,6 +19,15 @@
     * [Sharer rights](products/bounties/roles-at-techtree/sharer-rights.md)
     * [Creator rights](products/bounties/roles-at-techtree/creator-rights.md)
 
+## 🔦 Product Tour
+
+* [Branches for VCs](product-tour/branches-for-vcs/README.md)
+  * [Branch Setup](product-tour/branches-for-vcs/branch-setup.md)
+  * [Inviting Companies](product-tour/branches-for-vcs/inviting-companies.md)
+  * [Inviting Candidates](product-tour/branches-for-vcs/inviting-candidates.md)
+  * [Sharing Branch](product-tour/branches-for-vcs/sharing-branch.md)
+  * [Introducing Candidates](product-tour/branches-for-vcs/introducing-candidates.md)
+
 ## 💡 RESOURCES
 
 * [FAQs](resources/faqs.md)
