@@ -3,7 +3,7 @@
 * [Overview](README.md)
 * [Our Vision](our-vision.md)
 
-## 😎 Products
+## Products
 
 * [VC Branches](products/vc-branches/README.md)
   * [For Companies](products/vc-branches/for-companies/README.md)
@@ -19,7 +19,7 @@
     * [Sharer rights](products/bounties/roles-at-techtree/sharer-rights.md)
     * [Creator rights](products/bounties/roles-at-techtree/creator-rights.md)
 
-## 🔦 Product Tour
+## Product Tour
 
 * [Branches for VCs](product-tour/branches-for-vcs/README.md)
   * [Branch Setup](product-tour/branches-for-vcs/branch-setup.md)
@@ -32,7 +32,7 @@
   * [Inviting Candidates](product-tour/branches-for-users/inviting-candidates.md)
   * [Sharing Branch](product-tour/branches-for-users/sharing-branch.md)
 
-## 💡 RESOURCES
+## RESOURCES
 
 * [FAQs](resources/faqs.md)
 * [The Bounty Guild](resources/the-bounty-guild.md)
