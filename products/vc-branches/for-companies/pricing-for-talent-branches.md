@@ -18,7 +18,7 @@ The bounty is paid to the referrer and based on the seniority/skill level of the
 | Senior-level          | $12,000 |
 | C-level               | $18,000 |
 
-* **Transaction fee:**
+* **TechTree fee:**
 
 The transaction fee is paid to TechTree and is 25% of the bounty.
 
