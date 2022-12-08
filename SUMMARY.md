@@ -31,6 +31,12 @@
   * [Branch Setup](product-tour/branches-for-users/branch-setup.md)
   * [Inviting Candidates](product-tour/branches-for-users/inviting-candidates.md)
   * [Sharing Branch](product-tour/branches-for-users/sharing-branch.md)
+* [Branches for Companies](product-tour/branches-for-companies/README.md)
+  * [Branch Setup](product-tour/branches-for-companies/branch-setup.md)
+  * [Inviting Companies](product-tour/branches-for-companies/inviting-companies.md)
+  * [Inviting Candidates](product-tour/branches-for-companies/inviting-candidates.md)
+  * [Sharing Branch](product-tour/branches-for-companies/sharing-branch.md)
+  * [Introducing Candidates](product-tour/branches-for-companies/introducing-candidates.md)
 
 ## RESOURCES
 

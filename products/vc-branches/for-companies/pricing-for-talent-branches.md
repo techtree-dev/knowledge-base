@@ -14,10 +14,9 @@ The bounty is paid to the referrer and based on the seniority/skill level of the
 
 | Seniority/Skill Level | Bounty  |
 | --------------------- | ------- |
-| Junior-level          | $2,000  |
-| Mid-level             | $5,000  |
-| Senior-level          | $10,000 |
-| C-level               | $15,000 |
+| Mid-level             | $6,000  |
+| Senior-level          | $12,000 |
+| C-level               | $18,000 |
 
 * **Transaction fee:**
 
