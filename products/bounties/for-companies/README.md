@@ -17,12 +17,3 @@ _**Conditions**_
 * The amount you owe can be up to 50% more than the bounty quoted on the role as we have to account for [Sharer rights](../roles-at-techtree/sharer-rights.md) & [Creator rights](../roles-at-techtree/creator-rights.md) (as well as our 15% TechTree fee in the event that the hire is sourced from outside of your network\*\*).
 * The bounty is refundable for 60 days, in case your new hire doesn’t work out.
 
-
-
-### Get started 🚀
-
-1. **Provide your details**: Complete a typeform with 4 questions.
-
-{% embed url="https://techtree-dev.typeform.com/to/ilF2JgiB" %}
-
-2\. **Provide your open roles**: You will receive a follow-up Typeform, where we collect links to your open roles and you can set a % of the annual salary that you'd like the bounty to be at.
