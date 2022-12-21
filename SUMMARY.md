@@ -5,10 +5,10 @@
 
 ## Products
 
-* [VC Branches](products/vc-branches/README.md)
-  * [For Companies](products/vc-branches/for-companies/README.md)
-    * [Pricing for Talent Branches](products/vc-branches/for-companies/pricing-for-talent-branches.md)
-  * [For Users](products/vc-branches/for-users.md)
+* [Branches](products/branches/README.md)
+  * [For VCs](products/branches/for-vcs/README.md)
+    * [Pricing for Talent Branches](products/branches/for-vcs/pricing-for-talent-branches.md)
+  * [For Users](products/branches/for-users.md)
 * [Bounties](products/bounties/README.md)
   * [For Companies](products/bounties/for-companies/README.md)
     * [Pricing](products/bounties/for-companies/pricing.md)
