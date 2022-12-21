@@ -1,6 +1,6 @@
 # Our Vision
 
-We're building the **first socioeconomic network for devs & their teams**. A platform that helps devs & tech people unlock the value of their networks, knowledge and data.
+We're building the **first socioeconomic network for tech people**. A platform that helps tech people unlock the value of their networks, knowledge and data.
 
 ### The future
 
@@ -8,7 +8,7 @@ Hiring bounties and content bounties are just the beginning. We can envisage all
 
 ### How the TechTree community can support open source?
 
-Tens of thousands of business worldwide rely on the code written by volunteers. This is not right, nor is it sustainable without issues cropping up.
+Tens of thousands of businesses worldwide rely on the code written by volunteers. This is not right, nor is it sustainable without issues cropping up.
 
 ![Image by Randall Munroe via wikipedia.](<.gitbook/assets/Screenshot 2022-01-14 at 12.20 1.png>)
 

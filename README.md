@@ -1,6 +1,6 @@
 # Overview
 
-We're building the **first socio-economic network for tech people**. No spam. Own what you create. Support for open-source. A platform where people in the tech space can unlock the value of their networks, knowledge and data. For us, bounties are the key - and we've started with hiring bounties.
+We're building the **first socio-economic network for tech people**. A platform where people in the tech space can unlock the value of their networks, knowledge and data. For us, bounties are the key - and we've started with hiring bounties.
 
 {% hint style="success" %}
 💡 **People should be rewarded for the value of their networks, the content they create, and their promotion of our community**
@@ -21,7 +21,7 @@ There are two key areas we're focused on:
 
 We are starting with **hiring bounties** 💰 since they are a great way for companies to hire, and for users to realise the value of their networks. The goal is to create a fair incentive structure that encourages people to think of people they know and refer them to companies we're connected to. It's about getting a few highly personal recommendations rather than an endless stream of cold emails. In our opinion, it's people and their networks - that are best placed to attract new developers to a team.
 
-After, we will extend the concept of bounties and use it to fuel a community where devs can learn, connect, share knowledge and team up.
+After, we will extend the concept of bounties and use it to fuel a community where people can learn, connect, share knowledge and team up.
 
 The next step is bringing content creation to life on TechTree. If you're a content creator, your options for generating income from your content are currently super limited.
 
