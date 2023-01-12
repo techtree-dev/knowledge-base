@@ -32,7 +32,8 @@
   * [Inviting Candidates](product-tour/branches-for-users/inviting-candidates.md)
   * [Sharing Branch](product-tour/branches-for-users/sharing-branch.md)
   * [Inviting Companies](product-tour/branches-for-users/inviting-companies.md)
-* [Branches for Companies](product-tour/branches-for-companies.md)
+* [Branches for Companies](product-tour/branches-for-companies/README.md)
+  * [Posting Jobs](product-tour/branches-for-companies/posting-jobs.md)
 
 ## RESOURCES
 
