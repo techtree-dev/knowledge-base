@@ -15,5 +15,5 @@ Invite portfolio companies to join your Branch directly from the dashboard:
 3. Invite Company popup > add an email address or multiple addresses&#x20;
 4. TechTree has included some pre-set copy but you can update to suit your language
 5. Email sent to portcos including a link to your Branch landing page
-6. Porcos registers through your landing page
+6. Portcos registers through your landing page
 
