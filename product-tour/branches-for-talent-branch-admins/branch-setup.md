@@ -10,6 +10,6 @@ Create a Branch that represents you.&#x20;
 Please take 2 mins to complete our onboarding form where you can share the information we need to customise your Talent Branch landing pages.\
 
 
-ASK: Complete the onboarding form: [Here](https://techtree-dev.typeform.com/to/ibwDdoyI)
+ASK: Join our waiting list: [Here](https://branches.techtree.dev/signup)
 {% endhint %}
 
