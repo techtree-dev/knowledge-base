@@ -1,6 +1,6 @@
 # Overview
 
-We're building the **first socio-economic network for tech people**. A platform where people can unlock the value of their networks, knowledge and data. For us, bounties are the key - and we've started with hiring bounties.
+We're building the **first socio-economic network for tech people**. A platform where people can unlock the value of their networks, knowledge and reputation. For us, bounties are the key - and we've started with hiring bounties.
 
 {% hint style="success" %}
 💡 **People should be rewarded for the value of their networks, the content they create, and their promotion of our community**
