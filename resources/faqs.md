@@ -227,6 +227,6 @@ We don't require exclusivity - so it's up to if you use share only our job board
 
 The #1 challenge of VC backed companies is attracting top talent. TechTree can help you access talent from your network and 100s of diverse tech communities to share with your entire portfolio at once.
 
-We've created [**VC Talent Branches**](../products/branches/for-vcs/) to help you get going!
+We've created [**VC Talent Branches**](../products/branches/for-vcs.md) to help you get going!
 
 </details>

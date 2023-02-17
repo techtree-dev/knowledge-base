@@ -6,9 +6,9 @@
 ## Products
 
 * [Branches](products/branches/README.md)
-  * [For VCs](products/branches/for-vcs/README.md)
-    * [Pricing for Talent Branches](products/branches/for-vcs/pricing-for-talent-branches.md)
+  * [For VCs](products/branches/for-vcs.md)
   * [For Users](products/branches/for-users.md)
+  * [Key Terms for Talent Branches](products/branches/key-terms-for-talent-branches.md)
 * [Bounties](products/bounties/README.md)
   * [For Companies](products/bounties/for-companies/README.md)
     * [Pricing](products/bounties/for-companies/pricing.md)
