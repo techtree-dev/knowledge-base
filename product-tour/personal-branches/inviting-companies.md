@@ -4,7 +4,7 @@ description: Learn how to get your network of companies live in your Branch
 
 # Inviting Companies
 
-Invite your network of companies to join your Branch directly from the dashboard:
+Invite your network of companies to join your Branch directly from the dashboard. This will enable the companies you invite be notified about your talent branch. Here's how it is done:
 
 <figure><img src="../../.gitbook/assets/Inviting Companies.gif" alt=""><figcaption></figcaption></figure>
 

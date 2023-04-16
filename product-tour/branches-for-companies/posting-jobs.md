@@ -4,9 +4,9 @@ description: Learn how to add your open positions to TechTree
 
 # Posting Jobs
 
-Posting your jobs directly from the dashboard:
+You can post your open job positions directly from the dashboard to be visible by candidates to apply. Here's how it's done:
 
-<figure><img src="../../.gitbook/assets/https___techtree.dev_dashboard_company_candidates - 12 January 2023.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/https___techtree.dev_dashboard_company_candidates - 12 January 2023.gif" alt=""><figcaption><p>Posting your jobs directly from the dashboard</p></figcaption></figure>
 
 ### How to post jobs:
 

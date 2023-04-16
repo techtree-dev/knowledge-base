@@ -2,11 +2,11 @@
 description: Learn how to get in touch with candidates
 ---
 
-# Contacting People
+# Contacting Candidates
 
-Contact candidates from the dashboard:
+When you are interested to learn more about a candidate in your pool, feel free to visit their resumes/links, and send them a brief message if interested. You can edit the custom message, too. They will be notified about your interest for a specific role. Here's how it's done:
 
-<figure><img src="../../.gitbook/assets/https___techtree.dev_dashboard_company_candidates - 12 January 2023 (2).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/https___techtree.dev_dashboard_company_candidates - 12 January 2023 (2).gif" alt=""><figcaption><p>Contact candidates from the dashboard</p></figcaption></figure>
 
 ### How to contact candidates:
 
