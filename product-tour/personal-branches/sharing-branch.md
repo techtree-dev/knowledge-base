@@ -16,4 +16,4 @@ Besides inviting candidates, there is another way to let people know about your 
 2. Click 'Copy'
 3. Paste the link to your social media, newsletter or share in any communities&#x20;
 4. People who click on your link will be directed to your Branch landing page, so they can register for your Branch
-5. After each person joins, you will receive an email titled as"Someone from your network has registered to join your Branch!"
+5. After each person joins, you will receive an email titled as "Someone from your network has registered to join your Branch!"
